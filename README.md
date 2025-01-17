@@ -1,17 +1,17 @@
-# TechDesignJunior
+# Junior Tech Designer
 
 ## Instructions
-Begin by making a fork of this repository on GitHub.
-Install Unity 2022.3.7f1
-Clone your forked repository to your local machine.
-Read the documentation and update the project to meet the Requirements listed below.
-Push your changes to your forked github repository and open a Pull Request when complete.
+Begin by making a fork of this repository on GitHub.<br/>
+Install Unity 2022.3.7f1 <br/>
+Clone your forked repository to your local machine. <br/>
+Read the documentation and update the project to meet the Requirements listed below. <br/>
+Push your changes to your forked github repository and open a Pull Request when complete. <br/>
 
 ## Documentation
  - ProgressFlags are Key-Value pairs that are used to record events that have happened or things the player has done.
  - Player's inventory can only hold one item. If the player picks up an item while holding a different item the currently held item will be returned to its original position.
  - Interactions
- 	- InteractableObjects can are used to start cutscenes and set progress flags. They require an InteractableGraph asset to decide if they can run or not.
+ 	- InteractableObjects are used to start cutscenes and set progress flags. They require an InteractableGraph asset to decide if they can run or not.
  	- InteractableGraphs are scriptable objects that contain a graph of nodes. These node types control the branching of cutscenes.
  		- You can create interactable graph options by using the create menu in the project tab.
  		- Select an interactable graph and click the edit button in the inspector tab to open the graph editor window.
