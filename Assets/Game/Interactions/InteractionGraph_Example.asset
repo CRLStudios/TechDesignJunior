@@ -1,64 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-6660911896826792613
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 133e30de4e7a4a3e9637fc5899b3e23c, type: 3}
-  m_Name: Greater Than
-  m_EditorClassIdentifier: 
-  graph: {fileID: 11400000}
-  position: {x: -88, y: -120}
-  ports:
-    keys:
-    - input
-    - false
-    - true
-    values:
-    - _fieldName: input
-      _node: {fileID: -6660911896826792613}
-      _typeQualifiedName: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
-        PublicKeyToken=b77a5c561934e089
-      connections:
-      - fieldName: value
-        node: {fileID: -1697107866961830942}
-        reroutePoints: []
-      _direction: 0
-      _connectionType: 1
-      _typeConstraint: 0
-      _dynamic: 0
-    - _fieldName: false
-      _node: {fileID: -6660911896826792613}
-      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
-        Culture=neutral, PublicKeyToken=null
-      connections:
-      - fieldName: previous
-        node: {fileID: 3873607087042480134}
-        reroutePoints: []
-      _direction: 1
-      _connectionType: 1
-      _typeConstraint: 0
-      _dynamic: 0
-    - _fieldName: true
-      _node: {fileID: -6660911896826792613}
-      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
-        Culture=neutral, PublicKeyToken=null
-      connections:
-      - fieldName: previous
-        node: {fileID: 8350602715007881947}
-        reroutePoints: []
-      _direction: 1
-      _connectionType: 1
-      _typeConstraint: 0
-      _dynamic: 0
-  input: 0
-  value: 0
---- !u!114 &-2149349958610910938
+--- !u!114 &-4056090039355772061
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -71,68 +13,23 @@ MonoBehaviour:
   m_Name: Interaction Start
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: -616, y: -104}
+  position: {x: -440, y: -56}
   ports:
     keys:
     - next
     values:
     - _fieldName: next
-      _node: {fileID: -2149349958610910938}
+      _node: {fileID: -4056090039355772061}
       _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
       connections:
       - fieldName: previous
-        node: {fileID: -1697107866961830942}
+        node: {fileID: 9211603562180548702}
         reroutePoints: []
       _direction: 1
       _connectionType: 1
       _typeConstraint: 0
       _dynamic: 0
---- !u!114 &-1697107866961830942
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 96e530a550a347a388628442de2f58ba, type: 3}
-  m_Name: Get Progress Flag
-  m_EditorClassIdentifier: 
-  graph: {fileID: 11400000}
-  position: {x: -344, y: -120}
-  ports:
-    keys:
-    - previous
-    - value
-    values:
-    - _fieldName: previous
-      _node: {fileID: -1697107866961830942}
-      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
-        Culture=neutral, PublicKeyToken=null
-      connections:
-      - fieldName: next
-        node: {fileID: -2149349958610910938}
-        reroutePoints: []
-      _direction: 0
-      _connectionType: 0
-      _typeConstraint: 0
-      _dynamic: 0
-    - _fieldName: value
-      _node: {fileID: -1697107866961830942}
-      _typeQualifiedName: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
-        PublicKeyToken=b77a5c561934e089
-      connections:
-      - fieldName: input
-        node: {fileID: -6660911896826792613}
-        reroutePoints: []
-      _direction: 1
-      _connectionType: 1
-      _typeConstraint: 0
-      _dynamic: 0
-  value: 0
-  flagName: MyValue
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -146,12 +43,10 @@ MonoBehaviour:
   m_Name: InteractionGraph_Example
   m_EditorClassIdentifier: 
   nodes:
-  - {fileID: -2149349958610910938}
-  - {fileID: 3873607087042480134}
-  - {fileID: -1697107866961830942}
-  - {fileID: 8350602715007881947}
-  - {fileID: -6660911896826792613}
---- !u!114 &3873607087042480134
+  - {fileID: -4056090039355772061}
+  - {fileID: 5527403116759576963}
+  - {fileID: 9211603562180548702}
+--- !u!114 &5527403116759576963
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -164,27 +59,24 @@ MonoBehaviour:
   m_Name: Interaction Exit
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 440, y: -40}
+  position: {x: 143, y: -61.5}
   ports:
     keys:
     - previous
     values:
     - _fieldName: previous
-      _node: {fileID: 3873607087042480134}
+      _node: {fileID: 5527403116759576963}
       _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
       connections:
       - fieldName: next
-        node: {fileID: 8350602715007881947}
-        reroutePoints: []
-      - fieldName: false
-        node: {fileID: -6660911896826792613}
+        node: {fileID: 9211603562180548702}
         reroutePoints: []
       _direction: 0
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
---- !u!114 &8350602715007881947
+--- !u!114 &9211603562180548702
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -197,31 +89,31 @@ MonoBehaviour:
   m_Name: Interaction Cutscene
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 200, y: -200}
+  position: {x: -136, y: -72}
   ports:
     keys:
     - previous
     - next
     values:
     - _fieldName: previous
-      _node: {fileID: 8350602715007881947}
+      _node: {fileID: 9211603562180548702}
       _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
       connections:
-      - fieldName: true
-        node: {fileID: -6660911896826792613}
+      - fieldName: next
+        node: {fileID: -4056090039355772061}
         reroutePoints: []
       _direction: 0
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
     - _fieldName: next
-      _node: {fileID: 8350602715007881947}
+      _node: {fileID: 9211603562180548702}
       _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
       connections:
       - fieldName: previous
-        node: {fileID: 3873607087042480134}
+        node: {fileID: 5527403116759576963}
         reroutePoints: []
       _direction: 1
       _connectionType: 1

@@ -15,6 +15,45 @@ public class CutsceneAction
     [AllowNesting]
     [ShowIf(nameof(actionId), CutsceneActionIds.MoveTo)]
     public MoveToOptions moveToOptions;
+
+    [AllowNesting]
+    [SerializeField, ShowIf(nameof(actionId), CutsceneActionIds.GiveItem)] private string itemId;
+    public string ItemId => itemId;
+    
+    public class Builder
+    {
+        private int _actionId;
+        private DialogueOptions _dialogueOptions = null;
+        private string _itemId = null;
+        
+        public Builder SetActionId(CutsceneActionIds actionId)
+        {
+            _actionId = (int) actionId;
+            return this;
+        }
+        
+        public Builder SetDialogueOptions(DialogueOptions dialogueOptions)
+        {
+            _dialogueOptions = dialogueOptions;
+            return this;
+        }
+
+        public Builder SetItemId(string itemId)
+        {
+            _itemId = itemId;
+            return this;
+        }
+        
+        public CutsceneAction Build()
+        {
+            return new CutsceneAction()
+            {
+                actionId = (CutsceneActionIds) _actionId,
+                itemId = _itemId,
+                dialogueOptions = _dialogueOptions
+            };
+        }
+    }
 }
 
 public enum CharacterName : int

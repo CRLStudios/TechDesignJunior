@@ -8,9 +8,20 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance { get; private set; }
 
     [SerializeField] private List<ProgressFlag> progressFlags = new List<ProgressFlag>();
-    [SerializeField] private List<InventoryItem> inventoryItems = new List<InventoryItem>();
+    [SerializeField] private string inventoryItem;
 
     public event UnityAction<string, float> OnProgressFlagChanged;
+    public event UnityAction<string> OnInventoryChanged;
+
+    public string InventoryItem
+    {
+        get => inventoryItem;
+        set
+        {
+            inventoryItem = value;
+            OnInventoryChanged?.Invoke(value);
+        }
+    }
     
     private void Awake()
     {
@@ -37,38 +48,4 @@ public class GameManager : MonoBehaviour
         return flag?.Value ?? defaultValue;
     }
 
-    public bool HasInventoryItem(string itemId)
-    {
-        return inventoryItems.Exists(x => x.name == itemId && x.quantity > 0);
-    }
-
-    public void AddInventoryItem(string itemId, int amount = 1)
-    {
-        var item = inventoryItems.FirstOrDefault(x => x.name == itemId);
-        if (item != null)
-        {
-            item.quantity += amount;
-        }
-        else
-        {
-            inventoryItems.Add(new InventoryItem
-            {
-                name = itemId,
-                quantity = amount
-            });
-        }
-    }
-
-    public bool TryRemoveInventoryItem(string itemId, int amount = 1)
-    {
-        var item = inventoryItems.FirstOrDefault(x => x.name == itemId);
-        if (item != null && item.quantity >= amount)
-        {
-            item.quantity -= amount;
-            return true;
-        }
-        
-        return false;
-    }
-    
 }

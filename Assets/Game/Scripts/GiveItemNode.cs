@@ -22,7 +22,7 @@ public class GiveItemNode : InteractionNode, ICoroutineNode
 
     public IEnumerator Execute(Interactable interactable)
     {
-        GameManager.Instance.AddInventoryItem(itemId, 1);
+        GameManager.Instance.InventoryItem = itemId;
         yield return DialogueManager.Instance.RunDialogue(new DialogueOptions()
         {
             style = DialogueStyle.NarratorDialogue,

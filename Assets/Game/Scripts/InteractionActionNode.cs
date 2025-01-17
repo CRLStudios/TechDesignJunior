@@ -2,7 +2,7 @@ using XNode;
 
 public abstract class InteractionActionNode : InteractionNode, IActionNode
 {
-    [Input(connectionType = ConnectionType.Override)]
+    [Input]
     public InteractionNodeConnection previous;
     
     [Output(connectionType:ConnectionType.Override)]

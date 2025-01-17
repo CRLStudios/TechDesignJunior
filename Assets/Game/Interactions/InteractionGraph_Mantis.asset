@@ -1,5 +1,151 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8044892392848371721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2711ad0cc65a4b0580a59e03d4173f56, type: 3}
+  m_Name: Interaction Cutscene
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 24, y: -104}
+  ports:
+    keys:
+    - previous
+    - next
+    values:
+    - _fieldName: previous
+      _node: {fileID: -8044892392848371721}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: false
+        node: {fileID: -1390657988227422989}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: next
+      _node: {fileID: -8044892392848371721}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -1236231804274593522}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  cutsceneId: Cutscene_Mantis_1
+--- !u!114 &-5413627980075730429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2711ad0cc65a4b0580a59e03d4173f56, type: 3}
+  m_Name: Interaction Cutscene
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 184, y: -360}
+  ports:
+    keys:
+    - previous
+    - next
+    values:
+    - _fieldName: previous
+      _node: {fileID: -5413627980075730429}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: next
+        node: {fileID: 7572494758350796355}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: next
+      _node: {fileID: -5413627980075730429}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -1236231804274593522}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  cutsceneId: Cutscene_Mantis_0
+--- !u!114 &-1390657988227422989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfd9295248a54047ab3806ac36ce91c9, type: 3}
+  m_Name: Less Than Or Equals
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -440, y: -248}
+  ports:
+    keys:
+    - input
+    - true
+    - false
+    values:
+    - _fieldName: input
+      _node: {fileID: -1390657988227422989}
+      _typeQualifiedName: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: value
+        node: {fileID: 5748297959409496853}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: true
+      _node: {fileID: -1390657988227422989}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: 7572494758350796355}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: false
+      _node: {fileID: -1390657988227422989}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -8044892392848371721}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  input: 0
+  value: 0
 --- !u!114 &-1236231804274593522
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13,7 +159,7 @@ MonoBehaviour:
   m_Name: Interaction Exit
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 472, y: -200}
+  position: {x: 568, y: -200}
   ports:
     keys:
     - previous
@@ -24,73 +170,15 @@ MonoBehaviour:
         Culture=neutral, PublicKeyToken=null
       connections:
       - fieldName: next
-        node: {fileID: 2230727794699958083}
+        node: {fileID: -5413627980075730429}
         reroutePoints: []
       - fieldName: next
-        node: {fileID: 1328272595760945569}
+        node: {fileID: -8044892392848371721}
         reroutePoints: []
       _direction: 0
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
---- !u!114 &-51377863918240047
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 133e30de4e7a4a3e9637fc5899b3e23c, type: 3}
-  m_Name: Greater Than
-  m_EditorClassIdentifier: 
-  graph: {fileID: 11400000}
-  position: {x: -104, y: -232}
-  ports:
-    keys:
-    - input
-    - false
-    - true
-    values:
-    - _fieldName: input
-      _node: {fileID: -51377863918240047}
-      _typeQualifiedName: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
-        PublicKeyToken=b77a5c561934e089
-      connections:
-      - fieldName: value
-        node: {fileID: 5748297959409496853}
-        reroutePoints: []
-      _direction: 0
-      _connectionType: 1
-      _typeConstraint: 0
-      _dynamic: 0
-    - _fieldName: false
-      _node: {fileID: -51377863918240047}
-      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
-        Culture=neutral, PublicKeyToken=null
-      connections:
-      - fieldName: previous
-        node: {fileID: 6598478976231903198}
-        reroutePoints: []
-      _direction: 1
-      _connectionType: 1
-      _typeConstraint: 0
-      _dynamic: 0
-    - _fieldName: true
-      _node: {fileID: -51377863918240047}
-      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
-        Culture=neutral, PublicKeyToken=null
-      connections:
-      - fieldName: previous
-        node: {fileID: 1328272595760945569}
-        reroutePoints: []
-      _direction: 1
-      _connectionType: 1
-      _typeConstraint: 0
-      _dynamic: 0
-  input: 0
-  value: 0
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -101,106 +189,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c9d2a4cbbf0a9486abf9559d23cc7e20, type: 3}
-  m_Name: InteractionGraph_SetFlag
+  m_Name: InteractionGraph_Mantis
   m_EditorClassIdentifier: 
   nodes:
   - {fileID: 8346795434737894709}
   - {fileID: -1236231804274593522}
-  - {fileID: 2230727794699958083}
   - {fileID: 5748297959409496853}
-  - {fileID: -51377863918240047}
-  - {fileID: 1328272595760945569}
-  - {fileID: 6598478976231903198}
---- !u!114 &1328272595760945569
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 131e8f14430a4d0fbe37c42049374231, type: 3}
-  m_Name: Set Progress Flag
-  m_EditorClassIdentifier: 
-  graph: {fileID: 11400000}
-  position: {x: 216, y: -280}
-  ports:
-    keys:
-    - previous
-    - next
-    values:
-    - _fieldName: previous
-      _node: {fileID: 1328272595760945569}
-      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
-        Culture=neutral, PublicKeyToken=null
-      connections:
-      - fieldName: true
-        node: {fileID: -51377863918240047}
-        reroutePoints: []
-      _direction: 0
-      _connectionType: 1
-      _typeConstraint: 0
-      _dynamic: 0
-    - _fieldName: next
-      _node: {fileID: 1328272595760945569}
-      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
-        Culture=neutral, PublicKeyToken=null
-      connections:
-      - fieldName: previous
-        node: {fileID: -1236231804274593522}
-        reroutePoints: []
-      _direction: 1
-      _connectionType: 1
-      _typeConstraint: 0
-      _dynamic: 0
-  flagName: MyValue
-  value: 0
---- !u!114 &2230727794699958083
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 131e8f14430a4d0fbe37c42049374231, type: 3}
-  m_Name: Set Progress Flag
-  m_EditorClassIdentifier: 
-  graph: {fileID: 11400000}
-  position: {x: 216, y: -72}
-  ports:
-    keys:
-    - previous
-    - next
-    values:
-    - _fieldName: previous
-      _node: {fileID: 2230727794699958083}
-      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
-        Culture=neutral, PublicKeyToken=null
-      connections:
-      - fieldName: next
-        node: {fileID: 6598478976231903198}
-        reroutePoints: []
-      _direction: 0
-      _connectionType: 1
-      _typeConstraint: 0
-      _dynamic: 0
-    - _fieldName: next
-      _node: {fileID: 2230727794699958083}
-      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
-        Culture=neutral, PublicKeyToken=null
-      connections:
-      - fieldName: previous
-        node: {fileID: -1236231804274593522}
-        reroutePoints: []
-      _direction: 1
-      _connectionType: 1
-      _typeConstraint: 0
-      _dynamic: 0
-  flagName: MyValue
-  value: 2
+  - {fileID: -5413627980075730429}
+  - {fileID: -8044892392848371721}
+  - {fileID: 7572494758350796355}
+  - {fileID: -1390657988227422989}
 --- !u!114 &5748297959409496853
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -214,7 +212,7 @@ MonoBehaviour:
   m_Name: Get Progress Flag
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: -376, y: -248}
+  position: {x: -728, y: -264}
   ports:
     keys:
     - previous
@@ -238,15 +236,15 @@ MonoBehaviour:
         PublicKeyToken=b77a5c561934e089
       connections:
       - fieldName: input
-        node: {fileID: -51377863918240047}
+        node: {fileID: -1390657988227422989}
         reroutePoints: []
       _direction: 1
       _connectionType: 1
       _typeConstraint: 0
       _dynamic: 0
   value: 0
-  flagName: MyValue
---- !u!114 &6598478976231903198
+  flagName: Mantis
+--- !u!114 &7572494758350796355
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -255,41 +253,42 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cf6f8f2b8ead429fbc7e0171e3ce7c09, type: 3}
-  m_Name: Give Item
+  m_Script: {fileID: 11500000, guid: d19c6aaa1387495585f9d052ae4173f9, type: 3}
+  m_Name: Increment Progress Flag
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: -40, y: 72}
+  position: {x: -120, y: -376}
   ports:
     keys:
     - previous
     - next
     values:
     - _fieldName: previous
-      _node: {fileID: 6598478976231903198}
+      _node: {fileID: 7572494758350796355}
       _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
       connections:
-      - fieldName: false
-        node: {fileID: -51377863918240047}
+      - fieldName: true
+        node: {fileID: -1390657988227422989}
         reroutePoints: []
       _direction: 0
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
     - _fieldName: next
-      _node: {fileID: 6598478976231903198}
+      _node: {fileID: 7572494758350796355}
       _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
       connections:
       - fieldName: previous
-        node: {fileID: 2230727794699958083}
+        node: {fileID: -5413627980075730429}
         reroutePoints: []
       _direction: 1
       _connectionType: 1
       _typeConstraint: 0
       _dynamic: 0
-  itemId: ExampleItem
+  flagName: Mantis
+  amount: 1
 --- !u!114 &8346795434737894709
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -303,7 +302,7 @@ MonoBehaviour:
   m_Name: Interaction Start
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: -616, y: -248}
+  position: {x: -968, y: -248}
   ports:
     keys:
     - next

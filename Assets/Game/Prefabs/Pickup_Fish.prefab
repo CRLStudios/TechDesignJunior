@@ -132,6 +132,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   activateOnTriggerEnter: 0
   requirePlayerFacingThisDirection: 0
+  itemId: Fish
 --- !u!58 &5013667816274383751
 CircleCollider2D:
   m_ObjectHideFlags: 0
