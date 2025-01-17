@@ -68,7 +68,7 @@ Push your changes to your forked github repository and open a Pull Request when 
    		 - Narrator: "The Mantis gestures upwards towards the bridge"
    	- The End
    		- When the player reaches the top of the small set of stairs after crossing the bridge a cutscene should automatically start without the player pressing a button:
-   			- Player should move to the center of the grassy patch and face the camera
+   			- Player should move to the center of the grassy patch and face south
    			- Narrator: "The End!"
 
 ## Known Bugs
