@@ -1,0 +1,4440 @@
+fileFormatVersion: 2
+guid: 852ec7d5d14a3a84082478a381ff5373
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5954590914220600010
+    second: Pillbug 0
+  - first:
+      213: -1856464915060556005
+    second: Pillbug 1
+  - first:
+      213: 7861820772910789845
+    second: Pillbug 2
+  - first:
+      213: -7488828712392972166
+    second: Pillbug 3
+  - first:
+      213: -1781586259541669551
+    second: Pillbug 4
+  - first:
+      213: 4771575658272059516
+    second: Pillbug 5
+  - first:
+      213: -5763407243964091900
+    second: Pillbug 6
+  - first:
+      213: -4356444073343973710
+    second: Pillbug 7
+  - first:
+      213: -1719138106395531638
+    second: Pillbug 8
+  - first:
+      213: -8779405397935689056
+    second: Pillbug 9
+  - first:
+      213: -8051248859064095645
+    second: Pillbug 10
+  - first:
+      213: 5062944059375918955
+    second: Pillbug 11
+  - first:
+      213: 3614301579336574422
+    second: Pillbug 12
+  - first:
+      213: 2793732930738792893
+    second: Pillbug 13
+  - first:
+      213: -306276873454274303
+    second: Pillbug 14
+  - first:
+      213: -6705646774373068718
+    second: Pillbug 15
+  - first:
+      213: 5948316831802943963
+    second: Pillbug 16
+  - first:
+      213: -1681849414475145583
+    second: Pillbug 17
+  - first:
+      213: 1462075221360578290
+    second: Pillbug 18
+  - first:
+      213: -9170902089025276538
+    second: Pillbug 19
+  - first:
+      213: -3733774836840261015
+    second: Pillbug 20
+  - first:
+      213: 3257776577058552679
+    second: Pillbug 21
+  - first:
+      213: -1345012440256601172
+    second: Pillbug 22
+  - first:
+      213: -6517685979713807020
+    second: Pillbug 23
+  - first:
+      213: 6845395545322158718
+    second: Pillbug 24
+  - first:
+      213: 7105069655582142680
+    second: Pillbug 25
+  - first:
+      213: 1688084805862965323
+    second: Pillbug 26
+  - first:
+      213: -3059820132748072859
+    second: Pillbug 27
+  - first:
+      213: -7919236791718039150
+    second: Pillbug 28
+  - first:
+      213: -8427867962678478048
+    second: Pillbug 29
+  - first:
+      213: -8026562903662319728
+    second: Pillbug 30
+  - first:
+      213: 4039385294381734997
+    second: Pillbug 31
+  - first:
+      213: 2961096319787359173
+    second: Pillbug 32
+  - first:
+      213: -5445496707977248939
+    second: Pillbug 33
+  - first:
+      213: 6890173014948352484
+    second: Pillbug 34
+  - first:
+      213: 7148889351742464709
+    second: Pillbug 35
+  - first:
+      213: -7182671266448384086
+    second: Pillbug 36
+  - first:
+      213: -5266272005372340152
+    second: Pillbug 37
+  - first:
+      213: 5126177060781814774
+    second: Pillbug 38
+  - first:
+      213: 30249348432133022
+    second: Pillbug 39
+  - first:
+      213: -7555390545690385461
+    second: Pillbug 40
+  - first:
+      213: 7539185395591550129
+    second: Pillbug 41
+  - first:
+      213: 1922586081868533420
+    second: Pillbug 42
+  - first:
+      213: -3095964458568987129
+    second: Pillbug 43
+  - first:
+      213: 5638565754395334158
+    second: Pillbug 44
+  - first:
+      213: -5203477875745787592
+    second: Pillbug 45
+  - first:
+      213: 5948922120569378567
+    second: Pillbug 46
+  - first:
+      213: -6220519231566311687
+    second: Pillbug 47
+  - first:
+      213: -4507527183723088815
+    second: Pillbug 48
+  - first:
+      213: -7486552455534350683
+    second: Pillbug 49
+  - first:
+      213: 3491818726605644204
+    second: Pillbug 50
+  - first:
+      213: -5247070858378142429
+    second: Pillbug 51
+  - first:
+      213: 6352080169288515427
+    second: Pillbug 52
+  - first:
+      213: -2898431456413195532
+    second: Pillbug 53
+  - first:
+      213: 6763157353869440286
+    second: Pillbug 54
+  - first:
+      213: -1407146817214656797
+    second: Pillbug 55
+  - first:
+      213: -2358349318405244494
+    second: Pillbug 56
+  - first:
+      213: 615810669730561906
+    second: Pillbug 57
+  - first:
+      213: -7969028461944145757
+    second: Pillbug 58
+  - first:
+      213: 2700614937613165390
+    second: Pillbug 59
+  - first:
+      213: 5672621272914457115
+    second: Pillbug 60
+  - first:
+      213: 2125167648628779123
+    second: Pillbug 61
+  - first:
+      213: 1037849484208581714
+    second: Pillbug 62
+  - first:
+      213: -2827438976795097816
+    second: Pillbug 63
+  - first:
+      213: -543825392808376521
+    second: Pillbug 64
+  - first:
+      213: -1056281789732628070
+    second: Pillbug 65
+  - first:
+      213: 8938194913960616406
+    second: Pillbug 66
+  - first:
+      213: 6773596290835832110
+    second: Pillbug 67
+  - first:
+      213: -2555399613254068332
+    second: Pillbug 68
+  - first:
+      213: -4812129647713539669
+    second: Pillbug 69
+  - first:
+      213: -2857142589716724274
+    second: Pillbug 70
+  - first:
+      213: -7843179574027479777
+    second: Pillbug 71
+  - first:
+      213: -8779406639270312932
+    second: Pillbug 72
+  - first:
+      213: -3932446993854603721
+    second: Pillbug 73
+  - first:
+      213: 864894726831452127
+    second: Pillbug 74
+  - first:
+      213: 2921489067032634405
+    second: Pillbug 75
+  - first:
+      213: 8875727745482505815
+    second: Pillbug 76
+  - first:
+      213: 4791079393100471408
+    second: Pillbug 77
+  - first:
+      213: -5331369982495343942
+    second: Pillbug 78
+  - first:
+      213: 7502164158167047267
+    second: Pillbug 79
+  - first:
+      213: 6918089500827366309
+    second: Pillbug 80
+  - first:
+      213: 5082128839194417445
+    second: Pillbug 81
+  - first:
+      213: 5875072479135709624
+    second: Pillbug 82
+  - first:
+      213: -6182032143099711033
+    second: Pillbug 83
+  - first:
+      213: 6208732332424686051
+    second: Pillbug 84
+  - first:
+      213: -5558147237495040266
+    second: Pillbug 85
+  - first:
+      213: 5168189541891523253
+    second: Pillbug 86
+  - first:
+      213: -6012033296963990581
+    second: Pillbug 87
+  - first:
+      213: -656259707343847004
+    second: Pillbug 88
+  - first:
+      213: 4799800249855214421
+    second: Pillbug 89
+  - first:
+      213: 5979937954601609508
+    second: Pillbug 90
+  - first:
+      213: -9163276972915619575
+    second: Pillbug 91
+  - first:
+      213: 1171435757024027601
+    second: Pillbug 92
+  - first:
+      213: -7431819654201651476
+    second: Pillbug 93
+  - first:
+      213: -5088837973882462421
+    second: Pillbug 94
+  - first:
+      213: 7656969682999116822
+    second: Pillbug 95
+  - first:
+      213: 7562771467797281872
+    second: Pillbug 96
+  - first:
+      213: -8618939025918544410
+    second: Pillbug 97
+  - first:
+      213: 3674023153921017931
+    second: Pillbug 98
+  - first:
+      213: 7187630443464309855
+    second: Pillbug 99
+  - first:
+      213: 915018406590766332
+    second: Pillbug 100
+  - first:
+      213: 6792407767351639851
+    second: Pillbug 101
+  - first:
+      213: -5430182834690081064
+    second: Pillbug 102
+  - first:
+      213: 4569969824768336654
+    second: Pillbug 103
+  - first:
+      213: -5090891009260371336
+    second: Pillbug 104
+  - first:
+      213: 9211534408128853866
+    second: Pillbug 105
+  - first:
+      213: -8303539110180774058
+    second: Pillbug 106
+  - first:
+      213: 4978151140763379383
+    second: Pillbug 107
+  - first:
+      213: -356343080738324385
+    second: Pillbug 108
+  - first:
+      213: -6797039713416610057
+    second: Pillbug 109
+  - first:
+      213: 7931804044940004533
+    second: Pillbug 110
+  - first:
+      213: 441523948850222085
+    second: Pillbug 111
+  - first:
+      213: -2341720477493394630
+    second: Pillbug 112
+  - first:
+      213: -4390547600863961958
+    second: Pillbug 113
+  - first:
+      213: 108788362404869135
+    second: Pillbug 114
+  - first:
+      213: -8518173921725212265
+    second: Pillbug 115
+  - first:
+      213: 1830324712299670498
+    second: Pillbug 116
+  - first:
+      213: -4806625397050828417
+    second: Pillbug 117
+  - first:
+      213: -194298283698500835
+    second: Pillbug 118
+  - first:
+      213: -8610871551704229096
+    second: Pillbug 119
+  - first:
+      213: 2313246102559811780
+    second: Pillbug 120
+  - first:
+      213: -8728418439430104743
+    second: Pillbug 121
+  - first:
+      213: -4128596992118438686
+    second: Pillbug 122
+  - first:
+      213: -4981731263769681776
+    second: Pillbug 123
+  - first:
+      213: -1868042190256344523
+    second: Pillbug 124
+  - first:
+      213: 5039565288901792212
+    second: Pillbug 125
+  - first:
+      213: 7108831427230993874
+    second: Pillbug 126
+  - first:
+      213: 5839388988388320363
+    second: Pillbug 127
+  - first:
+      213: 8394468339998265282
+    second: Pillbug 128
+  - first:
+      213: 5706106463848374578
+    second: Pillbug 129
+  - first:
+      213: -1132736826906120531
+    second: Pillbug 130
+  - first:
+      213: -1453962097680764884
+    second: Pillbug 131
+  - first:
+      213: 6353098143659537867
+    second: Pillbug 132
+  - first:
+      213: 5694223512409687637
+    second: Pillbug 133
+  - first:
+      213: 2116232164863374375
+    second: Pillbug 134
+  - first:
+      213: 8992807602750555947
+    second: Pillbug 135
+  - first:
+      213: -6921066058060639614
+    second: Pillbug 136
+  - first:
+      213: -3198704364680255443
+    second: Pillbug 137
+  - first:
+      213: 1715586026927802939
+    second: Pillbug 138
+  - first:
+      213: 6718807153980042236
+    second: Pillbug 139
+  - first:
+      213: -157918839893968984
+    second: Pillbug 140
+  - first:
+      213: -5597865334199149924
+    second: Pillbug 141
+  - first:
+      213: -8510195000824731173
+    second: Pillbug 142
+  - first:
+      213: -7371865979029657195
+    second: Pillbug 143
+  - first:
+      213: 8222406895021438402
+    second: Pillbug 144
+  - first:
+      213: 1693807946808915617
+    second: Pillbug 145
+  - first:
+      213: 1627462140015841197
+    second: Pillbug 146
+  - first:
+      213: -7391685460308732720
+    second: Pillbug 147
+  - first:
+      213: 8355801704786808183
+    second: Pillbug 148
+  - first:
+      213: -7999748232992059455
+    second: Pillbug 149
+  - first:
+      213: 7539369401714412071
+    second: Pillbug 150
+  - first:
+      213: -8005040828861930845
+    second: Pillbug 151
+  - first:
+      213: 6441717744086689460
+    second: Pillbug 152
+  - first:
+      213: 8917838872537131179
+    second: Pillbug 153
+  - first:
+      213: 4913701571585626030
+    second: Pillbug 154
+  - first:
+      213: -3105313042871679472
+    second: Pillbug 155
+  - first:
+      213: 7006977481865886420
+    second: Pillbug 156
+  - first:
+      213: 532064953526152015
+    second: Pillbug 157
+  - first:
+      213: 7680656811942974010
+    second: Pillbug 158
+  - first:
+      213: 1941907734013359159
+    second: Pillbug 159
+  - first:
+      213: 7661747727424346624
+    second: Pillbug 160
+  - first:
+      213: -5352152581390824204
+    second: Pillbug 161
+  - first:
+      213: -4480197913099180254
+    second: Pillbug 162
+  - first:
+      213: -2831042014395586507
+    second: Pillbug 163
+  - first:
+      213: 782029044516546966
+    second: Pillbug 164
+  - first:
+      213: -3482286322640431427
+    second: Pillbug 165
+  - first:
+      213: -7307835967042229783
+    second: Pillbug 166
+  - first:
+      213: 5201609582845782222
+    second: Pillbug 167
+  - first:
+      213: 697668896574713877
+    second: Pillbug 168
+  - first:
+      213: -8547300179880780253
+    second: Pillbug 169
+  - first:
+      213: -2271263844815032016
+    second: Pillbug 170
+  - first:
+      213: -2585712192632149572
+    second: Pillbug 171
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 715
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 715
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 715
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 715
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pillbug 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca23e043e4f2a250800000000000000
+      internalID: 5954590914220600010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ff6d7eef28c36e0800000000000000
+      internalID: -1856464915060556005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d47229d65cca1d60800000000000000
+      internalID: 7861820772910789845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78221ea6f5521890800000000000000
+      internalID: -7488828712392972166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1594d477cb88647e0800000000000000
+      internalID: -1781586259541669551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70f432c7ca083240800000000000000
+      internalID: 4771575658272059516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4027b9fb5a34400b0800000000000000
+      internalID: -5763407243964091900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b60a7c523dca83c0800000000000000
+      internalID: -4356444073343973710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86e47820056428e0800000000000000
+      internalID: -1719138106395531638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a275ec4e49492680800000000000000
+      internalID: -8779405397935689056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 10
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c273de1d7344090800000000000000
+      internalID: -8051248859064095645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f96c02cc0334640800000000000000
+      internalID: 5062944059375918955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 585
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d56d731324982230800000000000000
+      internalID: 3614301579336574422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 585
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db92ff57c4555c620800000000000000
+      internalID: 2793732930738792893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 585
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10937da6ec2efbbf0800000000000000
+      internalID: -306276873454274303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 585
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250df3869c1c0f2a0800000000000000
+      internalID: -6705646774373068718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 585
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9671b94aaac8250800000000000000
+      internalID: 5948316831802943963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 585
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e928c4eded8a8e0800000000000000
+      internalID: -1681849414475145583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe091cdaa55a4410800000000000000
+      internalID: 1462075221360578290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 19
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 585
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685b2c9b3296ab080800000000000000
+      internalID: -9170902089025276538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 585
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a18da7197fe2cc0800000000000000
+      internalID: -3733774836840261015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 21
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 585
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bb9215982f53d20800000000000000
+      internalID: 3257776577058552679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 22
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 585
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca32600df4e855de0800000000000000
+      internalID: -1345012440256601172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 585
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d5d9532278c85a0800000000000000
+      internalID: -6517685979713807020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7af7f1eafabffe50800000000000000
+      internalID: 6845395545322158718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 520
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0716d15374a9260800000000000000
+      internalID: 7105069655582142680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 520
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b404234ef284d6710800000000000000
+      internalID: 1688084805862965323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56866f60dc55985d0800000000000000
+      internalID: -3059820132748072859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 520
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29131798818391290800000000000000
+      internalID: -7919236791718039150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 520
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b77ae9db23a0b80800000000000000
+      internalID: -8427867962678478048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 30
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 520
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09721efc09beb9090800000000000000
+      internalID: -8026562903662319728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 31
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 520
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c5f8e0687ce0830800000000000000
+      internalID: 4039385294381734997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 32
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 520
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb54ae0a6de71920800000000000000
+      internalID: 2961096319787359173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 33
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 520
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ff4777895bd64b0800000000000000
+      internalID: -5445496707977248939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 34
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 520
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e19af4f9dfce9f50800000000000000
+      internalID: 6890173014948352484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 520
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2ae2d2df4f53360800000000000000
+      internalID: 7148889351742464709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf50f0e986025c90800000000000000
+      internalID: -7182671266448384086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848923553817ae6b0800000000000000
+      internalID: -5266272005372340152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 455
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3f7ab80e6d32740800000000000000
+      internalID: 5126177060781814774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 39
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 455
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bfbf34f977b6000800000000000000
+      internalID: 30249348432133022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 40
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 455
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3a7c0345cd52790800000000000000
+      internalID: -7555390545690385461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 41
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 455
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b41c084c2190a860800000000000000
+      internalID: 7539185395591550129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 42
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 455
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae42ebead56eaa10800000000000000
+      internalID: 1922586081868533420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 43
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 455
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ec2c16abce805d0800000000000000
+      internalID: -3095964458568987129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 44
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 455
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e069a61eda5304e40800000000000000
+      internalID: 5638565754395334158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8317193f07889c7b0800000000000000
+      internalID: -5203477875745787592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 46
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 455
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70750016621de8250800000000000000
+      internalID: 5948922120569378567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 47
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 455
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe010477b64ca9a0800000000000000
+      internalID: -6220519231566311687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 48
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 455
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154b4c688eb0271c0800000000000000
+      internalID: -4507527183723088815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aeeb87053c6a1890800000000000000
+      internalID: -7486552455534350683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 50
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 390
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1e263a1ae657030800000000000000
+      internalID: 3491818726605644204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 390
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d111fbad8ae27b0800000000000000
+      internalID: -5247070858378142429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 52
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 390
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fbe3b524f172850800000000000000
+      internalID: 6352080169288515427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 53
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 390
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f26caa62f3b6c7d0800000000000000
+      internalID: -2898431456413195532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e157575d7cf8bdd50800000000000000
+      internalID: 6763157353869440286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 55
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee4915dc6fc87ce0800000000000000
+      internalID: -1407146817214656797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 56
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 390
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9bb2c3ac5754fd0800000000000000
+      internalID: -2358349318405244494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 57
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 390
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f7f2a9a8ccb8800800000000000000
+      internalID: 615810669730561906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 58
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 390
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a877d8e5d2586190800000000000000
+      internalID: -7969028461944145757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 59
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 390
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43eb8f2af28a7520800000000000000
+      internalID: 2700614937613165390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 60
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 390
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12f36d2ef239be40800000000000000
+      internalID: 5672621272914457115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 61
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 390
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378aba087bc1e7d10800000000000000
+      internalID: 2125167648628779123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c239c6b9e276e00800000000000000
+      internalID: 1037849484208581714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 63
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 325
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825c8042b3be2c8d0800000000000000
+      internalID: -2827438976795097816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737c1d1cfa1f378f0800000000000000
+      internalID: -543825392808376521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 65
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 325
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99d5440f455751f0800000000000000
+      internalID: -1056281789732628070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 325
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d163dbeae8da0c70800000000000000
+      internalID: 8938194913960616406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d5c2f30f5a00e50800000000000000
+      internalID: 6773596290835832110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 68
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 325
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49712d04795698cd0800000000000000
+      internalID: -2555399613254068332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 69
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 325
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9a8e6c491e73db0800000000000000
+      internalID: -4812129647713539669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 70
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 325
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec58b43d3f36958d0800000000000000
+      internalID: -2857142589716724274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 71
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 325
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f151e7c7bbd672390800000000000000
+      internalID: -7843179574027479777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 72
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 325
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1446974d28492680800000000000000
+      internalID: -8779406639270312932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 73
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 325
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e5e394b442d69c0800000000000000
+      internalID: -3932446993854603721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 74
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 325
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfa5e0fb29b00c00800000000000000
+      internalID: 864894726831452127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 75
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524eaa7e3d63b8820800000000000000
+      internalID: 2921489067032634405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e3090eb5bec2b70800000000000000
+      internalID: 8875727745482505815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 77
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 585
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c9274e2555d7240800000000000000
+      internalID: 4791079393100471408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba3f2b6f3b2306b0800000000000000
+      internalID: -5331369982495343942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 79
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 260
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cd63ebd8a0d1860800000000000000
+      internalID: 7502164158167047267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 80
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 260
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3bc255fbdf10060800000000000000
+      internalID: 6918089500827366309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 81
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 260
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52993f2c049578640800000000000000
+      internalID: 5082128839194417445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 82
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 260
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9be84da43788150800000000000000
+      internalID: 5875072479135709624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 83
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 260
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1be780582053aa0800000000000000
+      internalID: -6182032143099711033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 84
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 260
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9e7ab3929d92650800000000000000
+      internalID: 6208732332424686051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f61acb298e7dd2b0800000000000000
+      internalID: -5558147237495040266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 86
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 260
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b24550910919b740800000000000000
+      internalID: 5168189541891523253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 87
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 260
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb04acc197f09ca0800000000000000
+      internalID: -6012033296963990581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a14e5fe54f74e6f0800000000000000
+      internalID: -656259707343847004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 89
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 260
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553837595e05c9240800000000000000
+      internalID: 4799800249855214421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 90
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 260
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429a7eaf2e10df250800000000000000
+      internalID: 5979937954601609508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90909da642085d080800000000000000
+      internalID: -9163276972915619575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 92
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 195
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3ab9e4d96c14010800000000000000
+      internalID: 1171435757024027601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 93
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 195
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee4b84666fdcd890800000000000000
+      internalID: -7431819654201651476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 94
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 195
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f973713d0d069b0800000000000000
+      internalID: -5088837973882462421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 95
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 585
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614091bbb55034a60800000000000000
+      internalID: 7656969682999116822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c3487a49c54f860800000000000000
+      internalID: 7562771467797281872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 97
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5bf5bfe90636880800000000000000
+      internalID: -8618939025918544410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 98
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 195
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48c50ab790ccf230800000000000000
+      internalID: 3674023153921017931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 99
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 195
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c397f7ec79fb360800000000000000
+      internalID: 7187630443464309855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 100
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 195
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc59cf846cc2bc00800000000000000
+      internalID: 915018406590766332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 101
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 195
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f399e60ea734e50800000000000000
+      internalID: 6792407767351639851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 102
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 195
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8debfd07b7d14a4b0800000000000000
+      internalID: -5430182834690081064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 103
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 195
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e032297c75bcb6f30800000000000000
+      internalID: 4569969824768336654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 104
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 195
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8724eca89958959b0800000000000000
+      internalID: -5090891009260371336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67fec84db1f5df70800000000000000
+      internalID: 9211534408128853866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f9c1f5c27e3cc80800000000000000
+      internalID: -8303539110180774058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 107
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 130
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6286f4612f51540800000000000000
+      internalID: 4978151140763379383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 108
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 130
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f508c662bd30e0bf0800000000000000
+      internalID: -356343080738324385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe749594601ca1a0800000000000000
+      internalID: -6797039713416610057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 110
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 130
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcc7ae11cd631e60800000000000000
+      internalID: 7931804044940004533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 130
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5049b0331bb902600800000000000000
+      internalID: 441523948850222085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 112
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 130
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a338fb7f1a9808fd0800000000000000
+      internalID: -2341720477493394630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 113
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 130
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c5f091834a113c0800000000000000
+      internalID: -4390547600863961958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 114
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 130
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04b6d0707e728100800000000000000
+      internalID: 108788362404869135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 115
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 130
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799929c03fd59c980800000000000000
+      internalID: -8518173921725212265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 116
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebad3cd0ae966910800000000000000
+      internalID: 1830324712299670498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f791a600baf6b4db0800000000000000
+      internalID: -4806625397050828417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 118
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bceab8db6bd4df0800000000000000
+      internalID: -194298283698500835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 119
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 130
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b172232f9008880800000000000000
+      internalID: -8610871551704229096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 120
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 130
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8622df21d4a1020800000000000000
+      internalID: 2313246102559811780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9599ccaacad6ed680800000000000000
+      internalID: -8728418439430104743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4c800f8e644b6c0800000000000000
+      internalID: -4128596992118438686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 123
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090ec885fc55ddab0800000000000000
+      internalID: -4981731263769681776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 124
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532f35876816316e0800000000000000
+      internalID: -1868042190256344523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 125
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d15163fde120f540800000000000000
+      internalID: 5039565288901792212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 126
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd8c34d484a7a260800000000000000
+      internalID: 7108831427230993874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 127
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64a636b85da90150800000000000000
+      internalID: 5839388988388320363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 128
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf0cdbba742f7470800000000000000
+      internalID: 8394468339998265282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 129
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2312e3cb899203f40800000000000000
+      internalID: 5706106463848374578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daee1408bd5b740f0800000000000000
+      internalID: -1132736826906120531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 131
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c203bd2fc2d72dbe0800000000000000
+      internalID: -1453962097680764884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5350cf91dba2850800000000000000
+      internalID: 6353098143659537867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 133
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5564bd08d12f50f40800000000000000
+      internalID: 5694223512409687637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 134
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724ffe011fd5e5d10800000000000000
+      internalID: 2116232164863374375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 135
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2701676ededccc70800000000000000
+      internalID: 8992807602750555947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 136
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282584ee61f63ff90800000000000000
+      internalID: -6921066058060639614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 137
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 390
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28edb9e35beb93d0800000000000000
+      internalID: -3198704364680255443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ac7a4e66cfec710800000000000000
+      internalID: 1715586026927802939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 139
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb655f328ffd3d50800000000000000
+      internalID: 6718807153980042236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a737ccd6a5fecdf0800000000000000
+      internalID: -157918839893968984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 141
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 325
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a169623236052b0800000000000000
+      internalID: -5597865334199149924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 142
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd969865cb6b5e980800000000000000
+      internalID: -8510195000824731173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 143
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599662c23fed1b990800000000000000
+      internalID: -7371865979029657195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 144
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5b970c18bdb1270800000000000000
+      internalID: 8222406895021438402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 145
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6774b7a5d918710800000000000000
+      internalID: 1693807946808915617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 146
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf8a059138e59610800000000000000
+      internalID: 1627462140015841197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 147
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4d0e69c357b6990800000000000000
+      internalID: -7391685460308732720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 148
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dcb6b2165c5f370800000000000000
+      internalID: 8355801704786808183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 149
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf03f7dd5f2bf090800000000000000
+      internalID: -7999748232992059455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 150
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a03ab868831a860800000000000000
+      internalID: 7539369401714412071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 151
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2af2757c168e090800000000000000
+      internalID: -8005040828861930845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 152
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b62e979824956950800000000000000
+      internalID: 6441717744086689460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 153
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8eeb1b43782cb70800000000000000
+      internalID: 8917838872537131179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafc3a2ab89f03440800000000000000
+      internalID: 4913701571585626030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 155
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0160f3b7d36b7e4d0800000000000000
+      internalID: -3105313042871679472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 156
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daf6cb25e8cd3160800000000000000
+      internalID: 7006977481865886420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 157
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b6c589146426700800000000000000
+      internalID: 532064953526152015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 158
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a329b853dac279a60800000000000000
+      internalID: 7680656811942974010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 159
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7343370abca03fa10800000000000000
+      internalID: 1941907734013359159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 160
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 325
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ad8c3e6fef35a60800000000000000
+      internalID: 7661747727424346624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 161
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 325
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc828a859559b5b0800000000000000
+      internalID: -5352152581390824204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 162
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 325
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227e6423cb323d1c0800000000000000
+      internalID: -4480197913099180254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 163
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538aeb3994e16b8d0800000000000000
+      internalID: -2831042014395586507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699627ac5435ada00800000000000000
+      internalID: 782029044516546966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 165
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6d0dc1a0f6cafc0800000000000000
+      internalID: -3482286322640431427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 166
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9ef9318e9559a90800000000000000
+      internalID: -7307835967042229783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 167
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec86ac53b54df2840800000000000000
+      internalID: 5201609582845782222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510bc2f3a2e9ea900800000000000000
+      internalID: 697668896574713877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 169
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ed29d95c3e16980800000000000000
+      internalID: -8547300179880780253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 170
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031bc9a1199da70e0800000000000000
+      internalID: -2271263844815032016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillbug 171
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 65
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9a3c2e574bd1cd0800000000000000
+      internalID: -2585712192632149572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pillbug 0: 5954590914220600010
+      Pillbug 1: -1856464915060556005
+      Pillbug 10: -8051248859064095645
+      Pillbug 100: 915018406590766332
+      Pillbug 101: 6792407767351639851
+      Pillbug 102: -5430182834690081064
+      Pillbug 103: 4569969824768336654
+      Pillbug 104: -5090891009260371336
+      Pillbug 105: 9211534408128853866
+      Pillbug 106: -8303539110180774058
+      Pillbug 107: 4978151140763379383
+      Pillbug 108: -356343080738324385
+      Pillbug 109: -6797039713416610057
+      Pillbug 11: 5062944059375918955
+      Pillbug 110: 7931804044940004533
+      Pillbug 111: 441523948850222085
+      Pillbug 112: -2341720477493394630
+      Pillbug 113: -4390547600863961958
+      Pillbug 114: 108788362404869135
+      Pillbug 115: -8518173921725212265
+      Pillbug 116: 1830324712299670498
+      Pillbug 117: -4806625397050828417
+      Pillbug 118: -194298283698500835
+      Pillbug 119: -8610871551704229096
+      Pillbug 12: 3614301579336574422
+      Pillbug 120: 2313246102559811780
+      Pillbug 121: -8728418439430104743
+      Pillbug 122: -4128596992118438686
+      Pillbug 123: -4981731263769681776
+      Pillbug 124: -1868042190256344523
+      Pillbug 125: 5039565288901792212
+      Pillbug 126: 7108831427230993874
+      Pillbug 127: 5839388988388320363
+      Pillbug 128: 8394468339998265282
+      Pillbug 129: 5706106463848374578
+      Pillbug 13: 2793732930738792893
+      Pillbug 130: -1132736826906120531
+      Pillbug 131: -1453962097680764884
+      Pillbug 132: 6353098143659537867
+      Pillbug 133: 5694223512409687637
+      Pillbug 134: 2116232164863374375
+      Pillbug 135: 8992807602750555947
+      Pillbug 136: -6921066058060639614
+      Pillbug 137: -3198704364680255443
+      Pillbug 138: 1715586026927802939
+      Pillbug 139: 6718807153980042236
+      Pillbug 14: -306276873454274303
+      Pillbug 140: -157918839893968984
+      Pillbug 141: -5597865334199149924
+      Pillbug 142: -8510195000824731173
+      Pillbug 143: -7371865979029657195
+      Pillbug 144: 8222406895021438402
+      Pillbug 145: 1693807946808915617
+      Pillbug 146: 1627462140015841197
+      Pillbug 147: -7391685460308732720
+      Pillbug 148: 8355801704786808183
+      Pillbug 149: -7999748232992059455
+      Pillbug 15: -6705646774373068718
+      Pillbug 150: 7539369401714412071
+      Pillbug 151: -8005040828861930845
+      Pillbug 152: 6441717744086689460
+      Pillbug 153: 8917838872537131179
+      Pillbug 154: 4913701571585626030
+      Pillbug 155: -3105313042871679472
+      Pillbug 156: 7006977481865886420
+      Pillbug 157: 532064953526152015
+      Pillbug 158: 7680656811942974010
+      Pillbug 159: 1941907734013359159
+      Pillbug 16: 5948316831802943963
+      Pillbug 160: 7661747727424346624
+      Pillbug 161: -5352152581390824204
+      Pillbug 162: -4480197913099180254
+      Pillbug 163: -2831042014395586507
+      Pillbug 164: 782029044516546966
+      Pillbug 165: -3482286322640431427
+      Pillbug 166: -7307835967042229783
+      Pillbug 167: 5201609582845782222
+      Pillbug 168: 697668896574713877
+      Pillbug 169: -8547300179880780253
+      Pillbug 17: -1681849414475145583
+      Pillbug 170: -2271263844815032016
+      Pillbug 171: -2585712192632149572
+      Pillbug 18: 1462075221360578290
+      Pillbug 19: -9170902089025276538
+      Pillbug 2: 7861820772910789845
+      Pillbug 20: -3733774836840261015
+      Pillbug 21: 3257776577058552679
+      Pillbug 22: -1345012440256601172
+      Pillbug 23: -6517685979713807020
+      Pillbug 24: 6845395545322158718
+      Pillbug 25: 7105069655582142680
+      Pillbug 26: 1688084805862965323
+      Pillbug 27: -3059820132748072859
+      Pillbug 28: -7919236791718039150
+      Pillbug 29: -8427867962678478048
+      Pillbug 3: -7488828712392972166
+      Pillbug 30: -8026562903662319728
+      Pillbug 31: 4039385294381734997
+      Pillbug 32: 2961096319787359173
+      Pillbug 33: -5445496707977248939
+      Pillbug 34: 6890173014948352484
+      Pillbug 35: 7148889351742464709
+      Pillbug 36: -7182671266448384086
+      Pillbug 37: -5266272005372340152
+      Pillbug 38: 5126177060781814774
+      Pillbug 39: 30249348432133022
+      Pillbug 4: -1781586259541669551
+      Pillbug 40: -7555390545690385461
+      Pillbug 41: 7539185395591550129
+      Pillbug 42: 1922586081868533420
+      Pillbug 43: -3095964458568987129
+      Pillbug 44: 5638565754395334158
+      Pillbug 45: -5203477875745787592
+      Pillbug 46: 5948922120569378567
+      Pillbug 47: -6220519231566311687
+      Pillbug 48: -4507527183723088815
+      Pillbug 49: -7486552455534350683
+      Pillbug 5: 4771575658272059516
+      Pillbug 50: 3491818726605644204
+      Pillbug 51: -5247070858378142429
+      Pillbug 52: 6352080169288515427
+      Pillbug 53: -2898431456413195532
+      Pillbug 54: 6763157353869440286
+      Pillbug 55: -1407146817214656797
+      Pillbug 56: -2358349318405244494
+      Pillbug 57: 615810669730561906
+      Pillbug 58: -7969028461944145757
+      Pillbug 59: 2700614937613165390
+      Pillbug 6: -5763407243964091900
+      Pillbug 60: 5672621272914457115
+      Pillbug 61: 2125167648628779123
+      Pillbug 62: 1037849484208581714
+      Pillbug 63: -2827438976795097816
+      Pillbug 64: -543825392808376521
+      Pillbug 65: -1056281789732628070
+      Pillbug 66: 8938194913960616406
+      Pillbug 67: 6773596290835832110
+      Pillbug 68: -2555399613254068332
+      Pillbug 69: -4812129647713539669
+      Pillbug 7: -4356444073343973710
+      Pillbug 70: -2857142589716724274
+      Pillbug 71: -7843179574027479777
+      Pillbug 72: -8779406639270312932
+      Pillbug 73: -3932446993854603721
+      Pillbug 74: 864894726831452127
+      Pillbug 75: 2921489067032634405
+      Pillbug 76: 8875727745482505815
+      Pillbug 77: 4791079393100471408
+      Pillbug 78: -5331369982495343942
+      Pillbug 79: 7502164158167047267
+      Pillbug 8: -1719138106395531638
+      Pillbug 80: 6918089500827366309
+      Pillbug 81: 5082128839194417445
+      Pillbug 82: 5875072479135709624
+      Pillbug 83: -6182032143099711033
+      Pillbug 84: 6208732332424686051
+      Pillbug 85: -5558147237495040266
+      Pillbug 86: 5168189541891523253
+      Pillbug 87: -6012033296963990581
+      Pillbug 88: -656259707343847004
+      Pillbug 89: 4799800249855214421
+      Pillbug 9: -8779405397935689056
+      Pillbug 90: 5979937954601609508
+      Pillbug 91: -9163276972915619575
+      Pillbug 92: 1171435757024027601
+      Pillbug 93: -7431819654201651476
+      Pillbug 94: -5088837973882462421
+      Pillbug 95: 7656969682999116822
+      Pillbug 96: 7562771467797281872
+      Pillbug 97: -8618939025918544410
+      Pillbug 98: 3674023153921017931
+      Pillbug 99: 7187630443464309855
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

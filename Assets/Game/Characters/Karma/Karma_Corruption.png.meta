@@ -1,0 +1,3027 @@
+fileFormatVersion: 2
+guid: 386d61616af1d8f43a65c66297a10100
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3587366230655318738
+    second: Karma_Corruption 0
+  - first:
+      213: -5467424064934455109
+    second: Karma_Corruption 1
+  - first:
+      213: 7149749899201337235
+    second: Karma_Corruption 2
+  - first:
+      213: -3100771839196911749
+    second: Karma_Corruption 3
+  - first:
+      213: 3719508737228023760
+    second: Karma_Corruption 4
+  - first:
+      213: 8657086500736813410
+    second: Karma_Corruption 5
+  - first:
+      213: -8112882532158254845
+    second: Karma_Corruption 6
+  - first:
+      213: 8275100235811956733
+    second: Karma_Corruption 7
+  - first:
+      213: -3186581573534877710
+    second: Karma_Corruption 8
+  - first:
+      213: -4445027264786310808
+    second: Karma_Corruption 9
+  - first:
+      213: 4064602077380910029
+    second: Karma_Corruption 10
+  - first:
+      213: 984020382133461767
+    second: Karma_Corruption 11
+  - first:
+      213: 3015951707829002967
+    second: Karma_Corruption 12
+  - first:
+      213: 6149406676027072015
+    second: Karma_Corruption 13
+  - first:
+      213: 4665784669164961492
+    second: Karma_Corruption 14
+  - first:
+      213: -6258731905901578958
+    second: Karma_Corruption 15
+  - first:
+      213: -4944564733312265813
+    second: Karma_Corruption 16
+  - first:
+      213: 9014511255509850256
+    second: Karma_Corruption 17
+  - first:
+      213: 7536908301189631207
+    second: Karma_Corruption 18
+  - first:
+      213: 425274175959545690
+    second: Karma_Corruption 19
+  - first:
+      213: 3445254168490725263
+    second: Karma_Corruption 20
+  - first:
+      213: -8974820422118090230
+    second: Karma_Corruption 21
+  - first:
+      213: -7882003842202126913
+    second: Karma_Corruption 22
+  - first:
+      213: -5384368215033850687
+    second: Karma_Corruption 23
+  - first:
+      213: 2427367398697595508
+    second: Karma_Corruption 24
+  - first:
+      213: 1496624563244669536
+    second: Karma_Corruption 25
+  - first:
+      213: 7145142625487109229
+    second: Karma_Corruption 26
+  - first:
+      213: 1097178879274087832
+    second: Karma_Corruption 27
+  - first:
+      213: 7932682621803434441
+    second: Karma_Corruption 28
+  - first:
+      213: -7245048568892173754
+    second: Karma_Corruption 29
+  - first:
+      213: -6605424606194153687
+    second: Karma_Corruption 30
+  - first:
+      213: -1778781495063714569
+    second: Karma_Corruption 31
+  - first:
+      213: 3393601344705826549
+    second: Karma_Corruption 32
+  - first:
+      213: -3098568735471965951
+    second: Karma_Corruption 33
+  - first:
+      213: -1989786776601613452
+    second: Karma_Corruption 34
+  - first:
+      213: -6254137460275100250
+    second: Karma_Corruption 35
+  - first:
+      213: -8910199588097564954
+    second: Karma_Corruption 36
+  - first:
+      213: 3950231827329098713
+    second: Karma_Corruption 37
+  - first:
+      213: 7026172836998817990
+    second: Karma_Corruption 38
+  - first:
+      213: 8542496684293051774
+    second: Karma_Corruption 39
+  - first:
+      213: 6972395516482357886
+    second: Karma_Corruption 40
+  - first:
+      213: -8774056769382124363
+    second: Karma_Corruption 41
+  - first:
+      213: 1892044262147152342
+    second: Karma_Corruption 42
+  - first:
+      213: -7276314595474506560
+    second: Karma_Corruption 43
+  - first:
+      213: -2020296069880030439
+    second: Karma_Corruption 44
+  - first:
+      213: -4535274105565614779
+    second: Karma_Corruption 45
+  - first:
+      213: -7477301090351928400
+    second: Karma_Corruption 46
+  - first:
+      213: -3921988481993690704
+    second: Karma_Corruption 47
+  - first:
+      213: 5461057643663450316
+    second: Karma_Corruption 48
+  - first:
+      213: 6634063770559782076
+    second: Karma_Corruption 49
+  - first:
+      213: 6485417450623232380
+    second: Karma_Corruption 50
+  - first:
+      213: 8055118945933304476
+    second: Karma_Corruption 51
+  - first:
+      213: -6309689019415653508
+    second: Karma_Corruption 52
+  - first:
+      213: -2428315355856108061
+    second: Karma_Corruption 53
+  - first:
+      213: 3427775415408707522
+    second: Karma_Corruption 54
+  - first:
+      213: 4839250413489747253
+    second: Karma_Corruption 55
+  - first:
+      213: -4058235710805178077
+    second: Karma_Corruption 56
+  - first:
+      213: 5918897610046517146
+    second: Karma_Corruption 57
+  - first:
+      213: -8007385935144105603
+    second: Karma_Corruption 58
+  - first:
+      213: 2361516712450101932
+    second: Karma_Corruption 59
+  - first:
+      213: 1182561326253158604
+    second: Karma_Corruption 60
+  - first:
+      213: 5405712126637442012
+    second: Karma_Corruption 61
+  - first:
+      213: 7902783383352635177
+    second: Karma_Corruption 62
+  - first:
+      213: -5591710380488495905
+    second: Karma_Corruption 63
+  - first:
+      213: 2191254264708605084
+    second: Karma_Corruption 64
+  - first:
+      213: 3289358658194025352
+    second: Karma_Corruption 65
+  - first:
+      213: -5038964319730244644
+    second: Karma_Corruption 66
+  - first:
+      213: 232809326806162263
+    second: Karma_Corruption 67
+  - first:
+      213: 7795078749634694349
+    second: Karma_Corruption 68
+  - first:
+      213: -1621292950438840641
+    second: Karma_Corruption 69
+  - first:
+      213: 1481682787089960927
+    second: Karma_Corruption 70
+  - first:
+      213: -965206748437772293
+    second: Karma_Corruption 71
+  - first:
+      213: -5037342313959926992
+    second: Karma_Corruption 72
+  - first:
+      213: 6365957794965119394
+    second: Karma_Corruption 73
+  - first:
+      213: -7085188282683363858
+    second: Karma_Corruption 74
+  - first:
+      213: 9057722071647041636
+    second: Karma_Corruption 75
+  - first:
+      213: 9064498525040141923
+    second: Karma_Corruption 76
+  - first:
+      213: 5610252691358313961
+    second: Karma_Corruption 77
+  - first:
+      213: -4960701608200293817
+    second: Karma_Corruption 78
+  - first:
+      213: -5977643573895083023
+    second: Karma_Corruption 79
+  - first:
+      213: -4575214521476243497
+    second: Karma_Corruption 80
+  - first:
+      213: 1701203586397618011
+    second: Karma_Corruption 81
+  - first:
+      213: 6369006890395017651
+    second: Karma_Corruption 82
+  - first:
+      213: 3393820506046716781
+    second: Karma_Corruption 83
+  - first:
+      213: -7616928189290289719
+    second: Karma_Corruption 84
+  - first:
+      213: 2676478409482968294
+    second: Karma_Corruption 85
+  - first:
+      213: -1998969188986270694
+    second: Karma_Corruption 86
+  - first:
+      213: -8212494931336103784
+    second: Karma_Corruption 87
+  - first:
+      213: 324964032476446884
+    second: Karma_Corruption 88
+  - first:
+      213: 6668631821795685679
+    second: Karma_Corruption 89
+  - first:
+      213: -4613296175117521263
+    second: Karma_Corruption 90
+  - first:
+      213: 3620292031112020293
+    second: Karma_Corruption 91
+  - first:
+      213: 6399179855048138896
+    second: Karma_Corruption 92
+  - first:
+      213: 6847688043243796407
+    second: Karma_Corruption 93
+  - first:
+      213: -4961339090766492365
+    second: Karma_Corruption 94
+  - first:
+      213: -5007844798793804880
+    second: Karma_Corruption 95
+  - first:
+      213: 3211193092348580210
+    second: Karma_Corruption 96
+  - first:
+      213: -4094843290924381120
+    second: Karma_Corruption 97
+  - first:
+      213: 6992927083679539110
+    second: Karma_Corruption 98
+  - first:
+      213: 2759353894871495133
+    second: Karma_Corruption 99
+  - first:
+      213: -7272687618594923012
+    second: Karma_Corruption 100
+  - first:
+      213: 1540635942105554846
+    second: Karma_Corruption 101
+  - first:
+      213: 856260448534228028
+    second: Karma_Corruption 102
+  - first:
+      213: -9164160713822821507
+    second: Karma_Corruption 103
+  - first:
+      213: 7378814000012444312
+    second: Karma_Corruption 104
+  - first:
+      213: 6779111128139497274
+    second: Karma_Corruption 105
+  - first:
+      213: 4974642283048808151
+    second: Karma_Corruption 106
+  - first:
+      213: -4850191050696428180
+    second: Karma_Corruption 107
+  - first:
+      213: 7484986027307421770
+    second: Karma_Corruption 108
+  - first:
+      213: 8715466002129866885
+    second: Karma_Corruption 109
+  - first:
+      213: 5922431254810989826
+    second: Karma_Corruption 110
+  - first:
+      213: -8365919199828349659
+    second: Karma_Corruption 111
+  - first:
+      213: 5621590546175005383
+    second: Karma_Corruption 112
+  - first:
+      213: -7444571961689801435
+    second: Karma_Corruption 113
+  - first:
+      213: 806621446193492957
+    second: Karma_Corruption 114
+  - first:
+      213: 5931029427683199105
+    second: Karma_Corruption 115
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 638
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 638
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Karma_Corruption 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25ce8e7b6d173ec0800000000000000
+      internalID: -3587366230655318738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 580
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8d825d7cecf14b0800000000000000
+      internalID: -5467424064934455109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 580
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397d7cef6a3093360800000000000000
+      internalID: 7149749899201337235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 580
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77222bd078d7f4d0800000000000000
+      internalID: -3100771839196911749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 580
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7207d5d795e9330800000000000000
+      internalID: 3719508737228023760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 580
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2694f322e46242870800000000000000
+      internalID: 8657086500736813410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 580
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3015c362250496f80800000000000000
+      internalID: -8112882532158254845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 580
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7a25432df07d270800000000000000
+      internalID: 8275100235811956733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 580
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7f5ad21fcf6c3d0800000000000000
+      internalID: -3186581573534877710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 580
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8695c71e0471052c0800000000000000
+      internalID: -4445027264786310808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 580
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb9a9fdd0e586830800000000000000
+      internalID: 4064602077380910029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7032fc0f251f7ad00800000000000000
+      internalID: 984020382133461767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 522
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d261ec5910dad920800000000000000
+      internalID: 3015951707829002967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 522
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e52087ac4175550800000000000000
+      internalID: 6149406676027072015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 522
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de7a0caf6230c040800000000000000
+      internalID: 4665784669164961492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 522
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2353554ed748429a0800000000000000
+      internalID: -6258731905901578958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 522
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba19ffd8290616bb0800000000000000
+      internalID: -4944564733312265813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 522
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098dc68d93af91d70800000000000000
+      internalID: 9014511255509850256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 522
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecc91dea2a789860800000000000000
+      internalID: 7536908301189631207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 522
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57373e1c90e6e500800000000000000
+      internalID: 425274175959545690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 20
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 522
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fc2d9996000df20800000000000000
+      internalID: 3445254168490725263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 522
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0adab07068037380800000000000000
+      internalID: -8974820422118090230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb53743244f7d9290800000000000000
+      internalID: -7882003842202126913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 464
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4d003d2a1e645b0800000000000000
+      internalID: -5384368215033850687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 464
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472fbb2d9cdbfa120800000000000000
+      internalID: 2427367398697595508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 464
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a925e5c1415c410800000000000000
+      internalID: 1496624563244669536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 464
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c39ad7c55a82360800000000000000
+      internalID: 7145142625487109229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 464
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895713aa066f93f00800000000000000
+      internalID: 1097178879274087832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 28
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 464
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1128cb0dc861e60800000000000000
+      internalID: 7932682621803434441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 464
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642dab666ba647b90800000000000000
+      internalID: -7245048568892173754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 464
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9274c255151d454a0800000000000000
+      internalID: -6605424606194153687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 464
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f460b597af7057e0800000000000000
+      internalID: -1778781495063714569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 32
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 464
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe8a74617e781f20800000000000000
+      internalID: 3393601344705826549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109ef0ae62caff4d0800000000000000
+      internalID: -3098568735471965951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 406
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b24e1187bd264e0800000000000000
+      internalID: -1989786776601613452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 35
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 406
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5c6df9d17d439a0800000000000000
+      internalID: -6254137460275100250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 406
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eedc91deac985480800000000000000
+      internalID: -8910199588097564954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 37
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 406
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3a460faea02d630800000000000000
+      internalID: 3950231827329098713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 38
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 406
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c820df08faf18160800000000000000
+      internalID: 7026172836998817990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 406
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e755d3a697b0d8670800000000000000
+      internalID: 8542496684293051774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 40
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 406
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a0579e7cce2c060800000000000000
+      internalID: 6972395516482357886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 41
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 406
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4fdddead94c3680800000000000000
+      internalID: -8774056769382124363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 406
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9d8906b34e14a10800000000000000
+      internalID: 1892044262147152342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 406
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc70ce4d66550b90800000000000000
+      internalID: -7276314595474506560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bdeadad6776f3e0800000000000000
+      internalID: -2020296069880030439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 348
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54debbada387f01c0800000000000000
+      internalID: -4535274105565614779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 348
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbaee6564a4b3890800000000000000
+      internalID: -7477301090351928400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 47
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 348
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1b795514c4299c0800000000000000
+      internalID: -3921988481993690704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 48
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 348
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0ed743ef299cb40800000000000000
+      internalID: 5461057643663450316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 49
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 348
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc118db9dde01c50800000000000000
+      internalID: 6634063770559782076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 348
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7964846fc4d00a50800000000000000
+      internalID: 6485417450623232380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 51
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 348
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92afd3e00889cf60800000000000000
+      internalID: 8055118945933304476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 52
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 348
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c731c8a544b7f68a0800000000000000
+      internalID: -6309689019415653508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 53
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 348
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e50293bc04ec4ed0800000000000000
+      internalID: -2428315355856108061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 54
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 348
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7c0454497e19f20800000000000000
+      internalID: 3427775415408707522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535f7339c98782340800000000000000
+      internalID: 4839250413489747253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 290
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32907aa5f104ea7c0800000000000000
+      internalID: -4058235710805178077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 464
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f2bb44406242250800000000000000
+      internalID: 5918897610046517146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 58
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 290
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79c64cbaec00e090800000000000000
+      internalID: -8007385935144105603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 59
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 290
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca29cb820fac5c020800000000000000
+      internalID: 2361516712450101932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 60
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 290
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc03f60c24d496010800000000000000
+      internalID: 1182561326253158604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 61
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 290
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd30f3ad982f40b40800000000000000
+      internalID: 5405712126637442012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 290
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fe79dcd935cad60800000000000000
+      internalID: 7902783383352635177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 63
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 290
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc6e1cf8014662b0800000000000000
+      internalID: -5591710380488495905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 64
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 290
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94248cd426e86e10800000000000000
+      internalID: 2191254264708605084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 65
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 290
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ba288954626ad20800000000000000
+      internalID: 3289358658194025352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 66
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 290
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd36c9616a0021ab0800000000000000
+      internalID: -5038964319730244644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 67
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 290
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bdda869da1b3300800000000000000
+      internalID: 232809326806162263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc0c2c92dead2c60800000000000000
+      internalID: 7795078749634694349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 69
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 232
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb67f3cc6a20089e0800000000000000
+      internalID: -1621292950438840641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 70
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 232
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfce4205aeff8410800000000000000
+      internalID: 1481682787089960927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 71
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 232
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf78e808395ea92f0800000000000000
+      internalID: -965206748437772293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 72
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 232
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033df5cbad3c71ab0800000000000000
+      internalID: -5037342313959926992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 73
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 232
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a16600e2ec685850800000000000000
+      internalID: 6365957794965119394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 74
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 232
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eede5ebbbca5cad90800000000000000
+      internalID: -7085188282683363858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 75
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 232
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468bcbafb3e73bd70800000000000000
+      internalID: 9057722071647041636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 76
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 232
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366e11cf1619bcd70800000000000000
+      internalID: 9064498525040141923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 77
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 232
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed6790391f9bdd40800000000000000
+      internalID: 5610252691358313961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 78
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 232
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74233869b2c082bb0800000000000000
+      internalID: -4960701608200293817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb461827d42b0da0800000000000000
+      internalID: -5977643573895083023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 80
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 174
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df133c12a29180c0800000000000000
+      internalID: -4575214521476243497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 174
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fb9d106a3eb9710800000000000000
+      internalID: 1701203586397618011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 82
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 174
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1a20ab502436850800000000000000
+      internalID: 6369006890395017651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 83
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 174
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bd95ed4c5491f20800000000000000
+      internalID: 3393820506046716781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 84
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 174
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c561b50b2c3b4690800000000000000
+      internalID: -7616928189290289719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 85
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 174
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec1c3ecee2c42520800000000000000
+      internalID: 2676478409482968294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 86
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 464
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cc5851d1c3244e0800000000000000
+      internalID: -1998969188986270694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 87
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 174
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898f3022f5b570e80800000000000000
+      internalID: -8212494931336103784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 88
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 174
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a08988d011828400800000000000000
+      internalID: 324964032476446884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 89
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 174
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f257ffb5f4dbb8c50800000000000000
+      internalID: 6668631821795685679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 90
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 174
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ea37e22974affb0800000000000000
+      internalID: -4613296175117521263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5410c91db6cdd3230800000000000000
+      internalID: 3620292031112020293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090eaf18c247ec850800000000000000
+      internalID: 6399179855048138896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 93
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 116
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b77c36aeffd70f50800000000000000
+      internalID: 6847688043243796407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 94
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 116
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d8a9c1268c52bb0800000000000000
+      internalID: -4961339090766492365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 95
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 116
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b39b9d20bf808ab0800000000000000
+      internalID: -5007844798793804880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 96
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 116
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27110a69a13709c20800000000000000
+      internalID: 3211193092348580210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 97
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 116
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c8f89e8b13c27c0800000000000000
+      internalID: -4094843290924381120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 98
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 116
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af5deae12edb0160800000000000000
+      internalID: 6992927083679539110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 99
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 116
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1f7696fb13b4620800000000000000
+      internalID: 2759353894871495133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 100
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 116
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd944ba429321b90800000000000000
+      internalID: -7272687618594923012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 101
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 116
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f96690a30716510800000000000000
+      internalID: 1540635942105554846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 102
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 116
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c691e575c02eb00800000000000000
+      internalID: 856260448534228028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d732004726c52d080800000000000000
+      internalID: -9164160713822821507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 104
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 58
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892cb660d30d66660800000000000000
+      internalID: 7378814000012444312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 105
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 58
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ff6ad57ad341e50800000000000000
+      internalID: 6779111128139497274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 106
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 58
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de23c5bcca790540800000000000000
+      internalID: 4974642283048808151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 107
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 58
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65f572dfe8a0bcb0800000000000000
+      internalID: -4850191050696428180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 108
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 58
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40db6a722300e760800000000000000
+      internalID: 7484986027307421770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 109
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 58
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580d1f4072e83f870800000000000000
+      internalID: 8715466002129866885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 110
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 58
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2051ead09d3b03250800000000000000
+      internalID: 5922431254810989826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 111
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 58
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d6c92ffc846eb80800000000000000
+      internalID: -8365919199828349659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 112
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 58
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2947931d6e30e40800000000000000
+      internalID: 5621590546175005383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 113
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 58
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d75ae6e319fa890800000000000000
+      internalID: -7444571961689801435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd333908ee1b13b00800000000000000
+      internalID: 806621446193492957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Corruption 115
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 464
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188027d27df3f4250800000000000000
+      internalID: 5931029427683199105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Karma_Corruption 0: -3587366230655318738
+      Karma_Corruption 1: -5467424064934455109
+      Karma_Corruption 10: 4064602077380910029
+      Karma_Corruption 100: -7272687618594923012
+      Karma_Corruption 101: 1540635942105554846
+      Karma_Corruption 102: 856260448534228028
+      Karma_Corruption 103: -9164160713822821507
+      Karma_Corruption 104: 7378814000012444312
+      Karma_Corruption 105: 6779111128139497274
+      Karma_Corruption 106: 4974642283048808151
+      Karma_Corruption 107: -4850191050696428180
+      Karma_Corruption 108: 7484986027307421770
+      Karma_Corruption 109: 8715466002129866885
+      Karma_Corruption 11: 984020382133461767
+      Karma_Corruption 110: 5922431254810989826
+      Karma_Corruption 111: -8365919199828349659
+      Karma_Corruption 112: 5621590546175005383
+      Karma_Corruption 113: -7444571961689801435
+      Karma_Corruption 114: 806621446193492957
+      Karma_Corruption 115: 5931029427683199105
+      Karma_Corruption 12: 3015951707829002967
+      Karma_Corruption 13: 6149406676027072015
+      Karma_Corruption 14: 4665784669164961492
+      Karma_Corruption 15: -6258731905901578958
+      Karma_Corruption 16: -4944564733312265813
+      Karma_Corruption 17: 9014511255509850256
+      Karma_Corruption 18: 7536908301189631207
+      Karma_Corruption 19: 425274175959545690
+      Karma_Corruption 2: 7149749899201337235
+      Karma_Corruption 20: 3445254168490725263
+      Karma_Corruption 21: -8974820422118090230
+      Karma_Corruption 22: -7882003842202126913
+      Karma_Corruption 23: -5384368215033850687
+      Karma_Corruption 24: 2427367398697595508
+      Karma_Corruption 25: 1496624563244669536
+      Karma_Corruption 26: 7145142625487109229
+      Karma_Corruption 27: 1097178879274087832
+      Karma_Corruption 28: 7932682621803434441
+      Karma_Corruption 29: -7245048568892173754
+      Karma_Corruption 3: -3100771839196911749
+      Karma_Corruption 30: -6605424606194153687
+      Karma_Corruption 31: -1778781495063714569
+      Karma_Corruption 32: 3393601344705826549
+      Karma_Corruption 33: -3098568735471965951
+      Karma_Corruption 34: -1989786776601613452
+      Karma_Corruption 35: -6254137460275100250
+      Karma_Corruption 36: -8910199588097564954
+      Karma_Corruption 37: 3950231827329098713
+      Karma_Corruption 38: 7026172836998817990
+      Karma_Corruption 39: 8542496684293051774
+      Karma_Corruption 4: 3719508737228023760
+      Karma_Corruption 40: 6972395516482357886
+      Karma_Corruption 41: -8774056769382124363
+      Karma_Corruption 42: 1892044262147152342
+      Karma_Corruption 43: -7276314595474506560
+      Karma_Corruption 44: -2020296069880030439
+      Karma_Corruption 45: -4535274105565614779
+      Karma_Corruption 46: -7477301090351928400
+      Karma_Corruption 47: -3921988481993690704
+      Karma_Corruption 48: 5461057643663450316
+      Karma_Corruption 49: 6634063770559782076
+      Karma_Corruption 5: 8657086500736813410
+      Karma_Corruption 50: 6485417450623232380
+      Karma_Corruption 51: 8055118945933304476
+      Karma_Corruption 52: -6309689019415653508
+      Karma_Corruption 53: -2428315355856108061
+      Karma_Corruption 54: 3427775415408707522
+      Karma_Corruption 55: 4839250413489747253
+      Karma_Corruption 56: -4058235710805178077
+      Karma_Corruption 57: 5918897610046517146
+      Karma_Corruption 58: -8007385935144105603
+      Karma_Corruption 59: 2361516712450101932
+      Karma_Corruption 6: -8112882532158254845
+      Karma_Corruption 60: 1182561326253158604
+      Karma_Corruption 61: 5405712126637442012
+      Karma_Corruption 62: 7902783383352635177
+      Karma_Corruption 63: -5591710380488495905
+      Karma_Corruption 64: 2191254264708605084
+      Karma_Corruption 65: 3289358658194025352
+      Karma_Corruption 66: -5038964319730244644
+      Karma_Corruption 67: 232809326806162263
+      Karma_Corruption 68: 7795078749634694349
+      Karma_Corruption 69: -1621292950438840641
+      Karma_Corruption 7: 8275100235811956733
+      Karma_Corruption 70: 1481682787089960927
+      Karma_Corruption 71: -965206748437772293
+      Karma_Corruption 72: -5037342313959926992
+      Karma_Corruption 73: 6365957794965119394
+      Karma_Corruption 74: -7085188282683363858
+      Karma_Corruption 75: 9057722071647041636
+      Karma_Corruption 76: 9064498525040141923
+      Karma_Corruption 77: 5610252691358313961
+      Karma_Corruption 78: -4960701608200293817
+      Karma_Corruption 79: -5977643573895083023
+      Karma_Corruption 8: -3186581573534877710
+      Karma_Corruption 80: -4575214521476243497
+      Karma_Corruption 81: 1701203586397618011
+      Karma_Corruption 82: 6369006890395017651
+      Karma_Corruption 83: 3393820506046716781
+      Karma_Corruption 84: -7616928189290289719
+      Karma_Corruption 85: 2676478409482968294
+      Karma_Corruption 86: -1998969188986270694
+      Karma_Corruption 87: -8212494931336103784
+      Karma_Corruption 88: 324964032476446884
+      Karma_Corruption 89: 6668631821795685679
+      Karma_Corruption 9: -4445027264786310808
+      Karma_Corruption 90: -4613296175117521263
+      Karma_Corruption 91: 3620292031112020293
+      Karma_Corruption 92: 6399179855048138896
+      Karma_Corruption 93: 6847688043243796407
+      Karma_Corruption 94: -4961339090766492365
+      Karma_Corruption 95: -5007844798793804880
+      Karma_Corruption 96: 3211193092348580210
+      Karma_Corruption 97: -4094843290924381120
+      Karma_Corruption 98: 6992927083679539110
+      Karma_Corruption 99: 2759353894871495133
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

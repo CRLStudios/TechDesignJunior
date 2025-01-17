@@ -1,0 +1,6130 @@
+fileFormatVersion: 2
+guid: 412e1e0545c2e224ebfd8bfc98330710
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3198758804579273465
+    second: KarmaFish 0
+  - first:
+      213: 3815032380733323672
+    second: KarmaFish 1
+  - first:
+      213: 8359599684573260329
+    second: KarmaFish 2
+  - first:
+      213: 556530046081968408
+    second: KarmaFish 3
+  - first:
+      213: -8469619540079757567
+    second: KarmaFish 4
+  - first:
+      213: -2246337461719364923
+    second: KarmaFish 5
+  - first:
+      213: -2913627814495172658
+    second: KarmaFish 6
+  - first:
+      213: -3518242387487559659
+    second: KarmaFish 7
+  - first:
+      213: 8820641488689436154
+    second: KarmaFish 8
+  - first:
+      213: 1250187315855047745
+    second: KarmaFish 9
+  - first:
+      213: 1904694608633458196
+    second: KarmaFish 10
+  - first:
+      213: 8283302988568810348
+    second: KarmaFish 11
+  - first:
+      213: -37681201324511920
+    second: KarmaFish 12
+  - first:
+      213: 4235052175925912311
+    second: KarmaFish 13
+  - first:
+      213: -6457079064748294826
+    second: KarmaFish 14
+  - first:
+      213: 1694366172944858829
+    second: KarmaFish 15
+  - first:
+      213: 8782613533709250048
+    second: KarmaFish 16
+  - first:
+      213: 350585739862486223
+    second: KarmaFish 17
+  - first:
+      213: 1199557719491219271
+    second: KarmaFish 18
+  - first:
+      213: 8060840457769565663
+    second: KarmaFish 19
+  - first:
+      213: -7989527082988281571
+    second: KarmaFish 20
+  - first:
+      213: -3811295742591858813
+    second: KarmaFish 21
+  - first:
+      213: 1440752121716411439
+    second: KarmaFish 22
+  - first:
+      213: 6941729316254191102
+    second: KarmaFish 23
+  - first:
+      213: 3730482945247970916
+    second: KarmaFish 24
+  - first:
+      213: -4733061084196732141
+    second: KarmaFish 25
+  - first:
+      213: 2938906911503865850
+    second: KarmaFish 26
+  - first:
+      213: 2993023927887808155
+    second: KarmaFish 27
+  - first:
+      213: 2820351171744424265
+    second: KarmaFish 28
+  - first:
+      213: 586392176440913735
+    second: KarmaFish 29
+  - first:
+      213: 1383860871919332353
+    second: KarmaFish 30
+  - first:
+      213: 2692442496279864622
+    second: KarmaFish 31
+  - first:
+      213: 6757661299781620988
+    second: KarmaFish 32
+  - first:
+      213: -9038901869076197509
+    second: KarmaFish 33
+  - first:
+      213: 5008584060074008635
+    second: KarmaFish 34
+  - first:
+      213: 3579415834741262001
+    second: KarmaFish 35
+  - first:
+      213: -3944923321491235928
+    second: KarmaFish 36
+  - first:
+      213: 1374846991722812697
+    second: KarmaFish 37
+  - first:
+      213: 6944681150927349060
+    second: KarmaFish 38
+  - first:
+      213: -1572536304523968214
+    second: KarmaFish 39
+  - first:
+      213: 1887941510127650495
+    second: KarmaFish 40
+  - first:
+      213: -3277815853298307137
+    second: KarmaFish 41
+  - first:
+      213: 5490796259527360879
+    second: KarmaFish 42
+  - first:
+      213: -3548500329259573079
+    second: KarmaFish 43
+  - first:
+      213: 5117814147102143538
+    second: KarmaFish 44
+  - first:
+      213: 389548204922581901
+    second: KarmaFish 45
+  - first:
+      213: -2848931758616355173
+    second: KarmaFish 46
+  - first:
+      213: 5362900066877972815
+    second: KarmaFish 47
+  - first:
+      213: 3302816723846843788
+    second: KarmaFish 48
+  - first:
+      213: -7904393755270373644
+    second: KarmaFish 49
+  - first:
+      213: 3674857103166724589
+    second: KarmaFish 50
+  - first:
+      213: -7830625663603860143
+    second: KarmaFish 51
+  - first:
+      213: 2589703439975615590
+    second: KarmaFish 52
+  - first:
+      213: -1232396127884625732
+    second: KarmaFish 53
+  - first:
+      213: -2929721027485813764
+    second: KarmaFish 54
+  - first:
+      213: 6949627499308111086
+    second: KarmaFish 55
+  - first:
+      213: 6346067022343172079
+    second: KarmaFish 56
+  - first:
+      213: 5542095879057406133
+    second: KarmaFish 57
+  - first:
+      213: 8232885838864312360
+    second: KarmaFish 58
+  - first:
+      213: 3429385875998365679
+    second: KarmaFish 59
+  - first:
+      213: 723427811291833016
+    second: KarmaFish 60
+  - first:
+      213: -3688658506682846266
+    second: KarmaFish 61
+  - first:
+      213: -1540018808981990086
+    second: KarmaFish 62
+  - first:
+      213: -6215724999973883041
+    second: KarmaFish 63
+  - first:
+      213: 2764900597627409320
+    second: KarmaFish 64
+  - first:
+      213: 8582335217110138010
+    second: KarmaFish 65
+  - first:
+      213: -687347544845880865
+    second: KarmaFish 66
+  - first:
+      213: -3308012310283584631
+    second: KarmaFish 67
+  - first:
+      213: -3972466011375534234
+    second: KarmaFish 68
+  - first:
+      213: -4429327592417230361
+    second: KarmaFish 69
+  - first:
+      213: 6404852387861699361
+    second: KarmaFish 70
+  - first:
+      213: -5514259884159023857
+    second: KarmaFish 71
+  - first:
+      213: 1316503612413259612
+    second: KarmaFish 72
+  - first:
+      213: -8373877162074109344
+    second: KarmaFish 73
+  - first:
+      213: 6647792915420828893
+    second: KarmaFish 74
+  - first:
+      213: -2235468891945786480
+    second: KarmaFish 75
+  - first:
+      213: -542299600887095692
+    second: KarmaFish 76
+  - first:
+      213: -4124213005045058200
+    second: KarmaFish 77
+  - first:
+      213: 5952507967161105269
+    second: KarmaFish 78
+  - first:
+      213: 6662753949312817362
+    second: KarmaFish 79
+  - first:
+      213: -3857635808121386343
+    second: KarmaFish 80
+  - first:
+      213: 6153495533656833487
+    second: KarmaFish 81
+  - first:
+      213: 350290698155715975
+    second: KarmaFish 82
+  - first:
+      213: -6904582680716856248
+    second: KarmaFish 83
+  - first:
+      213: -597959163890847669
+    second: KarmaFish 84
+  - first:
+      213: -7295610282802834142
+    second: KarmaFish 85
+  - first:
+      213: -2944049200993138937
+    second: KarmaFish 86
+  - first:
+      213: 450698779348492364
+    second: KarmaFish 87
+  - first:
+      213: -4825395364650782023
+    second: KarmaFish 88
+  - first:
+      213: -5097601897573001908
+    second: KarmaFish 89
+  - first:
+      213: -8186323487072934304
+    second: KarmaFish 90
+  - first:
+      213: 6695553704642685442
+    second: KarmaFish 91
+  - first:
+      213: -1733957001615646879
+    second: KarmaFish 92
+  - first:
+      213: -6219918224787005371
+    second: KarmaFish 93
+  - first:
+      213: -6426829532569565141
+    second: KarmaFish 94
+  - first:
+      213: -4733897312700442572
+    second: KarmaFish 95
+  - first:
+      213: -7306390558958372452
+    second: KarmaFish 96
+  - first:
+      213: -8157211825671033246
+    second: KarmaFish 97
+  - first:
+      213: -8536303483607993962
+    second: KarmaFish 98
+  - first:
+      213: 6954731510977007440
+    second: KarmaFish 99
+  - first:
+      213: -6716019217102094924
+    second: KarmaFish 100
+  - first:
+      213: 8738501322491643578
+    second: KarmaFish 101
+  - first:
+      213: -2768111347790973639
+    second: KarmaFish 102
+  - first:
+      213: 7526888507236390205
+    second: KarmaFish 103
+  - first:
+      213: 3948750652960786763
+    second: KarmaFish 104
+  - first:
+      213: 6982023720460043458
+    second: KarmaFish 105
+  - first:
+      213: -8170107928922842317
+    second: KarmaFish 106
+  - first:
+      213: 7283673350503348161
+    second: KarmaFish 107
+  - first:
+      213: 4936859966202287696
+    second: KarmaFish 108
+  - first:
+      213: -8667792598453254097
+    second: KarmaFish 109
+  - first:
+      213: -4097572065306868680
+    second: KarmaFish 110
+  - first:
+      213: 1947565439572121957
+    second: KarmaFish 111
+  - first:
+      213: -2466477496811122998
+    second: KarmaFish 112
+  - first:
+      213: 5275926384893808531
+    second: KarmaFish 113
+  - first:
+      213: 4937906432540979872
+    second: KarmaFish 114
+  - first:
+      213: 3471414522148278970
+    second: KarmaFish 115
+  - first:
+      213: -3916981030087271080
+    second: KarmaFish 116
+  - first:
+      213: -8718295162378420596
+    second: KarmaFish 117
+  - first:
+      213: 4287415672784113828
+    second: KarmaFish 118
+  - first:
+      213: 9112719534339590905
+    second: KarmaFish 119
+  - first:
+      213: -1408111854913307256
+    second: KarmaFish 120
+  - first:
+      213: -3257580715931147520
+    second: KarmaFish 121
+  - first:
+      213: 1955863050625522644
+    second: KarmaFish 122
+  - first:
+      213: -7914417286659222197
+    second: KarmaFish 123
+  - first:
+      213: 7959688405880759507
+    second: KarmaFish 124
+  - first:
+      213: -6686285501681299297
+    second: KarmaFish 125
+  - first:
+      213: 8572790868586579332
+    second: KarmaFish 126
+  - first:
+      213: 2803052738731071012
+    second: KarmaFish 127
+  - first:
+      213: 5399491020352930034
+    second: KarmaFish 128
+  - first:
+      213: 3113494872530819547
+    second: KarmaFish 129
+  - first:
+      213: -4963186504823215766
+    second: KarmaFish 130
+  - first:
+      213: -5716040898847590126
+    second: KarmaFish 131
+  - first:
+      213: 7060856120727479311
+    second: KarmaFish 132
+  - first:
+      213: 6895611222387701907
+    second: KarmaFish 133
+  - first:
+      213: 3635476835599017847
+    second: KarmaFish 134
+  - first:
+      213: 9149749995197983373
+    second: KarmaFish 135
+  - first:
+      213: -8902791784123694510
+    second: KarmaFish 136
+  - first:
+      213: 4494905864215129629
+    second: KarmaFish 137
+  - first:
+      213: -1424077854616885012
+    second: KarmaFish 138
+  - first:
+      213: -305583378865798019
+    second: KarmaFish 139
+  - first:
+      213: 7736292360370551419
+    second: KarmaFish 140
+  - first:
+      213: -5091691284014305756
+    second: KarmaFish 141
+  - first:
+      213: 8974235977849712717
+    second: KarmaFish 142
+  - first:
+      213: 7724445799435099293
+    second: KarmaFish 143
+  - first:
+      213: -3389445421283196558
+    second: KarmaFish 144
+  - first:
+      213: -3505859136281902305
+    second: KarmaFish 145
+  - first:
+      213: -5017798013911821342
+    second: KarmaFish 146
+  - first:
+      213: 8288011465984457963
+    second: KarmaFish 147
+  - first:
+      213: -324865395877216166
+    second: KarmaFish 148
+  - first:
+      213: -7406147501067359166
+    second: KarmaFish 149
+  - first:
+      213: -1021006933186285142
+    second: KarmaFish 150
+  - first:
+      213: -2041711093152802096
+    second: KarmaFish 151
+  - first:
+      213: -60252538683868635
+    second: KarmaFish 152
+  - first:
+      213: 4175837568641825879
+    second: KarmaFish 153
+  - first:
+      213: 2094954455351953452
+    second: KarmaFish 154
+  - first:
+      213: -931888289305643979
+    second: KarmaFish 155
+  - first:
+      213: 737164319276985147
+    second: KarmaFish 156
+  - first:
+      213: -1450721170451429625
+    second: KarmaFish 157
+  - first:
+      213: -3155202720113597328
+    second: KarmaFish 158
+  - first:
+      213: -4288448471412988406
+    second: KarmaFish 159
+  - first:
+      213: -1299412429936295156
+    second: KarmaFish 160
+  - first:
+      213: -4407518714558690743
+    second: KarmaFish 161
+  - first:
+      213: -846392041659482206
+    second: KarmaFish 162
+  - first:
+      213: 7264020328644308965
+    second: KarmaFish 163
+  - first:
+      213: 341794740294946556
+    second: KarmaFish 164
+  - first:
+      213: -4239116588375347756
+    second: KarmaFish 165
+  - first:
+      213: 3485824961055711163
+    second: KarmaFish 166
+  - first:
+      213: 6704198251738867830
+    second: KarmaFish 167
+  - first:
+      213: 1323601825222971897
+    second: KarmaFish 168
+  - first:
+      213: 88755992764948664
+    second: KarmaFish 169
+  - first:
+      213: -2152528830418956527
+    second: KarmaFish 170
+  - first:
+      213: -7886841585678706412
+    second: KarmaFish 171
+  - first:
+      213: 3250498181894728202
+    second: KarmaFish 172
+  - first:
+      213: 8647885867871300548
+    second: KarmaFish 173
+  - first:
+      213: 2892279912526382152
+    second: KarmaFish 174
+  - first:
+      213: -6958322952904874948
+    second: KarmaFish 175
+  - first:
+      213: -3110244331359220010
+    second: KarmaFish 176
+  - first:
+      213: -8290977804080253570
+    second: KarmaFish 177
+  - first:
+      213: 448549655655682678
+    second: KarmaFish 178
+  - first:
+      213: -876600780649863214
+    second: KarmaFish 179
+  - first:
+      213: -8341161455870902271
+    second: KarmaFish 180
+  - first:
+      213: -3312425957280853984
+    second: KarmaFish 181
+  - first:
+      213: -6700151487815831232
+    second: KarmaFish 182
+  - first:
+      213: -6956174336503673031
+    second: KarmaFish 183
+  - first:
+      213: -3871882173390598953
+    second: KarmaFish 184
+  - first:
+      213: 3105012019505670438
+    second: KarmaFish 185
+  - first:
+      213: -3878155442678911572
+    second: KarmaFish 186
+  - first:
+      213: -2765243175999168671
+    second: KarmaFish 187
+  - first:
+      213: -1357757622256770866
+    second: KarmaFish 188
+  - first:
+      213: 600328081104825667
+    second: KarmaFish 189
+  - first:
+      213: -6748172463652969800
+    second: KarmaFish 190
+  - first:
+      213: -7709611107212754391
+    second: KarmaFish 191
+  - first:
+      213: 4205199939820793825
+    second: KarmaFish 192
+  - first:
+      213: -7009567467350612172
+    second: KarmaFish 193
+  - first:
+      213: -2297195294433787960
+    second: KarmaFish 194
+  - first:
+      213: -8055181672130310976
+    second: KarmaFish 195
+  - first:
+      213: -1167569026971650958
+    second: KarmaFish 196
+  - first:
+      213: 8376651305439370763
+    second: KarmaFish 197
+  - first:
+      213: 8564040678380681168
+    second: KarmaFish 198
+  - first:
+      213: 2658466023023402117
+    second: KarmaFish 199
+  - first:
+      213: 6080037532535689314
+    second: KarmaFish 200
+  - first:
+      213: -3783829043550030098
+    second: KarmaFish 201
+  - first:
+      213: -3154317786538200678
+    second: KarmaFish 202
+  - first:
+      213: -474167970264619073
+    second: KarmaFish 203
+  - first:
+      213: 7351101140586196343
+    second: KarmaFish 204
+  - first:
+      213: 5701755147101235332
+    second: KarmaFish 205
+  - first:
+      213: -7672240340641010132
+    second: KarmaFish 206
+  - first:
+      213: 4268804969710810598
+    second: KarmaFish 207
+  - first:
+      213: 2842691521122568827
+    second: KarmaFish 208
+  - first:
+      213: -3232870117706888881
+    second: KarmaFish 209
+  - first:
+      213: -5752586370398806351
+    second: KarmaFish 210
+  - first:
+      213: -2592684854231349475
+    second: KarmaFish 211
+  - first:
+      213: -6339430417008033103
+    second: KarmaFish 212
+  - first:
+      213: 4599321885440124850
+    second: KarmaFish 213
+  - first:
+      213: -652830944256656824
+    second: KarmaFish 214
+  - first:
+      213: 7969208524351091450
+    second: KarmaFish 215
+  - first:
+      213: 3335520246661653631
+    second: KarmaFish 216
+  - first:
+      213: 3856274641442370805
+    second: KarmaFish 217
+  - first:
+      213: 4387929146923765577
+    second: KarmaFish 218
+  - first:
+      213: 2518871107445883060
+    second: KarmaFish 219
+  - first:
+      213: 3296178545779115932
+    second: KarmaFish 220
+  - first:
+      213: 1271869148773806055
+    second: KarmaFish 221
+  - first:
+      213: -2604699485484858122
+    second: KarmaFish 222
+  - first:
+      213: -2543953206205157819
+    second: KarmaFish 223
+  - first:
+      213: -5308356023584174708
+    second: KarmaFish 224
+  - first:
+      213: 3593812672200161559
+    second: KarmaFish 225
+  - first:
+      213: 5723467282617040662
+    second: KarmaFish 226
+  - first:
+      213: -954357083172777559
+    second: KarmaFish 227
+  - first:
+      213: 8817010880822253327
+    second: KarmaFish 228
+  - first:
+      213: 150523875071599106
+    second: KarmaFish 229
+  - first:
+      213: 5348492435672287209
+    second: KarmaFish 230
+  - first:
+      213: 4482737781798776905
+    second: KarmaFish 231
+  - first:
+      213: 5916275377292361461
+    second: KarmaFish 232
+  - first:
+      213: 6156169159107963011
+    second: KarmaFish 233
+  - first:
+      213: -7211671661963298804
+    second: KarmaFish 234
+  - first:
+      213: 4951194564300008692
+    second: KarmaFish 235
+  - first:
+      213: 4429650676722630743
+    second: KarmaFish 236
+  - first:
+      213: 1817898973880550622
+    second: KarmaFish 237
+  - first:
+      213: -4361647030694395833
+    second: KarmaFish 238
+  - first:
+      213: -3286388068945506507
+    second: KarmaFish 239
+  - first:
+      213: 7517302740276154390
+    second: KarmaFish 240
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 3640
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 3640
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KarmaFish 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fac91d5f26446c20800000000000000
+      internalID: 3198758804579273465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899f834ccb7b1f430800000000000000
+      internalID: 3815032380733323672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ae47f3f93430470800000000000000
+      internalID: 8359599684573260329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8192c87d02139b700800000000000000
+      internalID: 556530046081968408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107b6daf6edd57a80800000000000000
+      internalID: -8469619540079757567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 5
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca809ceaf763d0e0800000000000000
+      internalID: -2246337461719364923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 6
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7415590f6b097d0800000000000000
+      internalID: -2913627814495172658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 7
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510f4146031bc2fc0800000000000000
+      internalID: -3518242387487559659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 8
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5186043b6396a70800000000000000
+      internalID: 8820641488689436154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 9
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c3d307dbe895110800000000000000
+      internalID: 1250187315855047745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 10
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ee231b7a5de6a10800000000000000
+      internalID: 1904694608633458196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 11
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6353986e2434f270800000000000000
+      internalID: 8283302988568810348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 12
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05da754a5212a7ff0800000000000000
+      internalID: -37681201324511920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 13
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f22f47048de5ca30800000000000000
+      internalID: 4235052175925912311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 14
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65df01b3dc8d366a0800000000000000
+      internalID: -6457079064748294826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcef0d1ae09938710800000000000000
+      internalID: 1694366172944858829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1020
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e27440a7c12e970800000000000000
+      internalID: 8782613533709250048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1020
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc22d77fd78dd400800000000000000
+      internalID: 350585739862486223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 18
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1020
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f0adde36fa5a010800000000000000
+      internalID: 1199557719491219271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 19
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1020
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddb37c20bbdddf60800000000000000
+      internalID: 8060840457769565663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 20
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1020
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11ee17c27f7f1190800000000000000
+      internalID: -7989527082988281571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 21
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1020
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3878ad817be8b1bc0800000000000000
+      internalID: -3811295742591858813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 22
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1020
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c0c48db649ef310800000000000000
+      internalID: 1440752121716411439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 23
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1020
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd0f36c80af55060800000000000000
+      internalID: 6941729316254191102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 24
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1020
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4668828497655c330800000000000000
+      internalID: 3730482945247970916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 25
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1020
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3138a30550ac05eb0800000000000000
+      internalID: -4733061084196732141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 26
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1020
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7d028d34819c820800000000000000
+      internalID: 2938906911503865850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 27
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b964ff9976b598920800000000000000
+      internalID: 2993023927887808155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 28
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941eea5a276e32720800000000000000
+      internalID: 2820351171744424265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 29
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1020
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f24dfd398432800800000000000000
+      internalID: 586392176440913735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 30
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1020
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c60598126743310800000000000000
+      internalID: 1383860871919332353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 31
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1020
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e256de86f2a7d5520800000000000000
+      internalID: 2692442496279864622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 32
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf453e5062908cd50800000000000000
+      internalID: 6757661299781620988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 33
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1020
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f4916e3ae5f8280800000000000000
+      internalID: -9038901869076197509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3025608aa0128540800000000000000
+      internalID: 5008584060074008635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b64925bcb3aca130800000000000000
+      internalID: 3579415834741262001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 36
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab5c54e321d049c0800000000000000
+      internalID: -3944923321491235928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 37
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91517220e00741310800000000000000
+      internalID: 1374846991722812697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 38
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445206756b6706060800000000000000
+      internalID: 6944681150927349060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 39
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21817c009a3d2ae0800000000000000
+      internalID: -1572536304523968214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 40
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb68fdbfcc0533a10800000000000000
+      internalID: 1887941510127650495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 41
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfa20919dbd282d0800000000000000
+      internalID: -3277815853298307137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 42
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f610c274b1a333c40800000000000000
+      internalID: 5490796259527360879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 43
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0602550c131cec0800000000000000
+      internalID: -3548500329259573079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 44
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234fd78f9d0260740800000000000000
+      internalID: 5117814147102143538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 45
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d833d494704f76500800000000000000
+      internalID: 389548204922581901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 46
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ed75ae8af8678d0800000000000000
+      internalID: -2848931758616355173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 47
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f412e2c6239dc6a40800000000000000
+      internalID: 5362900066877972815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 48
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d4c1faf46f5dd20800000000000000
+      internalID: 3302816723846843788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 49
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe1b4442c3fd4290800000000000000
+      internalID: -7904393755270373644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 50
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9d29aa017bff230800000000000000
+      internalID: 3674857103166724589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d95d78277045390800000000000000
+      internalID: -7830625663603860143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 52
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c8a5dce8970f320800000000000000
+      internalID: 2589703439975615590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 53
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8bede4046a5eee0800000000000000
+      internalID: -1232396127884625732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 54
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf337b17f3a8757d0800000000000000
+      internalID: -2929721027485813764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 55
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4db81d369027060800000000000000
+      internalID: 6949627499308111086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 56
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefe59b7552c11850800000000000000
+      internalID: 6346067022343172079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 57
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b87f56b6da79ec40800000000000000
+      internalID: 5542095879057406133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 58
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828e9ddfc06114270800000000000000
+      internalID: 8232885838864312360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 59
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7df98d840a79f20800000000000000
+      internalID: 3429385875998365679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 60
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b220b0f2c12a0a00800000000000000
+      internalID: 723427811291833016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 61
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3327ba1a04fccc0800000000000000
+      internalID: -3688658506682846266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 62
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3555377d01c0aae0800000000000000
+      internalID: -1540018808981990086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 63
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53ba0b7b0f4db9a0800000000000000
+      internalID: -6215724999973883041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 64
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3d8d8c176ee5620800000000000000
+      internalID: 2764900597627409320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 65
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cbc27a8649a1770800000000000000
+      internalID: 8582335217110138010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 66
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd17938bc0d0676f0800000000000000
+      internalID: -687347544845880865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 67
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b7de494549712d0800000000000000
+      internalID: -3308012310283584631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 68
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ff5ada537fed8c0800000000000000
+      internalID: -3972466011375534234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 69
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e18224b50ed782c0800000000000000
+      internalID: -4429327592417230361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 70
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b1f49ff4b92e850800000000000000
+      internalID: 6404852387861699361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05c385e9d96973b0800000000000000
+      internalID: -5514259884159023857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 72
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f29637f09254210800000000000000
+      internalID: 1316503612413259612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 73
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a01d976130acb80800000000000000
+      internalID: -8373877162074109344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 74
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd454006f64b14c50800000000000000
+      internalID: 6647792915420828893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 75
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093a22503e40af0e0800000000000000
+      internalID: -2235468891945786480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 76
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ed94fd26d5978f0800000000000000
+      internalID: -542299600887095692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 77
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8653e387f1ad3c6c0800000000000000
+      internalID: -4124213005045058200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 78
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bf159557e8b9250800000000000000
+      internalID: 5952507967161105269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 79
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d81f968a6bd67c50800000000000000
+      internalID: 6662753949312817362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 80
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a0910dbace67ac0800000000000000
+      internalID: -3857635808121386343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 81
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd7192d59b956550800000000000000
+      internalID: 6153495533656833487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 82
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78de1b7b88b7cd400800000000000000
+      internalID: 350290698155715975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 83
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844be8942aefd20a0800000000000000
+      internalID: -6904582680716856248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40b81efe4f93b7f0800000000000000
+      internalID: -597959163890847669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 85
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 612
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22599d10a19c0ca90800000000000000
+      internalID: -7295610282802834142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 86
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 612
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707088599d2a427d0800000000000000
+      internalID: -2944049200993138937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 87
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40e4c3e624314600800000000000000
+      internalID: 450698779348492364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 88
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b27c2d5b70c80db0800000000000000
+      internalID: -4825395364650782023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 89
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45ddc8151ea149b0800000000000000
+      internalID: -5097601897573001908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 90
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066a4985926546e80800000000000000
+      internalID: -8186323487072934304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 91
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a27cbae926bec50800000000000000
+      internalID: 6695553704642685442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 92
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fd5ee3b4fbfe7e0800000000000000
+      internalID: -1733957001615646879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 93
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540a79f34596ea9a0800000000000000
+      internalID: -6219918224787005371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 94
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28833747905fc6a0800000000000000
+      internalID: -6426829532569565141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 95
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4385051b971dd4eb0800000000000000
+      internalID: -4733897312700442572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 96
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99b40f5f7c7a9a90800000000000000
+      internalID: -7306390558958372452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 97
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 816
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e23453013cbce80800000000000000
+      internalID: -8157211825671033246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 98
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 612
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691bd9c7535f88980800000000000000
+      internalID: -8536303483607993962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 99
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 612
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f0004267b248060800000000000000
+      internalID: 6954731510977007440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 100
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 612
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdbee3ea18ebc2a0800000000000000
+      internalID: -6716019217102094924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 101
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 612
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6456c77a4654970800000000000000
+      internalID: 8738501322491643578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 102
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 612
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935f0303561b599d0800000000000000
+      internalID: -2768111347790973639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 103
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 612
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d359bc9d731e47860800000000000000
+      internalID: 7526888507236390205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 104
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 612
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49c1582cc7ccc630800000000000000
+      internalID: 3948750652960786763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 105
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 612
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c44f57d49125e060800000000000000
+      internalID: 6982023720460043458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 106
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 612
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b93ff2022fd9e80800000000000000
+      internalID: -8170107928922842317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 107
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 612
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c73bbc525ec41560800000000000000
+      internalID: 7283673350503348161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056955f8bff338440800000000000000
+      internalID: 4936859966202287696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 109
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f280f6e3e80d5b780800000000000000
+      internalID: -8667792598453254097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 110
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83402dd9aef7227c0800000000000000
+      internalID: -4097572065306868680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 111
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569168ad274270b10800000000000000
+      internalID: 1947565439572121957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 112
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace041cd8cf45cdd0800000000000000
+      internalID: -2466477496811122998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 113
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fc4b0181bd73940800000000000000
+      internalID: 5275926384893808531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 114
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2b8bdfcb7f68440800000000000000
+      internalID: 4937906432540979872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 115
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2d7c49d11fc2030800000000000000
+      internalID: 3471414522148278970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 116
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d54b5918614a9c0800000000000000
+      internalID: -3916981030087271080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 117
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 714
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e7d67cdb4620780800000000000000
+      internalID: -8718295162378420596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a05db4b6d5ff7b30800000000000000
+      internalID: 4287415672784113828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 119
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 612
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa031e9222e67e70800000000000000
+      internalID: 9112719534339590905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 120
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 612
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d30eb7ab1657ce0800000000000000
+      internalID: -1408111854913307256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 121
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003e2c7299fbac2d0800000000000000
+      internalID: -3257580715931147520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 122
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db98d9f41f942b10800000000000000
+      internalID: 1955863050625522644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 123
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45577009675a2290800000000000000
+      internalID: -7914417286659222197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 124
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d46153de6e767e60800000000000000
+      internalID: 7959688405880759507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 125
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90117df2ca8533a0800000000000000
+      internalID: -6686285501681299297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 126
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485c0d7dfdba8f670800000000000000
+      internalID: 8572790868586579332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 127
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42650ca5d9176e620800000000000000
+      internalID: 2803052738731071012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 128
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f04c0ca978deea40800000000000000
+      internalID: 5399491020352930034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 129
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9133f271b553b20800000000000000
+      internalID: 3113494872530819547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 130
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69eff18b283f1bb0800000000000000
+      internalID: -4963186504823215766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 131
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219b59e561b8ca0b0800000000000000
+      internalID: -5716040898847590126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 132
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04aa165b333df160800000000000000
+      internalID: 7060856120727479311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 133
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398bd9b4fd122bf50800000000000000
+      internalID: 6895611222387701907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 134
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7776a0f9beec37230800000000000000
+      internalID: 3635476835599017847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 135
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a6867a4217afe70800000000000000
+      internalID: 9149749995197983373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 136
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2528a069a0ee27480800000000000000
+      internalID: -8902791784123694510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eec57811d116e30800000000000000
+      internalID: 4494905864215129629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 138
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce86f0f7cb8ac3ce0800000000000000
+      internalID: -1424077854616885012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 139
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74c075398952cbf0800000000000000
+      internalID: -305583378865798019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 140
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a7472c9e4dc5b60800000000000000
+      internalID: 7736292360370551419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 141
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42eef5e01cda659b0800000000000000
+      internalID: -5091691284014305756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 142
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4033460314ea8c70800000000000000
+      internalID: 8974235977849712717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 143
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c561a578eb23b60800000000000000
+      internalID: 7724445799435099293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 144
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27147dee85546f0d0800000000000000
+      internalID: -3389445421283196558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 145
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f130c5db0bfa85fc0800000000000000
+      internalID: -3505859136281902305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 146
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e31022ba433d5ab0800000000000000
+      internalID: -5017798013911821342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 147
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec3e5c348ee40370800000000000000
+      internalID: 8288011465984457963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 148
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a500ce6c4a8dd7bf0800000000000000
+      internalID: -324865395877216166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 149
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cabb45614183990800000000000000
+      internalID: -7406147501067359166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa178329a97a4d1f0800000000000000
+      internalID: -1021006933186285142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 151
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da17a604926aa3e0800000000000000
+      internalID: -2041711093152802096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 152
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52abee2a2a0f92ff0800000000000000
+      internalID: -60252538683868635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 153
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c70a6e42e83f930800000000000000
+      internalID: 4175837568641825879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 154
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2800e34af5c21d10800000000000000
+      internalID: 2094954455351953452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 155
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5343799c9844113f0800000000000000
+      internalID: -931888289305643979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 156
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3be89fea0fea3a00800000000000000
+      internalID: 737164319276985147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 157
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7078a1f18c00edbe0800000000000000
+      internalID: -1450721170451429625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 158
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0746841d7d77634d0800000000000000
+      internalID: -3155202720113597328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 159
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06acdf16de5c74c0800000000000000
+      internalID: -4288448471412988406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 160
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c038be0974f87fde0800000000000000
+      internalID: -1299412429936295156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 161
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ac7d5c41955d2c0800000000000000
+      internalID: -4407518714558690743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 162
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af3b282ce20144f0800000000000000
+      internalID: -846392041659482206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 163
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef6f02a00cfec460800000000000000
+      internalID: 7264020328644308965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 164
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe8061618c4eb400800000000000000
+      internalID: 341794740294946556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 165
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddeb643ce1ab25c0800000000000000
+      internalID: -4239116588375347756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 166
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 510
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf5ae85553206030800000000000000
+      internalID: 3485824961055711163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 167
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a0b22ac81a0d50800000000000000
+      internalID: 6704198251738867830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 168
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f15978e8d06e5210800000000000000
+      internalID: 1323601825222971897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 169
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0217cea135b3100800000000000000
+      internalID: 88755992764948664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 170
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f471eee6ea022e0800000000000000
+      internalID: -2152528830418956527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 171
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41997d53d5f4c8290800000000000000
+      internalID: -7886841585678706412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 172
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a63e2efd61c1d20800000000000000
+      internalID: 3250498181894728202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 173
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbe69cd066730870800000000000000
+      internalID: 8647885867871300548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8440229a141732820800000000000000
+      internalID: 2892279912526382152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 175
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 204
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3468af14221f6f90800000000000000
+      internalID: -6958322952904874948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 176
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 204
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de49a8624136d4d0800000000000000
+      internalID: -3110244331359220010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 177
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 204
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75f52b5d9780fc80800000000000000
+      internalID: -8290977804080253570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 178
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 204
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6721b790981993600800000000000000
+      internalID: 448549655655682678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 179
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 204
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7e8830c30b5d3f0800000000000000
+      internalID: -876600780649863214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 180
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 204
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10082a869dd3e3c80800000000000000
+      internalID: -8341161455870902271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 181
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020dd7f4426e702d0800000000000000
+      internalID: -3312425957280853984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 182
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041be6388b74403a0800000000000000
+      internalID: -6700151487815831232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 183
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f820ddb44b67f90800000000000000
+      internalID: -6956174336503673031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 184
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 408
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcc2ea6daf444ac0800000000000000
+      internalID: -3871882173390598953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62924fd0bf7371b20800000000000000
+      internalID: 3105012019505670438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 186
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad20671c260e2ac0800000000000000
+      internalID: -3878155442678911572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 187
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f1ff87bf1ef99d0800000000000000
+      internalID: -2765243175999168671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 188
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec06e42e2a6482de0800000000000000
+      internalID: -1357757622256770866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 189
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34de1f6853bc45800800000000000000
+      internalID: 600328081104825667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 190
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 306
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b264ecc5eca952a0800000000000000
+      internalID: -6748172463652969800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 191
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9228d269b85f10590800000000000000
+      internalID: -7709611107212754391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 192
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef238ea01fdb5a30800000000000000
+      internalID: 4205199939820793825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 193
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437ae67d68309be90800000000000000
+      internalID: -7009567467350612172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 194
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf339ffc09be10e0800000000000000
+      internalID: -2297195294433787960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 195
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc8f6782fe363090800000000000000
+      internalID: -8055181672130310976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 196
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2743b90f726fbcfe0800000000000000
+      internalID: -1167569026971650958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 197
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e960c1bf7df3470800000000000000
+      internalID: 8376651305439370763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 198
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 204
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d730ec6f9599d670800000000000000
+      internalID: 8564040678380681168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 199
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 204
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c51c543c4c4e420800000000000000
+      internalID: 2658466023023402117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 200
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 204
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26015d32ce1a06450800000000000000
+      internalID: 6080037532535689314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 201
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 204
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6f46058832d7bc0800000000000000
+      internalID: -3783829043550030098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 202
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 204
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91b1b87fac9934d0800000000000000
+      internalID: -3154317786538200678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 203
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 204
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb762884eba6b69f0800000000000000
+      internalID: -474167970264619073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77deb902a8b540660800000000000000
+      internalID: 7351101140586196343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 205
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 102
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488693bd814b02f40800000000000000
+      internalID: 5701755147101235332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 206
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 102
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eaba83f0ab68590800000000000000
+      internalID: -7672240340641010132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 207
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 102
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5f80bb087dd3b30800000000000000
+      internalID: 4268804969710810598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 208
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 102
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a868290e4437720800000000000000
+      internalID: 2842691521122568827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 209
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 102
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f490b15a1c98223d0800000000000000
+      internalID: -3232870117706888881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 210
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 102
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be10a4bc25ba20b0800000000000000
+      internalID: -5752586370398806351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 211
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 102
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1741099cdee40cd0800000000000000
+      internalID: -2592684854231349475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 212
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 102
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b20eeb9f91d508a0800000000000000
+      internalID: -6339430417008033103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 213
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 102
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7a655f2e214df30800000000000000
+      internalID: 4599321885440124850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 214
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 102
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84af23d07bda0f6f0800000000000000
+      internalID: -652830944256656824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 215
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af236f22ee0589e60800000000000000
+      internalID: 7969208524351091450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 216
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f742463fdf52a4e20800000000000000
+      internalID: 3335520246661653631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 217
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4f48fda5d348530800000000000000
+      internalID: 3856274641442370805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 218
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f49f59f4e05ec30800000000000000
+      internalID: 4387929146923765577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 219
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b08e4a3de3d4f220800000000000000
+      internalID: 2518871107445883060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 220
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c978d696ce06ebd20800000000000000
+      internalID: 3296178545779115932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 221
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 918
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efe07d804696a110800000000000000
+      internalID: 1271869148773806055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 222
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 102
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f448054e9f3adbd0800000000000000
+      internalID: -2604699485484858122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 223
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 102
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eece2990012bcd0800000000000000
+      internalID: -2543953206205157819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 224
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 102
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dc5f8425ee456b0800000000000000
+      internalID: -5308356023584174708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719b9c3a599cfd130800000000000000
+      internalID: 3593812672200161559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 226
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f75f75b27dd6f40800000000000000
+      internalID: 5723467282617040662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 227
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1db9c0a4171c2f0800000000000000
+      internalID: -954357083172777559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 228
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f071a2c7ea05c5a70800000000000000
+      internalID: 8817010880822253327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 229
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202abd7baa4c61200800000000000000
+      internalID: 150523875071599106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 230
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e74c106889a93a40800000000000000
+      internalID: 5348492435672287209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 231
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940b6511342e53e30800000000000000
+      internalID: 4482737781798776905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 232
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 0
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feb6e02c15da1250800000000000000
+      internalID: 5916275377292361461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 233
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38868d1cb3b1f6550800000000000000
+      internalID: 6156169159107963011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 234
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c083def15defaeb90800000000000000
+      internalID: -7211671661963298804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 235
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc62f2493d26b440800000000000000
+      internalID: 4951194564300008692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 236
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 0
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7500f1932d7497d30800000000000000
+      internalID: 4429650676722630743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 237
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 0
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed482bf2c797a3910800000000000000
+      internalID: 1817898973880550622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 238
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740c2d372215873c0800000000000000
+      internalID: -4361647030694395833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaFish 239
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1122
+        width: 280
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fcb6c96776462d0800000000000000
+      internalID: -3286388068945506507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KarmaFish 0: 3198758804579273465
+      KarmaFish 1: 3815032380733323672
+      KarmaFish 10: 1904694608633458196
+      KarmaFish 100: -6716019217102094924
+      KarmaFish 101: 8738501322491643578
+      KarmaFish 102: -2768111347790973639
+      KarmaFish 103: 7526888507236390205
+      KarmaFish 104: 3948750652960786763
+      KarmaFish 105: 6982023720460043458
+      KarmaFish 106: -8170107928922842317
+      KarmaFish 107: 7283673350503348161
+      KarmaFish 108: 4936859966202287696
+      KarmaFish 109: -8667792598453254097
+      KarmaFish 11: 8283302988568810348
+      KarmaFish 110: -4097572065306868680
+      KarmaFish 111: 1947565439572121957
+      KarmaFish 112: -2466477496811122998
+      KarmaFish 113: 5275926384893808531
+      KarmaFish 114: 4937906432540979872
+      KarmaFish 115: 3471414522148278970
+      KarmaFish 116: -3916981030087271080
+      KarmaFish 117: -8718295162378420596
+      KarmaFish 118: 4287415672784113828
+      KarmaFish 119: 9112719534339590905
+      KarmaFish 12: -37681201324511920
+      KarmaFish 120: -1408111854913307256
+      KarmaFish 121: -3257580715931147520
+      KarmaFish 122: 1955863050625522644
+      KarmaFish 123: -7914417286659222197
+      KarmaFish 124: 7959688405880759507
+      KarmaFish 125: -6686285501681299297
+      KarmaFish 126: 8572790868586579332
+      KarmaFish 127: 2803052738731071012
+      KarmaFish 128: 5399491020352930034
+      KarmaFish 129: 3113494872530819547
+      KarmaFish 13: 4235052175925912311
+      KarmaFish 130: -4963186504823215766
+      KarmaFish 131: -5716040898847590126
+      KarmaFish 132: 7060856120727479311
+      KarmaFish 133: 6895611222387701907
+      KarmaFish 134: 3635476835599017847
+      KarmaFish 135: 9149749995197983373
+      KarmaFish 136: -8902791784123694510
+      KarmaFish 137: 4494905864215129629
+      KarmaFish 138: -1424077854616885012
+      KarmaFish 139: -305583378865798019
+      KarmaFish 14: -6457079064748294826
+      KarmaFish 140: 7736292360370551419
+      KarmaFish 141: -5091691284014305756
+      KarmaFish 142: 8974235977849712717
+      KarmaFish 143: 7724445799435099293
+      KarmaFish 144: -3389445421283196558
+      KarmaFish 145: -3505859136281902305
+      KarmaFish 146: -5017798013911821342
+      KarmaFish 147: 8288011465984457963
+      KarmaFish 148: -324865395877216166
+      KarmaFish 149: -7406147501067359166
+      KarmaFish 15: 1694366172944858829
+      KarmaFish 150: -1021006933186285142
+      KarmaFish 151: -2041711093152802096
+      KarmaFish 152: -60252538683868635
+      KarmaFish 153: 4175837568641825879
+      KarmaFish 154: 2094954455351953452
+      KarmaFish 155: -931888289305643979
+      KarmaFish 156: 737164319276985147
+      KarmaFish 157: -1450721170451429625
+      KarmaFish 158: -3155202720113597328
+      KarmaFish 159: -4288448471412988406
+      KarmaFish 16: 8782613533709250048
+      KarmaFish 160: -1299412429936295156
+      KarmaFish 161: -4407518714558690743
+      KarmaFish 162: -846392041659482206
+      KarmaFish 163: 7264020328644308965
+      KarmaFish 164: 341794740294946556
+      KarmaFish 165: -4239116588375347756
+      KarmaFish 166: 3485824961055711163
+      KarmaFish 167: 6704198251738867830
+      KarmaFish 168: 1323601825222971897
+      KarmaFish 169: 88755992764948664
+      KarmaFish 17: 350585739862486223
+      KarmaFish 170: -2152528830418956527
+      KarmaFish 171: -7886841585678706412
+      KarmaFish 172: 3250498181894728202
+      KarmaFish 173: 8647885867871300548
+      KarmaFish 174: 2892279912526382152
+      KarmaFish 175: -6958322952904874948
+      KarmaFish 176: -3110244331359220010
+      KarmaFish 177: -8290977804080253570
+      KarmaFish 178: 448549655655682678
+      KarmaFish 179: -876600780649863214
+      KarmaFish 18: 1199557719491219271
+      KarmaFish 180: -8341161455870902271
+      KarmaFish 181: -3312425957280853984
+      KarmaFish 182: -6700151487815831232
+      KarmaFish 183: -6956174336503673031
+      KarmaFish 184: -3871882173390598953
+      KarmaFish 185: 3105012019505670438
+      KarmaFish 186: -3878155442678911572
+      KarmaFish 187: -2765243175999168671
+      KarmaFish 188: -1357757622256770866
+      KarmaFish 189: 600328081104825667
+      KarmaFish 19: 8060840457769565663
+      KarmaFish 190: -6748172463652969800
+      KarmaFish 191: -7709611107212754391
+      KarmaFish 192: 4205199939820793825
+      KarmaFish 193: -7009567467350612172
+      KarmaFish 194: -2297195294433787960
+      KarmaFish 195: -8055181672130310976
+      KarmaFish 196: -1167569026971650958
+      KarmaFish 197: 8376651305439370763
+      KarmaFish 198: 8564040678380681168
+      KarmaFish 199: 2658466023023402117
+      KarmaFish 2: 8359599684573260329
+      KarmaFish 20: -7989527082988281571
+      KarmaFish 200: 6080037532535689314
+      KarmaFish 201: -3783829043550030098
+      KarmaFish 202: -3154317786538200678
+      KarmaFish 203: -474167970264619073
+      KarmaFish 204: 7351101140586196343
+      KarmaFish 205: 5701755147101235332
+      KarmaFish 206: -7672240340641010132
+      KarmaFish 207: 4268804969710810598
+      KarmaFish 208: 2842691521122568827
+      KarmaFish 209: -3232870117706888881
+      KarmaFish 21: -3811295742591858813
+      KarmaFish 210: -5752586370398806351
+      KarmaFish 211: -2592684854231349475
+      KarmaFish 212: -6339430417008033103
+      KarmaFish 213: 4599321885440124850
+      KarmaFish 214: -652830944256656824
+      KarmaFish 215: 7969208524351091450
+      KarmaFish 216: 3335520246661653631
+      KarmaFish 217: 3856274641442370805
+      KarmaFish 218: 4387929146923765577
+      KarmaFish 219: 2518871107445883060
+      KarmaFish 22: 1440752121716411439
+      KarmaFish 220: 3296178545779115932
+      KarmaFish 221: 1271869148773806055
+      KarmaFish 222: -2604699485484858122
+      KarmaFish 223: -2543953206205157819
+      KarmaFish 224: -5308356023584174708
+      KarmaFish 225: 3593812672200161559
+      KarmaFish 226: 5723467282617040662
+      KarmaFish 227: -954357083172777559
+      KarmaFish 228: 8817010880822253327
+      KarmaFish 229: 150523875071599106
+      KarmaFish 23: 6941729316254191102
+      KarmaFish 230: 5348492435672287209
+      KarmaFish 231: 4482737781798776905
+      KarmaFish 232: 5916275377292361461
+      KarmaFish 233: 6156169159107963011
+      KarmaFish 234: -7211671661963298804
+      KarmaFish 235: 4951194564300008692
+      KarmaFish 236: 4429650676722630743
+      KarmaFish 237: 1817898973880550622
+      KarmaFish 238: -4361647030694395833
+      KarmaFish 239: -3286388068945506507
+      KarmaFish 24: 3730482945247970916
+      KarmaFish 25: -4733061084196732141
+      KarmaFish 26: 2938906911503865850
+      KarmaFish 27: 2993023927887808155
+      KarmaFish 28: 2820351171744424265
+      KarmaFish 29: 586392176440913735
+      KarmaFish 3: 556530046081968408
+      KarmaFish 30: 1383860871919332353
+      KarmaFish 31: 2692442496279864622
+      KarmaFish 32: 6757661299781620988
+      KarmaFish 33: -9038901869076197509
+      KarmaFish 34: 5008584060074008635
+      KarmaFish 35: 3579415834741262001
+      KarmaFish 36: -3944923321491235928
+      KarmaFish 37: 1374846991722812697
+      KarmaFish 38: 6944681150927349060
+      KarmaFish 39: -1572536304523968214
+      KarmaFish 4: -8469619540079757567
+      KarmaFish 40: 1887941510127650495
+      KarmaFish 41: -3277815853298307137
+      KarmaFish 42: 5490796259527360879
+      KarmaFish 43: -3548500329259573079
+      KarmaFish 44: 5117814147102143538
+      KarmaFish 45: 389548204922581901
+      KarmaFish 46: -2848931758616355173
+      KarmaFish 47: 5362900066877972815
+      KarmaFish 48: 3302816723846843788
+      KarmaFish 49: -7904393755270373644
+      KarmaFish 5: -2246337461719364923
+      KarmaFish 50: 3674857103166724589
+      KarmaFish 51: -7830625663603860143
+      KarmaFish 52: 2589703439975615590
+      KarmaFish 53: -1232396127884625732
+      KarmaFish 54: -2929721027485813764
+      KarmaFish 55: 6949627499308111086
+      KarmaFish 56: 6346067022343172079
+      KarmaFish 57: 5542095879057406133
+      KarmaFish 58: 8232885838864312360
+      KarmaFish 59: 3429385875998365679
+      KarmaFish 6: -2913627814495172658
+      KarmaFish 60: 723427811291833016
+      KarmaFish 61: -3688658506682846266
+      KarmaFish 62: -1540018808981990086
+      KarmaFish 63: -6215724999973883041
+      KarmaFish 64: 2764900597627409320
+      KarmaFish 65: 8582335217110138010
+      KarmaFish 66: -687347544845880865
+      KarmaFish 67: -3308012310283584631
+      KarmaFish 68: -3972466011375534234
+      KarmaFish 69: -4429327592417230361
+      KarmaFish 7: -3518242387487559659
+      KarmaFish 70: 6404852387861699361
+      KarmaFish 71: -5514259884159023857
+      KarmaFish 72: 1316503612413259612
+      KarmaFish 73: -8373877162074109344
+      KarmaFish 74: 6647792915420828893
+      KarmaFish 75: -2235468891945786480
+      KarmaFish 76: -542299600887095692
+      KarmaFish 77: -4124213005045058200
+      KarmaFish 78: 5952507967161105269
+      KarmaFish 79: 6662753949312817362
+      KarmaFish 8: 8820641488689436154
+      KarmaFish 80: -3857635808121386343
+      KarmaFish 81: 6153495533656833487
+      KarmaFish 82: 350290698155715975
+      KarmaFish 83: -6904582680716856248
+      KarmaFish 84: -597959163890847669
+      KarmaFish 85: -7295610282802834142
+      KarmaFish 86: -2944049200993138937
+      KarmaFish 87: 450698779348492364
+      KarmaFish 88: -4825395364650782023
+      KarmaFish 89: -5097601897573001908
+      KarmaFish 9: 1250187315855047745
+      KarmaFish 90: -8186323487072934304
+      KarmaFish 91: 6695553704642685442
+      KarmaFish 92: -1733957001615646879
+      KarmaFish 93: -6219918224787005371
+      KarmaFish 94: -6426829532569565141
+      KarmaFish 95: -4733897312700442572
+      KarmaFish 96: -7306390558958372452
+      KarmaFish 97: -8157211825671033246
+      KarmaFish 98: -8536303483607993962
+      KarmaFish 99: 6954731510977007440
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

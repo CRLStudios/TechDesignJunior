@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: dd1e997b377f41c4eb24db5d96a938c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -135145192835147202
+    second: Karma_Interact 0
+  - first:
+      213: 1912584689982460556
+    second: Karma_Interact 1
+  - first:
+      213: 1676250863991286389
+    second: Karma_Interact 2
+  - first:
+      213: 8737038187475654592
+    second: Karma_Interact 3
+  - first:
+      213: -4869142784361148401
+    second: Karma_Interact 4
+  - first:
+      213: -5126740092821704489
+    second: Karma_Interact 5
+  - first:
+      213: 3633798404543699160
+    second: Karma_Interact 6
+  - first:
+      213: -3501941795844274007
+    second: Karma_Interact 7
+  - first:
+      213: 5310356128411495023
+    second: Karma_Interact 8
+  - first:
+      213: 5473166218194978695
+    second: Karma_Interact 9
+  - first:
+      213: -1883909953012561916
+    second: Karma_Interact 10
+  - first:
+      213: 4673035017156133273
+    second: Karma_Interact 11
+  - first:
+      213: 6071886804657691694
+    second: Karma_Interact 12
+  - first:
+      213: -3285563820480833636
+    second: Karma_Interact 13
+  - first:
+      213: -4656061722551708591
+    second: Karma_Interact 14
+  - first:
+      213: 9149322276543967092
+    second: Karma_Interact 15
+  - first:
+      213: -976313081519598246
+    second: Karma_Interact 16
+  - first:
+      213: 1737213911359992342
+    second: Karma_Interact 17
+  - first:
+      213: -5791238451483793157
+    second: Karma_Interact 18
+  - first:
+      213: -4912300406231090220
+    second: Karma_Interact 19
+  - first:
+      213: 5030930599257235520
+    second: Karma_Interact 20
+  - first:
+      213: -6075742732937070628
+    second: Karma_Interact 21
+  - first:
+      213: 4710510297220178776
+    second: Karma_Interact 22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 290
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 290
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Karma_Interact 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a95f3c92edf1ef0800000000000000
+      internalID: -135145192835147202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 232
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82514964adda8a10800000000000000
+      internalID: 1912584689982460556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 232
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a64a6974d334710800000000000000
+      internalID: 1676250863991286389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 232
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c75281d0f1304970800000000000000
+      internalID: 8737038187475654592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 232
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f005f797f645d6cb0800000000000000
+      internalID: -4869142784361148401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0fb975c092ad8b0800000000000000
+      internalID: -5126740092821704489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 174
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d855307568dd6230800000000000000
+      internalID: 3633798404543699160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 174
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8cb92ad7a966fc0800000000000000
+      internalID: -3501941795844274007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 174
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a29c863cc22b940800000000000000
+      internalID: 5310356128411495023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 174
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7870e286da794fb40800000000000000
+      internalID: 5473166218194978695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4080ddd01e10bd5e0800000000000000
+      internalID: -1883909953012561916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9918d8cd694f9d040800000000000000
+      internalID: 4673035017156133273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 116
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cd00ce0eca34450800000000000000
+      internalID: 6071886804657691694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 116
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c975d59ec155762d0800000000000000
+      internalID: -3285563820480833636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 116
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154130f3888526fb0800000000000000
+      internalID: -4656061722551708591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 116
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fa8f4a22ce8fe70800000000000000
+      internalID: 9149322276543967092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a551572dc607372f0800000000000000
+      internalID: -976313081519598246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612ba7529d2db1810800000000000000
+      internalID: 1737213911359992342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 58
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8a9b9cf4361afa0800000000000000
+      internalID: -5791238451483793157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 58
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbb6989ec004dbb0800000000000000
+      internalID: -4912300406231090220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 58
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040ee5a99b471d540800000000000000
+      internalID: 5030930599257235520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 58
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7ff90dc20aeaba0800000000000000
+      internalID: -6075742732937070628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Interact 22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853e0a078281f5140800000000000000
+      internalID: 4710510297220178776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Karma_Interact 0: -135145192835147202
+      Karma_Interact 1: 1912584689982460556
+      Karma_Interact 10: -1883909953012561916
+      Karma_Interact 11: 4673035017156133273
+      Karma_Interact 12: 6071886804657691694
+      Karma_Interact 13: -3285563820480833636
+      Karma_Interact 14: -4656061722551708591
+      Karma_Interact 15: 9149322276543967092
+      Karma_Interact 16: -976313081519598246
+      Karma_Interact 17: 1737213911359992342
+      Karma_Interact 18: -5791238451483793157
+      Karma_Interact 19: -4912300406231090220
+      Karma_Interact 2: 1676250863991286389
+      Karma_Interact 20: 5030930599257235520
+      Karma_Interact 21: -6075742732937070628
+      Karma_Interact 22: 4710510297220178776
+      Karma_Interact 3: 8737038187475654592
+      Karma_Interact 4: -4869142784361148401
+      Karma_Interact 5: -5126740092821704489
+      Karma_Interact 6: 3633798404543699160
+      Karma_Interact 7: -3501941795844274007
+      Karma_Interact 8: 5310356128411495023
+      Karma_Interact 9: 5473166218194978695
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

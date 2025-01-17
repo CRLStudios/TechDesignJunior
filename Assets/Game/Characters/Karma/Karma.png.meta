@@ -1,0 +1,2852 @@
+fileFormatVersion: 2
+guid: 72bdf6a24581a714dbfacb6463816107
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7704048860857256491
+    second: Karma 0
+  - first:
+      213: -8887214587170192837
+    second: Karma 1
+  - first:
+      213: -1908088282839458702
+    second: Karma 2
+  - first:
+      213: 5137943739266069854
+    second: Karma 3
+  - first:
+      213: -3909149454482691260
+    second: Karma 4
+  - first:
+      213: 5964977106090355908
+    second: Karma 5
+  - first:
+      213: -9171557550429823462
+    second: Karma 6
+  - first:
+      213: -8146666059659339330
+    second: Karma 7
+  - first:
+      213: -6986538881501286728
+    second: Karma 8
+  - first:
+      213: -965176524008047947
+    second: Karma 9
+  - first:
+      213: -7480577482590174473
+    second: Karma 10
+  - first:
+      213: 4635623246475310167
+    second: Karma 11
+  - first:
+      213: -5272032431343992795
+    second: Karma 12
+  - first:
+      213: 945329114826318814
+    second: Karma 13
+  - first:
+      213: -8274504315515009519
+    second: Karma 14
+  - first:
+      213: -9205711966884513574
+    second: Karma 15
+  - first:
+      213: 4997348682546076378
+    second: Karma 16
+  - first:
+      213: -8420588755090237820
+    second: Karma 17
+  - first:
+      213: 5751312905940044161
+    second: Karma 18
+  - first:
+      213: -5753248222636628223
+    second: Karma 19
+  - first:
+      213: -9041840048044156912
+    second: Karma 20
+  - first:
+      213: 5507730283575964965
+    second: Karma 21
+  - first:
+      213: -3693123026520137524
+    second: Karma 22
+  - first:
+      213: -752568455620107747
+    second: Karma 23
+  - first:
+      213: -4889194013181691488
+    second: Karma 24
+  - first:
+      213: 6446411751052527865
+    second: Karma 25
+  - first:
+      213: -6599181583974445323
+    second: Karma 26
+  - first:
+      213: 8604483397710074760
+    second: Karma 27
+  - first:
+      213: -143918380863630929
+    second: Karma 28
+  - first:
+      213: 3628228250470864517
+    second: Karma 29
+  - first:
+      213: 4959072470646286427
+    second: Karma 30
+  - first:
+      213: 2082600836602780578
+    second: Karma 31
+  - first:
+      213: -4822942834048762157
+    second: Karma 32
+  - first:
+      213: 6466815124154534028
+    second: Karma 33
+  - first:
+      213: 6951239680698688940
+    second: Karma 34
+  - first:
+      213: 2254851387156271988
+    second: Karma 35
+  - first:
+      213: -5198413888531907486
+    second: Karma 36
+  - first:
+      213: 7434836637335758050
+    second: Karma 37
+  - first:
+      213: -1305913855842240932
+    second: Karma 38
+  - first:
+      213: -5539207673333861520
+    second: Karma 39
+  - first:
+      213: -231579908438832685
+    second: Karma 40
+  - first:
+      213: 2719619927587346254
+    second: Karma 41
+  - first:
+      213: 1910533338655174091
+    second: Karma 42
+  - first:
+      213: 2019304271259642831
+    second: Karma 43
+  - first:
+      213: -114756895186108710
+    second: Karma 44
+  - first:
+      213: 8306831259933225195
+    second: Karma 45
+  - first:
+      213: 5001910850987850566
+    second: Karma 46
+  - first:
+      213: -1499513092922153081
+    second: Karma 47
+  - first:
+      213: -8710028915785994201
+    second: Karma 48
+  - first:
+      213: 4408512034997629909
+    second: Karma 49
+  - first:
+      213: -3263039564606907572
+    second: Karma 50
+  - first:
+      213: -8414816209531505094
+    second: Karma 51
+  - first:
+      213: -4369563902629120683
+    second: Karma 52
+  - first:
+      213: -5107364337225160464
+    second: Karma 53
+  - first:
+      213: 1917448950786553140
+    second: Karma 54
+  - first:
+      213: -5616281213914764525
+    second: Karma 55
+  - first:
+      213: -2079553034401867823
+    second: Karma 56
+  - first:
+      213: -8560897687728748091
+    second: Karma 57
+  - first:
+      213: -2078979382546398860
+    second: Karma 58
+  - first:
+      213: -4330695431267719212
+    second: Karma 59
+  - first:
+      213: 245102705516926499
+    second: Karma 60
+  - first:
+      213: 7728395414596293104
+    second: Karma 61
+  - first:
+      213: 7997948344888375140
+    second: Karma 62
+  - first:
+      213: 3919060114007239116
+    second: Karma 63
+  - first:
+      213: 8578306561031506912
+    second: Karma 64
+  - first:
+      213: -3607311132042439829
+    second: Karma 65
+  - first:
+      213: -4418515716345742421
+    second: Karma 66
+  - first:
+      213: -4869194586624820432
+    second: Karma 67
+  - first:
+      213: 4644821310135196010
+    second: Karma 68
+  - first:
+      213: -6427299009892512152
+    second: Karma 69
+  - first:
+      213: -4468418723157830363
+    second: Karma 70
+  - first:
+      213: 7127373702896434475
+    second: Karma 71
+  - first:
+      213: 692268376982270618
+    second: Karma 72
+  - first:
+      213: 1273687549303550152
+    second: Karma 73
+  - first:
+      213: 3682427773457100716
+    second: Karma 74
+  - first:
+      213: -4944206472704226550
+    second: Karma 75
+  - first:
+      213: -1543838107153567740
+    second: Karma 76
+  - first:
+      213: 2451315092354369439
+    second: Karma 77
+  - first:
+      213: 2534637456813171408
+    second: Karma 78
+  - first:
+      213: -1145103969679239394
+    second: Karma 79
+  - first:
+      213: 1959303546955181540
+    second: Karma 80
+  - first:
+      213: -1639171926358545104
+    second: Karma 81
+  - first:
+      213: -441715200468800312
+    second: Karma 82
+  - first:
+      213: 6293167459458816090
+    second: Karma 83
+  - first:
+      213: -2568309009840821360
+    second: Karma 84
+  - first:
+      213: -3704660699692808528
+    second: Karma 85
+  - first:
+      213: 6307457103118308901
+    second: Karma 86
+  - first:
+      213: -2725508896539585166
+    second: Karma 87
+  - first:
+      213: -6602752951425353190
+    second: Karma 88
+  - first:
+      213: -340479556482892956
+    second: Karma 89
+  - first:
+      213: -8818643976037060988
+    second: Karma 90
+  - first:
+      213: 3138812783946383815
+    second: Karma 91
+  - first:
+      213: -6850633793466737111
+    second: Karma 92
+  - first:
+      213: -1161400117053784753
+    second: Karma 93
+  - first:
+      213: 2332771330554031067
+    second: Karma 94
+  - first:
+      213: -7017774167212515616
+    second: Karma 95
+  - first:
+      213: 7553819813685796538
+    second: Karma 96
+  - first:
+      213: -6573908277106554763
+    second: Karma 97
+  - first:
+      213: -6768758007373839626
+    second: Karma 98
+  - first:
+      213: 8126342050562525322
+    second: Karma 99
+  - first:
+      213: -8844232243413144651
+    second: Karma 100
+  - first:
+      213: 742258699891628136
+    second: Karma 101
+  - first:
+      213: -3156275636625861317
+    second: Karma 102
+  - first:
+      213: -4209298485479777306
+    second: Karma 103
+  - first:
+      213: 8303294045773565068
+    second: Karma 104
+  - first:
+      213: -3482895286072680635
+    second: Karma 105
+  - first:
+      213: -9100584253316638426
+    second: Karma 106
+  - first:
+      213: 5767209144311322402
+    second: Karma 107
+  - first:
+      213: 2530035627944602951
+    second: Karma 108
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 570
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 570
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 570
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Karma 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5b95cf068b51590800000000000000
+      internalID: -7704048860857256491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b320d016b654aa480800000000000000
+      internalID: -8887214587170192837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cd445f0db1585e0800000000000000
+      internalID: -1908088282839458702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5575eedb94ad4740800000000000000
+      internalID: 5137943739266069854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ba5af5849efb9c0800000000000000
+      internalID: -3909149454482691260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc6addf21bd7c250800000000000000
+      internalID: 5964977106090355908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e1499300518b080800000000000000
+      internalID: -9171557550429823462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb91642b16a31fe80800000000000000
+      internalID: -8146666059659339330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be29ae47e3da0f90800000000000000
+      internalID: -6986538881501286728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 9
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba34fca0110b92f0800000000000000
+      internalID: -965176524008047947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f24d63d966af2890800000000000000
+      internalID: -7480577482590174473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 456
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75434b638ca055040800000000000000
+      internalID: 4635623246475310167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 456
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5200765af6af5d6b0800000000000000
+      internalID: -5272032431343992795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 456
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3ae0542db7e1d00800000000000000
+      internalID: 945329114826318814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 456
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1168a4d4a2e0b2d80800000000000000
+      internalID: -8274504315515009519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 456
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad839457dbdbe3080800000000000000
+      internalID: -9205711966884513574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 456
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adadce156262a5540800000000000000
+      internalID: 4997348682546076378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4869235342f042b80800000000000000
+      internalID: -8420588755090237820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 18
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 456
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1890daebd94c0df40800000000000000
+      internalID: 5751312905940044161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 456
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107a819393b5820b0800000000000000
+      internalID: -5753248222636628223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 456
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0185d6cc16ee48280800000000000000
+      internalID: -9041840048044156912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525f43ff2836f6c40800000000000000
+      internalID: 5507730283575964965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 399
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0a374ac246fbcc0800000000000000
+      internalID: -3693123026520137524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 399
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1269951af65e85f0800000000000000
+      internalID: -752568455620107747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 399
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9b656f2f7162cb0800000000000000
+      internalID: -4889194013181691488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 399
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8c3614551467950800000000000000
+      internalID: 6446411751052527865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe47e6305ffa64a0800000000000000
+      internalID: -6599181583974445323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 27
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 399
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883514ccf04496770800000000000000
+      internalID: 8604483397710074760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 399
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa159ffbef2b00ef0800000000000000
+      internalID: -143918380863630929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 399
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5865a51ee5e0a5230800000000000000
+      internalID: 3628228250470864517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 399
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b586a44432a22d440800000000000000
+      internalID: 4959072470646286427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 399
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abd3a24d62e6ec10800000000000000
+      internalID: 2082600836602780578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3def184ab07711db0800000000000000
+      internalID: -4822942834048762157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 33
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 342
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88ca5fb71ebeb950800000000000000
+      internalID: 6466815124154534028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 342
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca525ac09a3c77060800000000000000
+      internalID: 6951239680698688940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 35
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4731fb0d367da4f10800000000000000
+      internalID: 2254851387156271988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 342
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c399a5c168bd7b0800000000000000
+      internalID: -5198413888531907486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 342
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4257bb788dd2760800000000000000
+      internalID: 7434836637335758050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 38
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 342
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c563343644670ede0800000000000000
+      internalID: -1305913855842240932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 342
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07331d518f7c023b0800000000000000
+      internalID: -5539207673333861520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 40
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 342
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9c26cdc4349ccf0800000000000000
+      internalID: -231579908438832685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 41
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 342
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47daeb3ae70eb520800000000000000
+      internalID: 2719619927587346254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 42
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 342
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd2516f2f3938a10800000000000000
+      internalID: 1910533338655174091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb2cd53982060c10800000000000000
+      internalID: 2019304271259642831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 44
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeb7ea363d486ef0800000000000000
+      internalID: -114756895186108710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 45
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 285
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be03e69f40bc74370800000000000000
+      internalID: 8306831259933225195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 285
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b7d4fea6b5a6540800000000000000
+      internalID: 5001910850987850566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 285
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787e35869c8a03be0800000000000000
+      internalID: -1499513092922153081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 285
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720f13b49d2cf1780800000000000000
+      internalID: -8710028915785994201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 285
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3711aa65e2e2d30800000000000000
+      internalID: 4408512034997629909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 285
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b5f87edca57b2d0800000000000000
+      internalID: -3263039564606907572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 51
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 285
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36fca4bd31983b80800000000000000
+      internalID: -8414816209531505094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 285
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555fb6018c03c53c0800000000000000
+      internalID: -4369563902629120683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 53
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8223df13ffe19b0800000000000000
+      internalID: -5107364337225160464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 54
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 285
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435f39269a52c9a10800000000000000
+      internalID: 1917448950786553140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b29e50ef5fe02b0800000000000000
+      internalID: -5616281213914764525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 56
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 228
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d714ec7881f323e0800000000000000
+      internalID: -2079553034401867823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 57
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 228
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9077c19e4913980800000000000000
+      internalID: -8560897687728748091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 228
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47106f7344bf523e0800000000000000
+      internalID: -2078979382546398860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 228
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d761e4437746e3c0800000000000000
+      internalID: -4330695431267719212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 60
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 228
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326d2dfac97c66300800000000000000
+      internalID: 245102705516926499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 61
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 228
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f115cacea6c04b60800000000000000
+      internalID: 7728395414596293104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467befc05ab6efe60800000000000000
+      internalID: 7997948344888375140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 63
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 228
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9adccd86c436630800000000000000
+      internalID: 3919060114007239116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 64
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 228
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb8fa01e544c0770800000000000000
+      internalID: 8578306561031506912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 65
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 228
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b635c4443a140fdc0800000000000000
+      internalID: -3607311132042439829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab3bb4cd574ea2c0800000000000000
+      internalID: -4418515716345742421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 67
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 171
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bf8f152552d6cb0800000000000000
+      internalID: -4869194586624820432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 68
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 171
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69d5cb4f58b57040800000000000000
+      internalID: 4644821310135196010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 69
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 171
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e03229a95adc6a0800000000000000
+      internalID: -6427299009892512152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 70
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 171
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525197298dcfcf1c0800000000000000
+      internalID: -4468418723157830363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 71
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d3a9ece9489e260800000000000000
+      internalID: 7127373702896434475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 72
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 171
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92b34bcb6e6b9900800000000000000
+      internalID: 692268376982270618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 73
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 171
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0731be31c0da110800000000000000
+      internalID: 1273687549303550152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 74
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 171
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf61f3bc8c9a1330800000000000000
+      internalID: 3682427773457100716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 75
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 171
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b074a9866a26bb0800000000000000
+      internalID: -4944206472704226550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 76
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 171
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4007660db6f239ae0800000000000000
+      internalID: -1543838107153567740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f970650c612d40220800000000000000
+      internalID: 2451315092354369439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 78
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 114
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2afbf7657dc2320800000000000000
+      internalID: 2534637456813171408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 79
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 114
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e171160b106cb10f0800000000000000
+      internalID: -1145103969679239394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 80
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed2d63f138d03b10800000000000000
+      internalID: 1959303546955181540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 81
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 114
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d2b9351dd7049e0800000000000000
+      internalID: -1639171926358545104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 82
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 114
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccaa209d56bed9f0800000000000000
+      internalID: -441715200468800312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 83
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 114
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5817153672d55750800000000000000
+      internalID: 6293167459458816090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 84
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 114
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ba00320988b5cd0800000000000000
+      internalID: -2568309009840821360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 85
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 114
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6c575c8b6669cc0800000000000000
+      internalID: -3704660699692808528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 86
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 114
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526916321d6988750800000000000000
+      internalID: 6307457103118308901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 87
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 114
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2755795591c0d2ad0800000000000000
+      internalID: -2725508896539585166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a31ae6c2f4e54a0800000000000000
+      internalID: -6602752951425353190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 89
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bfd86b5af564bf0800000000000000
+      internalID: -340479556482892956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 90
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 57
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e2ca7e602ed9580800000000000000
+      internalID: -8818643976037060988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 91
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 57
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1449bc89d4f8b20800000000000000
+      internalID: 3138812783946383815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 92
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 57
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ed02e6cd8ade0a0800000000000000
+      internalID: -6850633793466737111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 93
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 57
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d79e43fb0e1efe0800000000000000
+      internalID: -1161400117053784753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 94
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 57
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb63e36a2baf5020800000000000000
+      internalID: 2332771330554031067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 95
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 57
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee9261a39bdb9e90800000000000000
+      internalID: -7017774167212515616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 96
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 57
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe9c04491f84d860800000000000000
+      internalID: 7553819813685796538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 97
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 57
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57840158049c4c4a0800000000000000
+      internalID: -6573908277106554763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2c6e7647a8012a0800000000000000
+      internalID: -6768758007373839626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 99
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 57
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88491f2a0196c070800000000000000
+      internalID: 8126342050562525322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbad4422a9f24580800000000000000
+      internalID: -8844232243413144651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 101
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868db7ada580d4a00800000000000000
+      internalID: 742258699891628136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 102
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3512b9f708a234d0800000000000000
+      internalID: -3156275636625861317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb536b44519595c0800000000000000
+      internalID: -4209298485479777306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 104
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c03ff11f93b3370800000000000000
+      internalID: 8303294045773565068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 105
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f51c3c0354aafc0800000000000000
+      internalID: -3482895286072680635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 106
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6295c8ca6da34b180800000000000000
+      internalID: -9100584253316638426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 107
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2279f08292e390050800000000000000
+      internalID: 5767209144311322402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma 108
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 513
+        width: 27
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d68b8bffd7c1320800000000000000
+      internalID: 2530035627944602951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Karma 0: -7704048860857256491
+      Karma 1: -8887214587170192837
+      Karma 10: -7480577482590174473
+      Karma 100: -8844232243413144651
+      Karma 101: 742258699891628136
+      Karma 102: -3156275636625861317
+      Karma 103: -4209298485479777306
+      Karma 104: 8303294045773565068
+      Karma 105: -3482895286072680635
+      Karma 106: -9100584253316638426
+      Karma 107: 5767209144311322402
+      Karma 108: 2530035627944602951
+      Karma 11: 4635623246475310167
+      Karma 12: -5272032431343992795
+      Karma 13: 945329114826318814
+      Karma 14: -8274504315515009519
+      Karma 15: -9205711966884513574
+      Karma 16: 4997348682546076378
+      Karma 17: -8420588755090237820
+      Karma 18: 5751312905940044161
+      Karma 19: -5753248222636628223
+      Karma 2: -1908088282839458702
+      Karma 20: -9041840048044156912
+      Karma 21: 5507730283575964965
+      Karma 22: -3693123026520137524
+      Karma 23: -752568455620107747
+      Karma 24: -4889194013181691488
+      Karma 25: 6446411751052527865
+      Karma 26: -6599181583974445323
+      Karma 27: 8604483397710074760
+      Karma 28: -143918380863630929
+      Karma 29: 3628228250470864517
+      Karma 3: 5137943739266069854
+      Karma 30: 4959072470646286427
+      Karma 31: 2082600836602780578
+      Karma 32: -4822942834048762157
+      Karma 33: 6466815124154534028
+      Karma 34: 6951239680698688940
+      Karma 35: 2254851387156271988
+      Karma 36: -5198413888531907486
+      Karma 37: 7434836637335758050
+      Karma 38: -1305913855842240932
+      Karma 39: -5539207673333861520
+      Karma 4: -3909149454482691260
+      Karma 40: -231579908438832685
+      Karma 41: 2719619927587346254
+      Karma 42: 1910533338655174091
+      Karma 43: 2019304271259642831
+      Karma 44: -114756895186108710
+      Karma 45: 8306831259933225195
+      Karma 46: 5001910850987850566
+      Karma 47: -1499513092922153081
+      Karma 48: -8710028915785994201
+      Karma 49: 4408512034997629909
+      Karma 5: 5964977106090355908
+      Karma 50: -3263039564606907572
+      Karma 51: -8414816209531505094
+      Karma 52: -4369563902629120683
+      Karma 53: -5107364337225160464
+      Karma 54: 1917448950786553140
+      Karma 55: -5616281213914764525
+      Karma 56: -2079553034401867823
+      Karma 57: -8560897687728748091
+      Karma 58: -2078979382546398860
+      Karma 59: -4330695431267719212
+      Karma 6: -9171557550429823462
+      Karma 60: 245102705516926499
+      Karma 61: 7728395414596293104
+      Karma 62: 7997948344888375140
+      Karma 63: 3919060114007239116
+      Karma 64: 8578306561031506912
+      Karma 65: -3607311132042439829
+      Karma 66: -4418515716345742421
+      Karma 67: -4869194586624820432
+      Karma 68: 4644821310135196010
+      Karma 69: -6427299009892512152
+      Karma 7: -8146666059659339330
+      Karma 70: -4468418723157830363
+      Karma 71: 7127373702896434475
+      Karma 72: 692268376982270618
+      Karma 73: 1273687549303550152
+      Karma 74: 3682427773457100716
+      Karma 75: -4944206472704226550
+      Karma 76: -1543838107153567740
+      Karma 77: 2451315092354369439
+      Karma 78: 2534637456813171408
+      Karma 79: -1145103969679239394
+      Karma 8: -6986538881501286728
+      Karma 80: 1959303546955181540
+      Karma 81: -1639171926358545104
+      Karma 82: -441715200468800312
+      Karma 83: 6293167459458816090
+      Karma 84: -2568309009840821360
+      Karma 85: -3704660699692808528
+      Karma 86: 6307457103118308901
+      Karma 87: -2725508896539585166
+      Karma 88: -6602752951425353190
+      Karma 89: -340479556482892956
+      Karma 9: -965176524008047947
+      Karma 90: -8818643976037060988
+      Karma 91: 3138812783946383815
+      Karma 92: -6850633793466737111
+      Karma 93: -1161400117053784753
+      Karma 94: 2332771330554031067
+      Karma 95: -7017774167212515616
+      Karma 96: 7553819813685796538
+      Karma 97: -6573908277106554763
+      Karma 98: -6768758007373839626
+      Karma 99: 8126342050562525322
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

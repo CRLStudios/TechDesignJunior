@@ -1,0 +1,1815 @@
+fileFormatVersion: 2
+guid: 81cbb6b556244534093faab8eef43389
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6982686398504161791
+    second: Mantis 0
+  - first:
+      213: -4677968635461941205
+    second: Mantis 1
+  - first:
+      213: -1901770890176632038
+    second: Mantis 2
+  - first:
+      213: -5687968060893219548
+    second: Mantis 3
+  - first:
+      213: -7569586929074465380
+    second: Mantis 4
+  - first:
+      213: 1224623885573996145
+    second: Mantis 5
+  - first:
+      213: 5392672169562499945
+    second: Mantis 6
+  - first:
+      213: 7362606100905477090
+    second: Mantis 7
+  - first:
+      213: -4560911145266478615
+    second: Mantis 8
+  - first:
+      213: 6247426757168672345
+    second: Mantis 9
+  - first:
+      213: 4572147786235958230
+    second: Mantis 10
+  - first:
+      213: -2446276607619305365
+    second: Mantis 11
+  - first:
+      213: -1666686039429349767
+    second: Mantis 12
+  - first:
+      213: -3872904614437796831
+    second: Mantis 13
+  - first:
+      213: -6835468256563860965
+    second: Mantis 14
+  - first:
+      213: -2892846791387511895
+    second: Mantis 15
+  - first:
+      213: -7084474653264878489
+    second: Mantis 16
+  - first:
+      213: 3223200938260062792
+    second: Mantis 17
+  - first:
+      213: 4391709006439729167
+    second: Mantis 18
+  - first:
+      213: -1037305439802600590
+    second: Mantis 19
+  - first:
+      213: -1998402267258548095
+    second: Mantis 20
+  - first:
+      213: 3373047671875422789
+    second: Mantis 21
+  - first:
+      213: 9096347584831303262
+    second: Mantis 22
+  - first:
+      213: 6805873686660566223
+    second: Mantis 23
+  - first:
+      213: -974001703673984939
+    second: Mantis 24
+  - first:
+      213: 4105976061119732936
+    second: Mantis 25
+  - first:
+      213: 4059644077292544922
+    second: Mantis 26
+  - first:
+      213: 4590012044424451660
+    second: Mantis 27
+  - first:
+      213: 2079528217475364124
+    second: Mantis 28
+  - first:
+      213: 4769799549427071514
+    second: Mantis 29
+  - first:
+      213: -7746060069133873329
+    second: Mantis 30
+  - first:
+      213: -4859355348915892499
+    second: Mantis 31
+  - first:
+      213: -6220346961216742389
+    second: Mantis 32
+  - first:
+      213: 4845187156377641358
+    second: Mantis 33
+  - first:
+      213: 105526054384014408
+    second: Mantis 34
+  - first:
+      213: -6674991012578526590
+    second: Mantis 35
+  - first:
+      213: -1249549051221719964
+    second: Mantis 36
+  - first:
+      213: -735769241399969600
+    second: Mantis 37
+  - first:
+      213: -4957990055868221001
+    second: Mantis 38
+  - first:
+      213: 8895677746734532100
+    second: Mantis 39
+  - first:
+      213: -576985276719275544
+    second: Mantis 40
+  - first:
+      213: 1041895676101929427
+    second: Mantis 41
+  - first:
+      213: 1359593032460122217
+    second: Mantis 42
+  - first:
+      213: 5306143631896372867
+    second: Mantis 43
+  - first:
+      213: 3277950565832414813
+    second: Mantis 44
+  - first:
+      213: -4590300755536139142
+    second: Mantis 45
+  - first:
+      213: 7790559546109115504
+    second: Mantis 46
+  - first:
+      213: 2721936420386528667
+    second: Mantis 47
+  - first:
+      213: -5918637083155197527
+    second: Mantis 48
+  - first:
+      213: 3240868855538510431
+    second: Mantis 49
+  - first:
+      213: 6284172773603551382
+    second: Mantis 50
+  - first:
+      213: -2001978845310051702
+    second: Mantis 51
+  - first:
+      213: 2234638110029570628
+    second: Mantis 52
+  - first:
+      213: 8809984984360875144
+    second: Mantis 53
+  - first:
+      213: 1098289550534458020
+    second: Mantis 54
+  - first:
+      213: -876231372278914597
+    second: Mantis 55
+  - first:
+      213: 5976659108002449832
+    second: Mantis 56
+  - first:
+      213: 3315627980357002617
+    second: Mantis 57
+  - first:
+      213: 646231544338468214
+    second: Mantis 58
+  - first:
+      213: 165736099880130560
+    second: Mantis 59
+  - first:
+      213: 8803742171222291995
+    second: Mantis 60
+  - first:
+      213: -8190313514708380381
+    second: Mantis 61
+  - first:
+      213: -7279194714310547793
+    second: Mantis 62
+  - first:
+      213: 7223119076675963939
+    second: Mantis 63
+  - first:
+      213: 2461143033110465912
+    second: Mantis 64
+  - first:
+      213: 305939367900215127
+    second: Mantis 65
+  - first:
+      213: -3770908415952715342
+    second: Mantis 66
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1120
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 944
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 944
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1120
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mantis 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e253767b3881f90800000000000000
+      internalID: -6982686398504161791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b284fdc9f44841fb0800000000000000
+      internalID: -4677968635461941205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1be7de837d8b95e0800000000000000
+      internalID: -1901770890176632038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42531bc4f274011b0800000000000000
+      internalID: -5687968060893219548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95931c1bcc63f690800000000000000
+      internalID: -7569586929074465380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17eb8138fecbef010800000000000000
+      internalID: 1224623885573996145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b68e044ce96da40800000000000000
+      internalID: 5392672169562499945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e348917d3b3d2660800000000000000
+      internalID: 7362606100905477090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e185466a7364b0c0800000000000000
+      internalID: -4560911145266478615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e2f4d098153b650800000000000000
+      internalID: 6247426757168672345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 840
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3de23ff28837f30800000000000000
+      internalID: 4572147786235958230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 840
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60f084e2641d0ed0800000000000000
+      internalID: -2446276607619305365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 840
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ef5bba0edbed8e0800000000000000
+      internalID: -1666686039429349767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 840
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124c67fc5cda04ac0800000000000000
+      internalID: -3872904614437796831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a6d0626d98321a0800000000000000
+      internalID: -6835468256563860965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 840
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a308b19b2b8ad7d0800000000000000
+      internalID: -2892846791387511895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 840
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76463e786d3eead90800000000000000
+      internalID: -7084474653264878489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 17
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 840
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84262b41d2c1bbc20800000000000000
+      internalID: 3223200938260062792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0849b5b21c72fc30800000000000000
+      internalID: 4391709006439729167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 700
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2735cf8c230ca91f0800000000000000
+      internalID: -1037305439802600590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 700
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18018b5d9bf3444e0800000000000000
+      internalID: -1998402267258548095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ac7948cf87fce20800000000000000
+      internalID: 3373047671875422789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 700
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e2a531fe7bc3e70800000000000000
+      internalID: 9096347584831303262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 23
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 700
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccc4971f02537e50800000000000000
+      internalID: 6805873686660566223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 700
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55803e96c96ab72f0800000000000000
+      internalID: -974001703673984939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 25
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 700
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc9c43297b5bf830800000000000000
+      internalID: 4105976061119732936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 700
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a936a8587c0c65830800000000000000
+      internalID: 4059644077292544922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c461faea2aff2bf30800000000000000
+      internalID: 4590012044424451660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 560
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15350f55e7fbdc10800000000000000
+      internalID: 2079528217475364124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 560
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a3b613b6bb13240800000000000000
+      internalID: 4769799549427071514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 560
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f00725867708490800000000000000
+      internalID: -7746060069133873329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 560
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee497e5e0a109cb0800000000000000
+      internalID: -4859355348915892499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 32
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 560
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cdef44563eca9a0800000000000000
+      internalID: -6220346961216742389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 33
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 560
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81ac2e3c009d3340800000000000000
+      internalID: 4845187156377641358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8449b1a2367e67100800000000000000
+      internalID: 105526054384014408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 35
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 560
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28af4582a0bad53a0800000000000000
+      internalID: -6674991012578526590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464c08022c5b8aee0800000000000000
+      internalID: -1249549051221719964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 37
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 420
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c832b1f5c50ac5f0800000000000000
+      internalID: -735769241399969600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 38
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 420
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b93e00105ea13bb0800000000000000
+      internalID: -4957990055868221001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 39
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 420
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406857287cbc37b70800000000000000
+      internalID: 8895677746734532100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 40
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 420
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e16484a2f22ef7f0800000000000000
+      internalID: -576985276719275544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 41
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 420
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d92213e89e857e00800000000000000
+      internalID: 1041895676101929427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 42
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 420
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968b1ead8ae3ed210800000000000000
+      internalID: 1359593032460122217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3866262258533a940800000000000000
+      internalID: 5306143631896372867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 44
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 420
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d565bbb1cae9d7d20800000000000000
+      internalID: 3277950565832414813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7caf0688c9fb40c0800000000000000
+      internalID: -4590300755536139142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 46
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 280
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cbc5b81a0ad1c60800000000000000
+      internalID: 7790559546109115504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 280
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d565eb0c246c520800000000000000
+      internalID: 2721936420386528667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 48
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 280
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a194106ee6ccdda0800000000000000
+      internalID: -5918637083155197527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 49
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 280
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aeff1ad01e9fc20800000000000000
+      internalID: 3240868855538510431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 50
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 280
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69822d5b7ddd53750800000000000000
+      internalID: 6284172773603551382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 51
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 280
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a927dd8da8734e0800000000000000
+      internalID: -2001978845310051702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442ecdd7587030f10800000000000000
+      internalID: 2234638110029570628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 53
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 280
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884fa5d7aaa534a70800000000000000
+      internalID: 8809984984360875144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa3128f688ed3f00800000000000000
+      internalID: 1098289550534458020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 55
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 140
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1234a953007d3f0800000000000000
+      internalID: -876231372278914597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 56
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 140
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9c6140bcb51f250800000000000000
+      internalID: 5976659108002449832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 57
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 140
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9756688c41a730e20800000000000000
+      internalID: 3315627980357002617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 58
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 140
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d42fa6a20e7f800800000000000000
+      internalID: 646231544338468214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 59
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 140
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00850dfca10dc4200800000000000000
+      internalID: 165736099880130560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 60
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 140
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16b4d94cdc2d2a70800000000000000
+      internalID: 8803742171222291995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325d9b4a049265e80800000000000000
+      internalID: -8190313514708380381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 62
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa66e9269fa1bfa90800000000000000
+      internalID: -7279194714310547793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 63
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 140
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c4e9fc78cad3460800000000000000
+      internalID: 7223119076675963939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d0af58c8cb72220800000000000000
+      internalID: 2461143033110465912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 65
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757ff72fb3aee3400800000000000000
+      internalID: 305939367900215127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis 66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 53
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b18b9a56ca0babc0800000000000000
+      internalID: -3770908415952715342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mantis 0: -6982686398504161791
+      Mantis 1: -4677968635461941205
+      Mantis 10: 4572147786235958230
+      Mantis 11: -2446276607619305365
+      Mantis 12: -1666686039429349767
+      Mantis 13: -3872904614437796831
+      Mantis 14: -6835468256563860965
+      Mantis 15: -2892846791387511895
+      Mantis 16: -7084474653264878489
+      Mantis 17: 3223200938260062792
+      Mantis 18: 4391709006439729167
+      Mantis 19: -1037305439802600590
+      Mantis 2: -1901770890176632038
+      Mantis 20: -1998402267258548095
+      Mantis 21: 3373047671875422789
+      Mantis 22: 9096347584831303262
+      Mantis 23: 6805873686660566223
+      Mantis 24: -974001703673984939
+      Mantis 25: 4105976061119732936
+      Mantis 26: 4059644077292544922
+      Mantis 27: 4590012044424451660
+      Mantis 28: 2079528217475364124
+      Mantis 29: 4769799549427071514
+      Mantis 3: -5687968060893219548
+      Mantis 30: -7746060069133873329
+      Mantis 31: -4859355348915892499
+      Mantis 32: -6220346961216742389
+      Mantis 33: 4845187156377641358
+      Mantis 34: 105526054384014408
+      Mantis 35: -6674991012578526590
+      Mantis 36: -1249549051221719964
+      Mantis 37: -735769241399969600
+      Mantis 38: -4957990055868221001
+      Mantis 39: 8895677746734532100
+      Mantis 4: -7569586929074465380
+      Mantis 40: -576985276719275544
+      Mantis 41: 1041895676101929427
+      Mantis 42: 1359593032460122217
+      Mantis 43: 5306143631896372867
+      Mantis 44: 3277950565832414813
+      Mantis 45: -4590300755536139142
+      Mantis 46: 7790559546109115504
+      Mantis 47: 2721936420386528667
+      Mantis 48: -5918637083155197527
+      Mantis 49: 3240868855538510431
+      Mantis 5: 1224623885573996145
+      Mantis 50: 6284172773603551382
+      Mantis 51: -2001978845310051702
+      Mantis 52: 2234638110029570628
+      Mantis 53: 8809984984360875144
+      Mantis 54: 1098289550534458020
+      Mantis 55: -876231372278914597
+      Mantis 56: 5976659108002449832
+      Mantis 57: 3315627980357002617
+      Mantis 58: 646231544338468214
+      Mantis 59: 165736099880130560
+      Mantis 6: 5392672169562499945
+      Mantis 60: 8803742171222291995
+      Mantis 61: -8190313514708380381
+      Mantis 62: -7279194714310547793
+      Mantis 63: 7223119076675963939
+      Mantis 64: 2461143033110465912
+      Mantis 65: 305939367900215127
+      Mantis 66: -3770908415952715342
+      Mantis 7: 7362606100905477090
+      Mantis 8: -4560911145266478615
+      Mantis 9: 6247426757168672345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

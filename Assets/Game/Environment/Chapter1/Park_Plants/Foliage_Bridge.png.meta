@@ -1,0 +1,2402 @@
+fileFormatVersion: 2
+guid: 461ef29a57895ae4ab2ccddeab81852b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9044949249902997160
+    second: Foliage_Bridge 0
+  - first:
+      213: -2113489809867685065
+    second: Foliage_Bridge 1
+  - first:
+      213: 4138450269987578165
+    second: Foliage_Bridge 2
+  - first:
+      213: 4896729971718571626
+    second: Foliage_Bridge 3
+  - first:
+      213: 8664407584889206844
+    second: Foliage_Bridge 4
+  - first:
+      213: -9065348925897898379
+    second: Foliage_Bridge 5
+  - first:
+      213: 6278300657773740226
+    second: Foliage_Bridge 6
+  - first:
+      213: -2073501079814545542
+    second: Foliage_Bridge 7
+  - first:
+      213: 2364161535554020229
+    second: Foliage_Bridge 8
+  - first:
+      213: -1598907572861493999
+    second: Foliage_Bridge 9
+  - first:
+      213: -634496479982291498
+    second: Foliage_Bridge 10
+  - first:
+      213: 7384459473389438976
+    second: Foliage_Bridge 11
+  - first:
+      213: 9160025508102514993
+    second: Foliage_Bridge 12
+  - first:
+      213: -1433379911905043068
+    second: Foliage_Bridge 13
+  - first:
+      213: -3614075597775837518
+    second: Foliage_Bridge 14
+  - first:
+      213: 948075149947155842
+    second: Foliage_Bridge 15
+  - first:
+      213: 8438804700848320202
+    second: Foliage_Bridge 16
+  - first:
+      213: -3765789992173279581
+    second: Foliage_Bridge 17
+  - first:
+      213: -477209572150127572
+    second: Foliage_Bridge 18
+  - first:
+      213: 6510491843420988515
+    second: Foliage_Bridge 19
+  - first:
+      213: -5846349571958089186
+    second: Foliage_Bridge 20
+  - first:
+      213: 5626068650161315733
+    second: Foliage_Bridge 21
+  - first:
+      213: 1426482745972183994
+    second: Foliage_Bridge 22
+  - first:
+      213: 3040935915334782006
+    second: Foliage_Bridge 23
+  - first:
+      213: -1276691018576146609
+    second: Foliage_Bridge 24
+  - first:
+      213: 738119896410819421
+    second: Foliage_Bridge 25
+  - first:
+      213: -3291018105994964919
+    second: Foliage_Bridge 26
+  - first:
+      213: 8357958180494674846
+    second: Foliage_Bridge 27
+  - first:
+      213: 241237888952555958
+    second: Foliage_Bridge 28
+  - first:
+      213: -6489405139034913986
+    second: Foliage_Bridge 29
+  - first:
+      213: 5664033074300160080
+    second: Foliage_Bridge 30
+  - first:
+      213: 2705632331723279069
+    second: Foliage_Bridge 31
+  - first:
+      213: -6500740905914916164
+    second: Foliage_Bridge 32
+  - first:
+      213: 7317408482710058756
+    second: Foliage_Bridge 33
+  - first:
+      213: -4265959968167404607
+    second: Foliage_Bridge 34
+  - first:
+      213: 2701178029170253688
+    second: Foliage_Bridge 35
+  - first:
+      213: 5930062962941442016
+    second: Foliage_Bridge 36
+  - first:
+      213: 8048390308031883319
+    second: Foliage_Bridge 37
+  - first:
+      213: 7847562471939968407
+    second: Foliage_Bridge 38
+  - first:
+      213: -1211038694477502921
+    second: Foliage_Bridge 39
+  - first:
+      213: 7848143923701661372
+    second: Foliage_Bridge 40
+  - first:
+      213: 89586205106889632
+    second: Foliage_Bridge 41
+  - first:
+      213: -5853341894089329471
+    second: Foliage_Bridge 42
+  - first:
+      213: -6882383181765693023
+    second: Foliage_Bridge 43
+  - first:
+      213: -6176750143923287416
+    second: Foliage_Bridge 44
+  - first:
+      213: -1687013554219588412
+    second: Foliage_Bridge 45
+  - first:
+      213: 1503687282002180538
+    second: Foliage_Bridge 46
+  - first:
+      213: 6013223096714278678
+    second: Foliage_Bridge 47
+  - first:
+      213: 2089538677356829018
+    second: Foliage_Bridge 48
+  - first:
+      213: 968396548332091073
+    second: Foliage_Bridge 49
+  - first:
+      213: -2748989048029905830
+    second: Foliage_Bridge 50
+  - first:
+      213: -3900185354162948407
+    second: Foliage_Bridge 51
+  - first:
+      213: -2213119579338819633
+    second: Foliage_Bridge 52
+  - first:
+      213: -4468952397789978625
+    second: Foliage_Bridge 53
+  - first:
+      213: -6474250560871093255
+    second: Foliage_Bridge 54
+  - first:
+      213: -7709028779108137121
+    second: Foliage_Bridge 55
+  - first:
+      213: -5144568086447730672
+    second: Foliage_Bridge 56
+  - first:
+      213: -544559033305728381
+    second: Foliage_Bridge 57
+  - first:
+      213: 3141960438933929428
+    second: Foliage_Bridge 58
+  - first:
+      213: 8995840792751504084
+    second: Foliage_Bridge 59
+  - first:
+      213: 8939660304447301101
+    second: Foliage_Bridge 60
+  - first:
+      213: -2227857256938018958
+    second: Foliage_Bridge 61
+  - first:
+      213: -4927702691110019898
+    second: Foliage_Bridge 62
+  - first:
+      213: -2258346977737743634
+    second: Foliage_Bridge 63
+  - first:
+      213: -2549019241815867375
+    second: Foliage_Bridge 64
+  - first:
+      213: 7531018079775512668
+    second: Foliage_Bridge 65
+  - first:
+      213: 6745894881461244431
+    second: Foliage_Bridge 66
+  - first:
+      213: -6274222476946851018
+    second: Foliage_Bridge 67
+  - first:
+      213: 2728940087053510354
+    second: Foliage_Bridge 68
+  - first:
+      213: 1606188271720315509
+    second: Foliage_Bridge 69
+  - first:
+      213: 6743993137873251680
+    second: Foliage_Bridge 70
+  - first:
+      213: 2343365138943804026
+    second: Foliage_Bridge 71
+  - first:
+      213: 7028772087814280153
+    second: Foliage_Bridge 72
+  - first:
+      213: 2286115391827298020
+    second: Foliage_Bridge 73
+  - first:
+      213: -2958060834696013049
+    second: Foliage_Bridge 74
+  - first:
+      213: -5519169472055705450
+    second: Foliage_Bridge 75
+  - first:
+      213: 3335773393946693459
+    second: Foliage_Bridge 76
+  - first:
+      213: 3880559906812653356
+    second: Foliage_Bridge 77
+  - first:
+      213: 8857598767780850764
+    second: Foliage_Bridge 78
+  - first:
+      213: 4196954739564728339
+    second: Foliage_Bridge 79
+  - first:
+      213: -3398024476076651056
+    second: Foliage_Bridge 80
+  - first:
+      213: 2023281990656550561
+    second: Foliage_Bridge 81
+  - first:
+      213: 4174388757884563591
+    second: Foliage_Bridge 82
+  - first:
+      213: -4178383308045318699
+    second: Foliage_Bridge 83
+  - first:
+      213: 5968750076249619494
+    second: Foliage_Bridge 84
+  - first:
+      213: -5925524159578514056
+    second: Foliage_Bridge 85
+  - first:
+      213: 3801102141033186540
+    second: Foliage_Bridge 86
+  - first:
+      213: 8320555028401500044
+    second: Foliage_Bridge 87
+  - first:
+      213: 8392888554457174084
+    second: Foliage_Bridge 88
+  - first:
+      213: -893889481386451386
+    second: Foliage_Bridge 89
+  - first:
+      213: -8042627484295291210
+    second: Foliage_Bridge 90
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 252
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 252
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 252
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Foliage_Bridge 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85198145492e97280800000000000000
+      internalID: -9044949249902997160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733cd6637306ba2e0800000000000000
+      internalID: -2113489809867685065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531aa37189abe6930800000000000000
+      internalID: 4138450269987578165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a664b4d17fda4f340800000000000000
+      internalID: 4896729971718571626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38758edac82e3870800000000000000
+      internalID: 8664407584889206844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57603e2ae29613280800000000000000
+      internalID: -9065348925897898379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c084b33f21012750800000000000000
+      internalID: 6278300657773740226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fd348f0c17933e0800000000000000
+      internalID: -2073501079814545542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583e65604603fc020800000000000000
+      internalID: 2364161535554020229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d98eaa80a8fc9e0800000000000000
+      internalID: -1598907572861493999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 196
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d57b6b20d0d137f0800000000000000
+      internalID: -634496479982291498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 196
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00845a934ceda7660800000000000000
+      internalID: 7384459473389438976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 196
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139a7ffeaa2fe1f70800000000000000
+      internalID: 9160025508102514993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d18b2809c9b1ce0800000000000000
+      internalID: -1433379911905043068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6e92b546938ddc0800000000000000
+      internalID: -3614075597775837518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 196
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285b9f4635d382d00800000000000000
+      internalID: 948075149947155842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 196
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acee5fa2a28ac1570800000000000000
+      internalID: 8438804700848320202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 196
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a66ac144f93dbbc0800000000000000
+      internalID: -3765789992173279581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 196
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2453982c6c9069f0800000000000000
+      internalID: -477209572150127572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364af2866d9e95a50800000000000000
+      internalID: 6510491843420988515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a5ea22a089ddea0800000000000000
+      internalID: -5846349571958089186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 168
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f93de01afc31e40800000000000000
+      internalID: 5626068650161315733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 168
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab355e7ef72ebc310800000000000000
+      internalID: 1426482745972183994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 168
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cc14a7a13933a20800000000000000
+      internalID: 3040935915334782006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 168
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f46d56848484ee0800000000000000
+      internalID: -1276691018576146609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 168
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b073392245e3a00800000000000000
+      internalID: 738119896410819421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 168
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9409aca1874f352d0800000000000000
+      internalID: -3291018105994964919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b84fbceae6df370800000000000000
+      internalID: 8357958180494674846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 168
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9d165f49c095300800000000000000
+      internalID: 241237888952555958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 168
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33ca3c886001f5a0800000000000000
+      internalID: -6489405139034913986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05889bd5210ba9e40800000000000000
+      internalID: 5664033074300160080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 31
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 140
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda8d2945465c8520800000000000000
+      internalID: 2705632331723279069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 32
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 168
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb22716a69ab8c5a0800000000000000
+      internalID: -6500740905914916164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 140
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407fc58ee38ac8560800000000000000
+      internalID: 7317408482710058756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb585fc2044cc4c0800000000000000
+      internalID: -4265959968167404607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 140
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f58c72b138c7520800000000000000
+      internalID: 2701178029170253688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 140
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e733d198d0db4250800000000000000
+      internalID: 5930062962941442016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 37
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 140
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738efebc750a1bf60800000000000000
+      internalID: 8048390308031883319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 140
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d0ba47d7428ec60800000000000000
+      internalID: 7847562471939968407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 39
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 140
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7366a6649b6813fe0800000000000000
+      internalID: -1211038694477502921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 140
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeb06e31553aec60800000000000000
+      internalID: 7848143923701661372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3eb2ccd264e3100800000000000000
+      internalID: 89586205106889632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4b4e54f80c4cea0800000000000000
+      internalID: -5853341894089329471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 43
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 112
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1bbbae5fcdc70a0800000000000000
+      internalID: -6882383181765693023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 112
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a0c1d4876c74aa0800000000000000
+      internalID: -6176750143923287416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 45
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 112
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4e8715c168698e0800000000000000
+      internalID: -1687013554219588412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 112
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab93309bd9b2ed410800000000000000
+      internalID: 1503687282002180538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 47
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 112
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61734da0c82437350800000000000000
+      internalID: 6013223096714278678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 48
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a591b403b588ffc10800000000000000
+      internalID: 2089538677356829018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 49
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 112
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c67c09a78f607d00800000000000000
+      internalID: 968396548332091073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 50
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 112
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cfcbc8601a9d9d0800000000000000
+      internalID: -2748989048029905830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 112
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6bfee9512cfd9c0800000000000000
+      internalID: -3900185354162948407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc73c0cd77b6941e0800000000000000
+      internalID: -2213119579338819633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 53
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 84
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff1993c8771bf1c0800000000000000
+      internalID: -4468952397789978625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 54
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 84
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fba76cba67d626a0800000000000000
+      internalID: -6474250560871093255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 55
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f570ff96b27040590800000000000000
+      internalID: -7709028779108137121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 84
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010d87c1592da98b0800000000000000
+      internalID: -5144568086447730672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 84
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38af494c1765178f0800000000000000
+      internalID: -544559033305728381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 58
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 84
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddbcf45f5c7a9b20800000000000000
+      internalID: 3141960438933929428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 59
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 84
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dafbebf985a7dc70800000000000000
+      internalID: 8995840792751504084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 60
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 84
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5ed3bbead001c70800000000000000
+      internalID: 8939660304447301101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 84
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277eee5e0af0511e0800000000000000
+      internalID: -2227857256938018958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 62
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc96a1b2884d9bb0800000000000000
+      internalID: -4927702691110019898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee26d54936db8a0e0800000000000000
+      internalID: -2258346977737743634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 64
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 56
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1100eed318010acd0800000000000000
+      internalID: -2549019241815867375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 56
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c585012ea0d838860800000000000000
+      internalID: 7531018079775512668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 66
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 56
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f029f9547ab3e9d50800000000000000
+      internalID: 6745894881461244431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 67
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 56
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bbfc346eb7de8a0800000000000000
+      internalID: -6274222476946851018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 68
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 56
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6e526fc842fd520800000000000000
+      internalID: 2728940087053510354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 69
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ab94229b35a4610800000000000000
+      internalID: 1606188271720315509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 70
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 56
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d6b96170a779d50800000000000000
+      internalID: 6743993137873251680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 71
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 56
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7287cd9d2e458020800000000000000
+      internalID: 2343365138943804026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 56
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3d95d49f63b8160800000000000000
+      internalID: 7028772087814280153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e64b6526d9e9bf10800000000000000
+      internalID: 2286115391827298020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 74
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 28
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bd2f3e75bd2f6d0800000000000000
+      internalID: -2958060834696013049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 75
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 28
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69080f26b98f763b0800000000000000
+      internalID: -5519169472055705450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 76
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f44656a3c0b4e20800000000000000
+      internalID: 3335773393946693459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 77
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 28
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fe037dca48ad530800000000000000
+      internalID: 3880559906812653356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 78
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 28
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ce38456238cea70800000000000000
+      internalID: 8857598767780850764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 79
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 28
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310d52669149e3a30800000000000000
+      internalID: 4196954739564728339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 80
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 28
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd4e551ebac7d0d0800000000000000
+      internalID: -3398024476076651056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 81
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 28
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6678d2044241c10800000000000000
+      internalID: 2023281990656550561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 82
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 28
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780f71c55786ee930800000000000000
+      internalID: 4174388757884563591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 83
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d58984f4866306c0800000000000000
+      internalID: -4178383308045318699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 84
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 28
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cb1ff029245d250800000000000000
+      internalID: 5968750076249619494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dd350fb2f44cda0800000000000000
+      internalID: -5925524159578514056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 86
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce48247124a30c430800000000000000
+      internalID: 3801102141033186540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 87
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f26f1d6bc887370800000000000000
+      internalID: 8320555028401500044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 88
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4409cdf3ca7897470800000000000000
+      internalID: 8392888554457174084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 89
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e9081b0444893f0800000000000000
+      internalID: -893889481386451386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foliage_Bridge 90
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be19c92ae8d26090800000000000000
+      internalID: -8042627484295291210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Foliage_Bridge 0: -9044949249902997160
+      Foliage_Bridge 1: -2113489809867685065
+      Foliage_Bridge 10: -634496479982291498
+      Foliage_Bridge 11: 7384459473389438976
+      Foliage_Bridge 12: 9160025508102514993
+      Foliage_Bridge 13: -1433379911905043068
+      Foliage_Bridge 14: -3614075597775837518
+      Foliage_Bridge 15: 948075149947155842
+      Foliage_Bridge 16: 8438804700848320202
+      Foliage_Bridge 17: -3765789992173279581
+      Foliage_Bridge 18: -477209572150127572
+      Foliage_Bridge 19: 6510491843420988515
+      Foliage_Bridge 2: 4138450269987578165
+      Foliage_Bridge 20: -5846349571958089186
+      Foliage_Bridge 21: 5626068650161315733
+      Foliage_Bridge 22: 1426482745972183994
+      Foliage_Bridge 23: 3040935915334782006
+      Foliage_Bridge 24: -1276691018576146609
+      Foliage_Bridge 25: 738119896410819421
+      Foliage_Bridge 26: -3291018105994964919
+      Foliage_Bridge 27: 8357958180494674846
+      Foliage_Bridge 28: 241237888952555958
+      Foliage_Bridge 29: -6489405139034913986
+      Foliage_Bridge 3: 4896729971718571626
+      Foliage_Bridge 30: 5664033074300160080
+      Foliage_Bridge 31: 2705632331723279069
+      Foliage_Bridge 32: -6500740905914916164
+      Foliage_Bridge 33: 7317408482710058756
+      Foliage_Bridge 34: -4265959968167404607
+      Foliage_Bridge 35: 2701178029170253688
+      Foliage_Bridge 36: 5930062962941442016
+      Foliage_Bridge 37: 8048390308031883319
+      Foliage_Bridge 38: 7847562471939968407
+      Foliage_Bridge 39: -1211038694477502921
+      Foliage_Bridge 4: 8664407584889206844
+      Foliage_Bridge 40: 7848143923701661372
+      Foliage_Bridge 41: 89586205106889632
+      Foliage_Bridge 42: -5853341894089329471
+      Foliage_Bridge 43: -6882383181765693023
+      Foliage_Bridge 44: -6176750143923287416
+      Foliage_Bridge 45: -1687013554219588412
+      Foliage_Bridge 46: 1503687282002180538
+      Foliage_Bridge 47: 6013223096714278678
+      Foliage_Bridge 48: 2089538677356829018
+      Foliage_Bridge 49: 968396548332091073
+      Foliage_Bridge 5: -9065348925897898379
+      Foliage_Bridge 50: -2748989048029905830
+      Foliage_Bridge 51: -3900185354162948407
+      Foliage_Bridge 52: -2213119579338819633
+      Foliage_Bridge 53: -4468952397789978625
+      Foliage_Bridge 54: -6474250560871093255
+      Foliage_Bridge 55: -7709028779108137121
+      Foliage_Bridge 56: -5144568086447730672
+      Foliage_Bridge 57: -544559033305728381
+      Foliage_Bridge 58: 3141960438933929428
+      Foliage_Bridge 59: 8995840792751504084
+      Foliage_Bridge 6: 6278300657773740226
+      Foliage_Bridge 60: 8939660304447301101
+      Foliage_Bridge 61: -2227857256938018958
+      Foliage_Bridge 62: -4927702691110019898
+      Foliage_Bridge 63: -2258346977737743634
+      Foliage_Bridge 64: -2549019241815867375
+      Foliage_Bridge 65: 7531018079775512668
+      Foliage_Bridge 66: 6745894881461244431
+      Foliage_Bridge 67: -6274222476946851018
+      Foliage_Bridge 68: 2728940087053510354
+      Foliage_Bridge 69: 1606188271720315509
+      Foliage_Bridge 7: -2073501079814545542
+      Foliage_Bridge 70: 6743993137873251680
+      Foliage_Bridge 71: 2343365138943804026
+      Foliage_Bridge 72: 7028772087814280153
+      Foliage_Bridge 73: 2286115391827298020
+      Foliage_Bridge 74: -2958060834696013049
+      Foliage_Bridge 75: -5519169472055705450
+      Foliage_Bridge 76: 3335773393946693459
+      Foliage_Bridge 77: 3880559906812653356
+      Foliage_Bridge 78: 8857598767780850764
+      Foliage_Bridge 79: 4196954739564728339
+      Foliage_Bridge 8: 2364161535554020229
+      Foliage_Bridge 80: -3398024476076651056
+      Foliage_Bridge 81: 2023281990656550561
+      Foliage_Bridge 82: 4174388757884563591
+      Foliage_Bridge 83: -4178383308045318699
+      Foliage_Bridge 84: 5968750076249619494
+      Foliage_Bridge 85: -5925524159578514056
+      Foliage_Bridge 86: 3801102141033186540
+      Foliage_Bridge 87: 8320555028401500044
+      Foliage_Bridge 88: 8392888554457174084
+      Foliage_Bridge 89: -893889481386451386
+      Foliage_Bridge 9: -1598907572861493999
+      Foliage_Bridge 90: -8042627484295291210
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

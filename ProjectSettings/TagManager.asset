@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Walks
+  - OverworldCamera
+  - NoteContainer0
+  - Charges
+  - AudioController
+  - SoundManager
+  - CutsceneParent_1
+  - WorldVignette
+  - Column0Keybind
+  - CombatCameraOrthographic
+  - EnemyEnergyBar
+  - Column0Hitbox
+  - CombatEnemyBars
+  - CombatPlayerBars
+  - PlayerEnergyBar
+  - PlayerHealthBar
+  - CombatPlayerBar
+  - EnemyHealthBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Interactable 0
+  - GroundChange
+  - PostFX
+  - Character 0
+  - Enemy 0
+  - Player 0
+  - Occluder
+  - CombatPerspective
+  - CombatOrthographic
+  - Elevation 0
+  - Elevation 1
+  - Enemy 1
+  - Player 1
+  - Character 1
+  - World Space UI
+  - Interactable 1
+  - Follower 0
+  - Follower 1
+  - Flyable 0
+  - Flyable 1
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 751768127
+    locked: 0
+  - name: Ground
+    uniqueID: 3017242503
+    locked: 0
+  - name: Shadow
+    uniqueID: 3906254633
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3195255291
+    locked: 0
+  - name: CombatForeground
+    uniqueID: 2374711149
+    locked: 0
+  - name: User Interface
+    uniqueID: 4106509519
+    locked: 0
+  - name: Combat
+    uniqueID: 3170160339
+    locked: 0
+  - name: Dialogue
+    uniqueID: 1065407419
+    locked: 0
+  - name: Transition
+    uniqueID: 2055088261
+    locked: 0

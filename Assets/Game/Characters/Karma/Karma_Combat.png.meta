@@ -1,0 +1,5029 @@
+fileFormatVersion: 2
+guid: dd2979f176dc4dc44aff6b796643bb47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8252407533231774146
+    second: Karma_Combat 0
+  - first:
+      213: 8574115959653685786
+    second: Karma_Combat 1
+  - first:
+      213: -4723114829326346461
+    second: Karma_Combat 2
+  - first:
+      213: 5288726420793345647
+    second: Karma_Combat 3
+  - first:
+      213: -3718477736416093315
+    second: Karma_Combat 4
+  - first:
+      213: -3344243706179888230
+    second: Karma_Combat 5
+  - first:
+      213: -6220418442627520082
+    second: Karma_Combat 6
+  - first:
+      213: -111981800272033848
+    second: Karma_Combat 7
+  - first:
+      213: -5446021661946754560
+    second: Karma_Combat 8
+  - first:
+      213: -2186177927097314563
+    second: Karma_Combat 9
+  - first:
+      213: 1526134760368846889
+    second: Karma_Combat 10
+  - first:
+      213: 635155347326421942
+    second: Karma_Combat 11
+  - first:
+      213: 8417336036025831111
+    second: Karma_Combat 12
+  - first:
+      213: -4114998591206622350
+    second: Karma_Combat 13
+  - first:
+      213: 8967091012828451766
+    second: Karma_Combat 14
+  - first:
+      213: -8883531400810289222
+    second: Karma_Combat 15
+  - first:
+      213: 265490793843526143
+    second: Karma_Combat 16
+  - first:
+      213: 3502843982586039194
+    second: Karma_Combat 17
+  - first:
+      213: 366653239995975959
+    second: Karma_Combat 18
+  - first:
+      213: -2913880414239654585
+    second: Karma_Combat 19
+  - first:
+      213: -4838626105499182135
+    second: Karma_Combat 20
+  - first:
+      213: -2938768750834491846
+    second: Karma_Combat 21
+  - first:
+      213: -6305966957561890819
+    second: Karma_Combat 22
+  - first:
+      213: 4146698299794617037
+    second: Karma_Combat 23
+  - first:
+      213: -6309446567825357853
+    second: Karma_Combat 24
+  - first:
+      213: -884506993694653184
+    second: Karma_Combat 25
+  - first:
+      213: -1388936460315792148
+    second: Karma_Combat 26
+  - first:
+      213: 2637999125487731304
+    second: Karma_Combat 27
+  - first:
+      213: 5932859513572269592
+    second: Karma_Combat 28
+  - first:
+      213: 1858322189442824785
+    second: Karma_Combat 29
+  - first:
+      213: 3115203401250017674
+    second: Karma_Combat 30
+  - first:
+      213: -6155177007166791061
+    second: Karma_Combat 31
+  - first:
+      213: -906479633899854198
+    second: Karma_Combat 32
+  - first:
+      213: 6090703774181459228
+    second: Karma_Combat 33
+  - first:
+      213: 7557313276156416051
+    second: Karma_Combat 34
+  - first:
+      213: -6304945457828329845
+    second: Karma_Combat 35
+  - first:
+      213: 2167355074495148513
+    second: Karma_Combat 36
+  - first:
+      213: -1704493227808888158
+    second: Karma_Combat 37
+  - first:
+      213: -5844799489897901829
+    second: Karma_Combat 38
+  - first:
+      213: 3001263648290108410
+    second: Karma_Combat 39
+  - first:
+      213: 6693642652396140495
+    second: Karma_Combat 40
+  - first:
+      213: 2981006898936357466
+    second: Karma_Combat 41
+  - first:
+      213: 9038339111733302424
+    second: Karma_Combat 42
+  - first:
+      213: -2713636461582515599
+    second: Karma_Combat 43
+  - first:
+      213: 8636348358245951252
+    second: Karma_Combat 44
+  - first:
+      213: -924347513934926062
+    second: Karma_Combat 45
+  - first:
+      213: 4368822268121222229
+    second: Karma_Combat 46
+  - first:
+      213: -5515972515156109892
+    second: Karma_Combat 47
+  - first:
+      213: -4474277936109189510
+    second: Karma_Combat 48
+  - first:
+      213: -7497205597826809883
+    second: Karma_Combat 49
+  - first:
+      213: 6343986888405755242
+    second: Karma_Combat 50
+  - first:
+      213: 7570374288271520537
+    second: Karma_Combat 51
+  - first:
+      213: -5926962280420223797
+    second: Karma_Combat 52
+  - first:
+      213: 2452920505072569062
+    second: Karma_Combat 53
+  - first:
+      213: -1803553343040018152
+    second: Karma_Combat 54
+  - first:
+      213: 3147657358348624805
+    second: Karma_Combat 55
+  - first:
+      213: -4902946967904446652
+    second: Karma_Combat 56
+  - first:
+      213: 1901410351715607815
+    second: Karma_Combat 57
+  - first:
+      213: 1444087499812378301
+    second: Karma_Combat 58
+  - first:
+      213: -8759851863579857856
+    second: Karma_Combat 59
+  - first:
+      213: -7321974028181727882
+    second: Karma_Combat 60
+  - first:
+      213: 5844841296890065302
+    second: Karma_Combat 61
+  - first:
+      213: 7900394529017609675
+    second: Karma_Combat 62
+  - first:
+      213: 5669642894217791814
+    second: Karma_Combat 63
+  - first:
+      213: -8368507596503275900
+    second: Karma_Combat 64
+  - first:
+      213: -3955499776310176804
+    second: Karma_Combat 65
+  - first:
+      213: -1021637906615881387
+    second: Karma_Combat 66
+  - first:
+      213: 143964483515301333
+    second: Karma_Combat 67
+  - first:
+      213: -6374228548014289712
+    second: Karma_Combat 68
+  - first:
+      213: -2178469296252700342
+    second: Karma_Combat 69
+  - first:
+      213: 8515015638483249477
+    second: Karma_Combat 70
+  - first:
+      213: -8493008481560159667
+    second: Karma_Combat 71
+  - first:
+      213: -1840218881348202198
+    second: Karma_Combat 72
+  - first:
+      213: -7625793813138770590
+    second: Karma_Combat 73
+  - first:
+      213: -4720921125047205516
+    second: Karma_Combat 74
+  - first:
+      213: 6478122850015115105
+    second: Karma_Combat 75
+  - first:
+      213: -4792846922494678432
+    second: Karma_Combat 76
+  - first:
+      213: -3118163457075987280
+    second: Karma_Combat 77
+  - first:
+      213: -229814145022622036
+    second: Karma_Combat 78
+  - first:
+      213: -8788006190424296782
+    second: Karma_Combat 79
+  - first:
+      213: -7555578177753992237
+    second: Karma_Combat 80
+  - first:
+      213: -3234767787733780241
+    second: Karma_Combat 81
+  - first:
+      213: 7866778923938489956
+    second: Karma_Combat 82
+  - first:
+      213: 1380745418549041884
+    second: Karma_Combat 83
+  - first:
+      213: 6907902197117466134
+    second: Karma_Combat 84
+  - first:
+      213: -4513079096163579410
+    second: Karma_Combat 85
+  - first:
+      213: -4089631211003900209
+    second: Karma_Combat 86
+  - first:
+      213: 3211949719108811645
+    second: Karma_Combat 87
+  - first:
+      213: -1027857651830139280
+    second: Karma_Combat 88
+  - first:
+      213: 7047502410657772044
+    second: Karma_Combat 89
+  - first:
+      213: -3145850079498397891
+    second: Karma_Combat 90
+  - first:
+      213: -4871501843860778976
+    second: Karma_Combat 91
+  - first:
+      213: -5638199408665207286
+    second: Karma_Combat 92
+  - first:
+      213: -6007936528043346987
+    second: Karma_Combat 93
+  - first:
+      213: -8299301051258696182
+    second: Karma_Combat 94
+  - first:
+      213: 4091473375297527718
+    second: Karma_Combat 95
+  - first:
+      213: 5871451279381337287
+    second: Karma_Combat 96
+  - first:
+      213: 5416320878820072648
+    second: Karma_Combat 97
+  - first:
+      213: 7997820605022729520
+    second: Karma_Combat 98
+  - first:
+      213: 5038459649609567083
+    second: Karma_Combat 99
+  - first:
+      213: 955067247124004903
+    second: Karma_Combat 100
+  - first:
+      213: 6265363152115592705
+    second: Karma_Combat 101
+  - first:
+      213: -7828320875718389857
+    second: Karma_Combat 102
+  - first:
+      213: -2785137846464272575
+    second: Karma_Combat 103
+  - first:
+      213: 3618632589970379412
+    second: Karma_Combat 104
+  - first:
+      213: 5259443568517473344
+    second: Karma_Combat 105
+  - first:
+      213: -2190259509306102238
+    second: Karma_Combat 106
+  - first:
+      213: -1022879641247964488
+    second: Karma_Combat 107
+  - first:
+      213: 8690204774246277205
+    second: Karma_Combat 108
+  - first:
+      213: -4482571507263984228
+    second: Karma_Combat 109
+  - first:
+      213: 1151193263067882951
+    second: Karma_Combat 110
+  - first:
+      213: -4666223003212508166
+    second: Karma_Combat 111
+  - first:
+      213: 8746276931917247832
+    second: Karma_Combat 112
+  - first:
+      213: 7672298348075963912
+    second: Karma_Combat 113
+  - first:
+      213: -2556588119901256334
+    second: Karma_Combat 114
+  - first:
+      213: 9218770786251902824
+    second: Karma_Combat 115
+  - first:
+      213: -1698763387356589027
+    second: Karma_Combat 116
+  - first:
+      213: 6299011265080183718
+    second: Karma_Combat 117
+  - first:
+      213: -3502551966542007785
+    second: Karma_Combat 118
+  - first:
+      213: -8640724070016218357
+    second: Karma_Combat 119
+  - first:
+      213: -3734411796563919502
+    second: Karma_Combat 120
+  - first:
+      213: 4595831396233811071
+    second: Karma_Combat 121
+  - first:
+      213: -7542168914371360799
+    second: Karma_Combat 122
+  - first:
+      213: -1651588957111428222
+    second: Karma_Combat 123
+  - first:
+      213: -1764123304843239780
+    second: Karma_Combat 124
+  - first:
+      213: 4708860606273082636
+    second: Karma_Combat 125
+  - first:
+      213: -6449296493407737611
+    second: Karma_Combat 126
+  - first:
+      213: 3445793605530145340
+    second: Karma_Combat 127
+  - first:
+      213: 5718545756771116769
+    second: Karma_Combat 128
+  - first:
+      213: 5455314212445848703
+    second: Karma_Combat 129
+  - first:
+      213: 4450275340423773271
+    second: Karma_Combat 130
+  - first:
+      213: 6922853515088084542
+    second: Karma_Combat 131
+  - first:
+      213: -3234419246900986063
+    second: Karma_Combat 132
+  - first:
+      213: 2499162914549439847
+    second: Karma_Combat 133
+  - first:
+      213: -3132175050005854634
+    second: Karma_Combat 134
+  - first:
+      213: -2156175693270342893
+    second: Karma_Combat 135
+  - first:
+      213: -6492876390581028315
+    second: Karma_Combat 136
+  - first:
+      213: 6494361724713903416
+    second: Karma_Combat 137
+  - first:
+      213: 1664336625727674306
+    second: Karma_Combat 138
+  - first:
+      213: 7346894741206897975
+    second: Karma_Combat 139
+  - first:
+      213: -8133451992748918255
+    second: Karma_Combat 140
+  - first:
+      213: -3369348402895000557
+    second: Karma_Combat 141
+  - first:
+      213: 7224184168327092889
+    second: Karma_Combat 142
+  - first:
+      213: 3974565845504102643
+    second: Karma_Combat 143
+  - first:
+      213: 8502723001679092241
+    second: Karma_Combat 144
+  - first:
+      213: -7391357073108672633
+    second: Karma_Combat 145
+  - first:
+      213: -568356539740800741
+    second: Karma_Combat 146
+  - first:
+      213: 3351744161662074199
+    second: Karma_Combat 147
+  - first:
+      213: -7904554508299941279
+    second: Karma_Combat 148
+  - first:
+      213: -5371380514817279513
+    second: Karma_Combat 149
+  - first:
+      213: -4290650880681192335
+    second: Karma_Combat 150
+  - first:
+      213: -616319414085830249
+    second: Karma_Combat 151
+  - first:
+      213: 7809303221032889935
+    second: Karma_Combat 152
+  - first:
+      213: 2185938972225103545
+    second: Karma_Combat 153
+  - first:
+      213: -4900648004875337570
+    second: Karma_Combat 154
+  - first:
+      213: 4367641309422199617
+    second: Karma_Combat 155
+  - first:
+      213: 6192235532813578295
+    second: Karma_Combat 156
+  - first:
+      213: 581090374575908165
+    second: Karma_Combat 157
+  - first:
+      213: 4537873730510201575
+    second: Karma_Combat 158
+  - first:
+      213: 3727144335375363846
+    second: Karma_Combat 159
+  - first:
+      213: -6560820274163986325
+    second: Karma_Combat 160
+  - first:
+      213: -8526770447038119515
+    second: Karma_Combat 161
+  - first:
+      213: 4433671447060208069
+    second: Karma_Combat 162
+  - first:
+      213: 5947619758415121633
+    second: Karma_Combat 163
+  - first:
+      213: 6810119716633936175
+    second: Karma_Combat 164
+  - first:
+      213: 3987746673816798564
+    second: Karma_Combat 165
+  - first:
+      213: -8024271761892814046
+    second: Karma_Combat 166
+  - first:
+      213: -7298435337855332230
+    second: Karma_Combat 167
+  - first:
+      213: -6078094753925364215
+    second: Karma_Combat 168
+  - first:
+      213: 6200948450959110007
+    second: Karma_Combat 169
+  - first:
+      213: 2246654515546475901
+    second: Karma_Combat 170
+  - first:
+      213: 1750563291110549436
+    second: Karma_Combat 171
+  - first:
+      213: 3334338344811873961
+    second: Karma_Combat 172
+  - first:
+      213: 4504765357449418078
+    second: Karma_Combat 173
+  - first:
+      213: -7761146124216665590
+    second: Karma_Combat 174
+  - first:
+      213: -8872109501146342756
+    second: Karma_Combat 175
+  - first:
+      213: -2946052691347995050
+    second: Karma_Combat 176
+  - first:
+      213: -7110901828517368876
+    second: Karma_Combat 177
+  - first:
+      213: 5036249568398186347
+    second: Karma_Combat 178
+  - first:
+      213: -6081214257890886971
+    second: Karma_Combat 179
+  - first:
+      213: 8061332546291744070
+    second: Karma_Combat 180
+  - first:
+      213: -330961878119091156
+    second: Karma_Combat 181
+  - first:
+      213: 1104078086958740783
+    second: Karma_Combat 182
+  - first:
+      213: 6732902261703150112
+    second: Karma_Combat 183
+  - first:
+      213: 4103798030077237216
+    second: Karma_Combat 184
+  - first:
+      213: -3218300812264674991
+    second: Karma_Combat 185
+  - first:
+      213: 4699500897290380805
+    second: Karma_Combat 186
+  - first:
+      213: -8033947085629762894
+    second: Karma_Combat 187
+  - first:
+      213: -8136775419019533406
+    second: Karma_Combat 188
+  - first:
+      213: 1983653589164768307
+    second: Karma_Combat 189
+  - first:
+      213: -5009499563581035474
+    second: Karma_Combat 190
+  - first:
+      213: 5695611524903419967
+    second: Karma_Combat 191
+  - first:
+      213: -6994263690602784635
+    second: Karma_Combat 192
+  - first:
+      213: -7282305457837376980
+    second: Karma_Combat 193
+  - first:
+      213: -1058249917474397303
+    second: Karma_Combat 194
+  - first:
+      213: -576474631105518031
+    second: Karma_Combat 195
+  - first:
+      213: -3083466511096650288
+    second: Karma_Combat 196
+  - first:
+      213: 6249153432316924756
+    second: Karma_Combat 197
+  - first:
+      213: 5068375829862333439
+    second: Karma_Combat 198
+  - first:
+      213: -7334851436610857915
+    second: Karma_Combat 199
+  - first:
+      213: 7589377883267996662
+    second: Karma_Combat 200
+  - first:
+      213: 7984065149555944773
+    second: Karma_Combat 201
+  - first:
+      213: 4570187587766417593
+    second: Karma_Combat 202
+  - first:
+      213: -6895225225253444403
+    second: Karma_Combat 203
+  - first:
+      213: -5717093980270349766
+    second: Karma_Combat 204
+  - first:
+      213: 2730371503240781121
+    second: Karma_Combat 205
+  - first:
+      213: 6920437073438899661
+    second: Karma_Combat 206
+  - first:
+      213: 6404198349943689875
+    second: Karma_Combat 207
+  - first:
+      213: 5179205135558853727
+    second: Karma_Combat 208
+  - first:
+      213: 4031228070317585718
+    second: Karma_Combat 209
+  - first:
+      213: 2967954736182414124
+    second: Karma_Combat 210
+  - first:
+      213: -3444985593771132892
+    second: Karma_Combat 211
+  - first:
+      213: -5910579413610229260
+    second: Karma_Combat 212
+  - first:
+      213: -7443017914728813324
+    second: Karma_Combat 213
+  - first:
+      213: 744411561404116166
+    second: Karma_Combat 214
+  - first:
+      213: -304113287735753696
+    second: Karma_Combat 215
+  - first:
+      213: -5734187549268516037
+    second: Karma_Combat 216
+  - first:
+      213: 6660248265608179771
+    second: Karma_Combat 217
+  - first:
+      213: 6348586022018049893
+    second: Karma_Combat 218
+  - first:
+      213: 3362387158740953849
+    second: Karma_Combat 219
+  - first:
+      213: -4310389553362015174
+    second: Karma_Combat 220
+  - first:
+      213: 243150058248651473
+    second: Karma_Combat 221
+  - first:
+      213: 4182719922172335367
+    second: Karma_Combat 222
+  - first:
+      213: 8640722238130741511
+    second: Karma_Combat 223
+  - first:
+      213: -3010360176589597925
+    second: Karma_Combat 224
+  - first:
+      213: -4336343811253847605
+    second: Karma_Combat 225
+  - first:
+      213: -8717586009650159791
+    second: Karma_Combat 226
+  - first:
+      213: -7832037721351002163
+    second: Karma_Combat 227
+  - first:
+      213: 7013360507877645406
+    second: Karma_Combat 228
+  - first:
+      213: 2013700064129494791
+    second: Karma_Combat 229
+  - first:
+      213: -5977937892744254154
+    second: Karma_Combat 230
+  - first:
+      213: -3200176785597217509
+    second: Karma_Combat 231
+  - first:
+      213: -6696112335178673106
+    second: Karma_Combat 232
+  - first:
+      213: 1801485444262783871
+    second: Karma_Combat 233
+  - first:
+      213: 8440902573247332719
+    second: Karma_Combat 234
+  - first:
+      213: -2351705103976919973
+    second: Karma_Combat 235
+  - first:
+      213: -8735315270917172513
+    second: Karma_Combat 236
+  - first:
+      213: -8081622647147922536
+    second: Karma_Combat 237
+  - first:
+      213: -7285584985127156126
+    second: Karma_Combat 238
+  - first:
+      213: 2149639797326859570
+    second: Karma_Combat 239
+  - first:
+      213: 1089347516732085009
+    second: Karma_Combat 240
+  - first:
+      213: -6992753414950178302
+    second: Karma_Combat 241
+  - first:
+      213: -4734549897334413255
+    second: Karma_Combat 242
+  - first:
+      213: -4016198273222789654
+    second: Karma_Combat 243
+  - first:
+      213: -1425347948388819553
+    second: Karma_Combat 244
+  - first:
+      213: 4109740687034923959
+    second: Karma_Combat 245
+  - first:
+      213: 5854119028541975365
+    second: Karma_Combat 246
+  - first:
+      213: 470305134878658875
+    second: Karma_Combat 247
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1755
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1890
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1890
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Karma_Combat 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c99908ade0768270800000000000000
+      internalID: 8252407533231774146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a5a26a9016df670800000000000000
+      internalID: 8574115959653685786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3279f9c3610247eb0800000000000000
+      internalID: -4723114829326346461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f664c99a8a4556940800000000000000
+      internalID: 5288726420793345647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b58b73330556cc0800000000000000
+      internalID: -3718477736416093315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bdfca511cd691d0800000000000000
+      internalID: -3344243706179888230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 6
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9e5e43262aca9a0800000000000000
+      internalID: -6220418442627520082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 7
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c70a7d5529227ef0800000000000000
+      internalID: -111981800272033848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ac4981728db64b0800000000000000
+      internalID: -5446021661946754560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 9
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2909712c229a1e0800000000000000
+      internalID: -2186177927097314563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928392f8a7bed2510800000000000000
+      internalID: 1526134760368846889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 11
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbc4965c6680d800800000000000000
+      internalID: 635155347326421942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 12
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce0a6e178260d470800000000000000
+      internalID: 8417336036025831111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 13
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b75ef559694e6c0800000000000000
+      internalID: -4114998591206622350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 14
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3dc3834c1817c70800000000000000
+      internalID: 8967091012828451766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1485
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7aca7024b57b480800000000000000
+      internalID: -8883531400810289222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1485
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff90e2a68763fa300800000000000000
+      internalID: 265490793843526143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1485
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bc7a51b0a9c9030800000000000000
+      internalID: 3502843982586039194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1485
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719c4bddd2d961500800000000000000
+      internalID: 366653239995975959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 19
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1485
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74df64f9331df87d0800000000000000
+      internalID: -2913880414239654585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1485
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb1ac4713fb9dcb0800000000000000
+      internalID: -4838626105499182135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 21
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1485
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3edd7134656737d0800000000000000
+      internalID: -2938768750834491846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 22
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1485
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df73c296674bc78a0800000000000000
+      internalID: -6305966957561890819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1485
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc279fd22280c8930800000000000000
+      internalID: 4146698299794617037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 24
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1485
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3467386c75078a0800000000000000
+      internalID: -6309446567825357853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 25
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1485
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0054b77539999b3f0800000000000000
+      internalID: -884506993694653184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 26
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1485
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cece943f5a189bce0800000000000000
+      internalID: -1388936460315792148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 27
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1485
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862cc785a3e0c9420800000000000000
+      internalID: 2637999125487731304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e95c04b40c55250800000000000000
+      internalID: 5932859513572269592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 29
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1350
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a37fb7f261ac910800000000000000
+      internalID: 1858322189442824785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 30
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1350
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8198960dfc6b3b20800000000000000
+      internalID: 3115203401250017674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1350
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62eb2e9f1b649aa0800000000000000
+      internalID: -6155177007166791061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 32
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1350
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86e54163998b63f0800000000000000
+      internalID: -906479633899854198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 33
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1350
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15873c00d6868450800000000000000
+      internalID: 6090703774181459228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 34
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1350
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33095a16268f0e860800000000000000
+      internalID: 7557313276156416051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 35
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1350
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b860ee9d2855088a0800000000000000
+      internalID: -6304945457828329845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 36
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1350
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e17c6505fdf31e10800000000000000
+      internalID: 2167355074495148513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 37
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1350
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa646aa07c6858e0800000000000000
+      internalID: -1704493227808888158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 38
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1350
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0504db4d913eea0800000000000000
+      internalID: -5844799489897901829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 39
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1350
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3ff910361a6a920800000000000000
+      internalID: 3001263648290108410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 40
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1350
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7b975278894ec50800000000000000
+      internalID: 6693642652396140495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 41
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1350
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5227140bf9ae5920800000000000000
+      internalID: 2981006898936357466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1215
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8941262f881ae6d70800000000000000
+      internalID: 9038339111733302424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 43
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1215
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17283d1040a375ad0800000000000000
+      internalID: -2713636461582515599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 44
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1215
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41727c113197ad770800000000000000
+      internalID: 8636348358245951252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 45
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1350
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fa4ee55de0c23f0800000000000000
+      internalID: -924347513934926062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c8e22b4bc21ac30800000000000000
+      internalID: 4368822268121222229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 47
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1215
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb55d4be8345373b0800000000000000
+      internalID: -5515972515156109892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 48
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1215
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7608df3ceb28e1c0800000000000000
+      internalID: -4474277936109189510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 49
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1215
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef767d0b3394f790800000000000000
+      internalID: -7497205597826809883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 50
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1215
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65292f867e5a0850800000000000000
+      internalID: 6343986888405755242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 51
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1215
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913bc2d3e4f5f0960800000000000000
+      internalID: 7570374288271520537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 52
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1215
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4d96655333fbda0800000000000000
+      internalID: -5926962280420223797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 53
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1215
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea4f1704368a0220800000000000000
+      internalID: 2452920505072569062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 54
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1215
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819a1a64acd78f6e0800000000000000
+      internalID: -1803553343040018152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3a30fb0b9beab20800000000000000
+      internalID: 3147657358348624805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 56
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1215
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4471a79a5bb35fbb0800000000000000
+      internalID: -4902946967904446652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 57
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1215
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705624a04aa236a10800000000000000
+      internalID: 1901410351715607815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db616e21eed6a0410800000000000000
+      internalID: 1444087499812378301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 59
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1080
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c674a4421ce6680800000000000000
+      internalID: -8759851863579857856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 60
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1350
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67597933a6f136a90800000000000000
+      internalID: -7321974028181727882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 61
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1080
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6917aa5313c0d1150800000000000000
+      internalID: 5844841296890065302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 62
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1080
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdb88f47f6d3ad60800000000000000
+      internalID: 7900394529017609675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 63
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1080
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6494b295c2e9eae40800000000000000
+      internalID: 5669642894217791814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 64
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486a342eda61ddb80800000000000000
+      internalID: -8368507596503275900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 65
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1080
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd315eb19ed3b19c0800000000000000
+      internalID: -3955499776310176804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 66
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1080
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551361f9cb962d1f0800000000000000
+      internalID: -1021637906615881387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 67
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1080
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddb33c5fe67ff100800000000000000
+      internalID: 143964483515301333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 68
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1080
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc447e58e03a87a0800000000000000
+      internalID: -6374228548014289712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 69
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1080
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4933c297b584c1e0800000000000000
+      internalID: -2178469296252700342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 70
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1080
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549a0b4db996b2670800000000000000
+      internalID: 8515015638483249477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 71
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1080
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a1a3ea8c5c22a80800000000000000
+      internalID: -8493008481560159667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 72
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1080
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2116446daa3676e0800000000000000
+      internalID: -1840218881348202198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265fd7d1eecbb2690800000000000000
+      internalID: -7625793813138770590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 74
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 945
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4718ce0df3beb7eb0800000000000000
+      internalID: -4720921125047205516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 75
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 945
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167fd76d86ae6e950800000000000000
+      internalID: 6478122850015115105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 76
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 945
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a61e91e136c7db0800000000000000
+      internalID: -4792846922494678432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 77
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 945
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcb1654bde0ab4d0800000000000000
+      internalID: -3118163457075987280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 78
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 945
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca60191b0498fccf0800000000000000
+      internalID: -229814145022622036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b273df3eeaba0680800000000000000
+      internalID: -8788006190424296782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 80
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3b742bda1352790800000000000000
+      internalID: -7555578177753992237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 81
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 945
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe87049e5dbcb13d0800000000000000
+      internalID: -3234767787733780241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 82
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 945
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46622e750c96c2d60800000000000000
+      internalID: 7866778923938489956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 83
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 945
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda1dd584a4692310800000000000000
+      internalID: 1380745418549041884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 84
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 945
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616b35ad27ccddf50800000000000000
+      internalID: 6907902197117466134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 85
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 945
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9cded29725e51c0800000000000000
+      internalID: -4513079096163579410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 86
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 945
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce03c5d416be37c0800000000000000
+      internalID: -4089631211003900209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 87
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 945
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b75eb7043239c20800000000000000
+      internalID: 3211949719108811645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0765ff659e05cb1f0800000000000000
+      internalID: -1027857651830139280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 89
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 810
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0237fc6a12cdc160800000000000000
+      internalID: 7047502410657772044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 90
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 810
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d371dd62502b754d0800000000000000
+      internalID: -3145850079498397891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 91
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 810
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020940222e2f46cb0800000000000000
+      internalID: -4871501843860778976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 92
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 810
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e51b1a28711c1b0800000000000000
+      internalID: -5638199408665207286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 93
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 810
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3f1e42f858f9ca0800000000000000
+      internalID: -6007936528043346987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 94
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 810
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e03bb5aa5f2dc80800000000000000
+      internalID: -8299301051258696182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afd3967b55d7c830800000000000000
+      internalID: 4091473375297527718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 96
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 810
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4998f84d59b7150800000000000000
+      internalID: 5871451279381337287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 97
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 810
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc1a937423aa2b40800000000000000
+      internalID: 5416320878820072648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 98
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 810
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035fdab4777fdfe60800000000000000
+      internalID: 7997820605022729520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 99
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 810
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b0e1e3b543ce540800000000000000
+      internalID: 5038459649609567083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 100
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 810
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720cf61e994114d00800000000000000
+      internalID: 955067247124004903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 101
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 810
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10eebae679a03f650800000000000000
+      internalID: 6265363152115592705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fc707c3a73c5390800000000000000
+      internalID: -7828320875718389857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 103
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 675
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147200b82e33959d0800000000000000
+      internalID: -2785137846464272575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 104
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 675
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49216d11b27f73230800000000000000
+      internalID: 3618632589970379412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 105
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 675
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04462b15f0c4df840800000000000000
+      internalID: 5259443568517473344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 106
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e63eda492aa91e0800000000000000
+      internalID: -2190259509306102238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 107
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 675
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2af6fb2600ec1f0800000000000000
+      internalID: -1022879641247964488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 108
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 675
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5506a52133fc99870800000000000000
+      internalID: 8690204774246277205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 109
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 675
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d2e3db6f4bac1c0800000000000000
+      internalID: -4482571507263984228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 110
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 675
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5ebf86c2cd9ff00800000000000000
+      internalID: 1151193263067882951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 111
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 675
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af313cab6ee3e3fb0800000000000000
+      internalID: -4666223003212508166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 112
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 675
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855fe12a784016970800000000000000
+      internalID: 8746276931917247832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 113
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 675
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80652efa2ba797a60800000000000000
+      internalID: 7672298348075963912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 114
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 675
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2754d4c76ac258cd0800000000000000
+      internalID: -2556588119901256334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 115
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 675
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f0b4cdf27afef70800000000000000
+      internalID: 9218770786251902824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 116
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 675
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14db2b13b7cc68e0800000000000000
+      internalID: -1698763387356589027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abc94b3f559a6750800000000000000
+      internalID: 6299011265080183718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 118
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 540
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712fae23b8f646fc0800000000000000
+      internalID: -3502551966542007785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 119
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 540
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b04842d3bf51880800000000000000
+      internalID: -8640724070016218357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 120
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 540
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d77ccb144bc2cc0800000000000000
+      internalID: -3734411796563919502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 121
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 540
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f749a1c1e4ca7cf30800000000000000
+      internalID: 4595831396233811071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 122
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 540
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7c6ee1555d45790800000000000000
+      internalID: -7542168914371360799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 123
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 540
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b5a6018906419e0800000000000000
+      internalID: -1651588957111428222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 124
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 540
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e94d273339487e0800000000000000
+      internalID: -1764123304843239780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 125
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 540
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05dcb5d5cb395140800000000000000
+      internalID: 4708860606273082636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 126
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 540
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f86243520f7f76a0800000000000000
+      internalID: -6449296493407737611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 127
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 540
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32dfe2170be1df20800000000000000
+      internalID: 3445793605530145340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 128
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 540
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6e820511b5c5f40800000000000000
+      internalID: 5718545756771116769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 129
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 540
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7489fa6f5b25bb40800000000000000
+      internalID: 5455314212445848703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 130
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 540
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cb3a2f7dd82cd30800000000000000
+      internalID: 4450275340423773271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 131
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 540
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3eb3e6d79ae21060800000000000000
+      internalID: 6922853515088084542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fb7c5e4d80d13d0800000000000000
+      internalID: -3234419246900986063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 133
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 405
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d9c8dfd6fcea220800000000000000
+      internalID: 2499162914549439847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 134
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 405
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6564f0213674884d0800000000000000
+      internalID: -3132175050005854634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 135
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 405
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3132a4181a9b312e0800000000000000
+      internalID: -2156175693270342893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 136
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 405
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ab5e0d25ba4e5a0800000000000000
+      internalID: -6492876390581028315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 137
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 405
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835277c749b902a50800000000000000
+      internalID: 6494361724713903416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 138
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 405
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c79b23d759e81710800000000000000
+      internalID: 1664336625727674306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 139
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 405
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73592d377d965f560800000000000000
+      internalID: 7346894741206897975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 140
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 405
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11af186618c202f80800000000000000
+      internalID: -8133451992748918255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 141
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 405
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ce9e8aa7bad31d0800000000000000
+      internalID: -3369348402895000557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 142
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 405
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a1329c935714460800000000000000
+      internalID: 7224184168327092889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 143
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 405
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f01cad049e782730800000000000000
+      internalID: 3974565845504102643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 144
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 405
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a10aa458dbff570800000000000000
+      internalID: 8502723001679092241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f594137ef9c6990800000000000000
+      internalID: -7391357073108672633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 146
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 270
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19baf60dbacc18f0800000000000000
+      internalID: -568356539740800741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 147
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 270
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d7bd58e89c38e20800000000000000
+      internalID: 3351744161662074199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 148
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 270
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ac1190e816d4290800000000000000
+      internalID: -7904554508299941279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 149
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 270
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e97cdc61e50575b0800000000000000
+      internalID: -5371380514817279513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 150
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 270
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174d7c1c1cb8474c0800000000000000
+      internalID: -4290650880681192335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 151
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 270
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799bc3f12c46277f0800000000000000
+      internalID: -616319414085830249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 152
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 270
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eaaf077e7306c60800000000000000
+      internalID: 7809303221032889935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6e824e9e3065e10800000000000000
+      internalID: 2185938972225103545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 154
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 270
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90cd24ba966dfbb0800000000000000
+      internalID: -4900648004875337570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 155
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 270
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143ae6251aafc9c30800000000000000
+      internalID: 4367641309422199617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 156
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 270
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730b7e2c86d3fe550800000000000000
+      internalID: 6192235532813578295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 157
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 270
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545eefeed92701800800000000000000
+      internalID: 581090374575908165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e223ae7d14c9fe30800000000000000
+      internalID: 4537873730510201575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 159
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f68a8960a79b330800000000000000
+      internalID: 3727144335375363846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 160
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 270
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60564ba8b843f4a0800000000000000
+      internalID: -6560820274163986325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 161
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 270
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a18ef68473daa980800000000000000
+      internalID: -8526770447038119515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9d0d4c0b0978d30800000000000000
+      internalID: 4433671447060208069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 163
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 135
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec8d6f88a03a8250800000000000000
+      internalID: 5947619758415121633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 164
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 135
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2189dbfcc7628e50800000000000000
+      internalID: 6810119716633936175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 165
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 135
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465881bc872575730800000000000000
+      internalID: 3987746673816798564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 166
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 135
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2235e23d85f04a090800000000000000
+      internalID: -8024271761892814046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 167
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 135
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7099fe9abfb6ba90800000000000000
+      internalID: -7298435337855332230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 168
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 135
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9060d11460546aba0800000000000000
+      internalID: -6078094753925364215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 169
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 135
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f2de913c13e0650800000000000000
+      internalID: 6200948450959110007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 170
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 135
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dcc2ce068bd2f10800000000000000
+      internalID: 2246654515546475901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 171
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 135
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7ab73d9004b4810800000000000000
+      internalID: 1750563291110549436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 172
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 135
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6c97bfe03f54e20800000000000000
+      internalID: 3334338344811873961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 173
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 135
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55124fa934248e30800000000000000
+      internalID: 4504765357449418078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a7a2868beda4490800000000000000
+      internalID: -7761146124216665590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 175
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 135
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9addc74a6fefd480800000000000000
+      internalID: -8872109501146342756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6568e92afa48d17d0800000000000000
+      internalID: -2946052691347995050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 177
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbeb8e4670015d90800000000000000
+      internalID: -7110901828517368876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 178
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67969c9c4a54e540800000000000000
+      internalID: 5036249568398186347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 179
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca7f532adf2b9ba0800000000000000
+      internalID: -6081214257890886971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 180
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64db3067d3b9fdf60800000000000000
+      internalID: 8061332546291744070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 181
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24f384ecef286bf0800000000000000
+      internalID: -330961878119091156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 182
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25f771ab29725f00800000000000000
+      internalID: 1104078086958740783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 183
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a8d304fe2107d50800000000000000
+      internalID: 6732902261703150112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e793b4c09e93f830800000000000000
+      internalID: 4103798030077237216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 185
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159ec98667c4653d0800000000000000
+      internalID: -3218300812264674991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 186
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5066f94ca2bf73140800000000000000
+      internalID: 4699500897290380805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2d0c8f0bfa18090800000000000000
+      internalID: -8033947085629762894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Combat 188
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1620
+        width: 92
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3e53ceddd541f80800000000000000
+      internalID: -8136775419019533406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Karma_Combat 0: 8252407533231774146
+      Karma_Combat 1: 8574115959653685786
+      Karma_Combat 10: 1526134760368846889
+      Karma_Combat 100: 955067247124004903
+      Karma_Combat 101: 6265363152115592705
+      Karma_Combat 102: -7828320875718389857
+      Karma_Combat 103: -2785137846464272575
+      Karma_Combat 104: 3618632589970379412
+      Karma_Combat 105: 5259443568517473344
+      Karma_Combat 106: -2190259509306102238
+      Karma_Combat 107: -1022879641247964488
+      Karma_Combat 108: 8690204774246277205
+      Karma_Combat 109: -4482571507263984228
+      Karma_Combat 11: 635155347326421942
+      Karma_Combat 110: 1151193263067882951
+      Karma_Combat 111: -4666223003212508166
+      Karma_Combat 112: 8746276931917247832
+      Karma_Combat 113: 7672298348075963912
+      Karma_Combat 114: -2556588119901256334
+      Karma_Combat 115: 9218770786251902824
+      Karma_Combat 116: -1698763387356589027
+      Karma_Combat 117: 6299011265080183718
+      Karma_Combat 118: -3502551966542007785
+      Karma_Combat 119: -8640724070016218357
+      Karma_Combat 12: 8417336036025831111
+      Karma_Combat 120: -3734411796563919502
+      Karma_Combat 121: 4595831396233811071
+      Karma_Combat 122: -7542168914371360799
+      Karma_Combat 123: -1651588957111428222
+      Karma_Combat 124: -1764123304843239780
+      Karma_Combat 125: 4708860606273082636
+      Karma_Combat 126: -6449296493407737611
+      Karma_Combat 127: 3445793605530145340
+      Karma_Combat 128: 5718545756771116769
+      Karma_Combat 129: 5455314212445848703
+      Karma_Combat 13: -4114998591206622350
+      Karma_Combat 130: 4450275340423773271
+      Karma_Combat 131: 6922853515088084542
+      Karma_Combat 132: -3234419246900986063
+      Karma_Combat 133: 2499162914549439847
+      Karma_Combat 134: -3132175050005854634
+      Karma_Combat 135: -2156175693270342893
+      Karma_Combat 136: -6492876390581028315
+      Karma_Combat 137: 6494361724713903416
+      Karma_Combat 138: 1664336625727674306
+      Karma_Combat 139: 7346894741206897975
+      Karma_Combat 14: 8967091012828451766
+      Karma_Combat 140: -8133451992748918255
+      Karma_Combat 141: -3369348402895000557
+      Karma_Combat 142: 7224184168327092889
+      Karma_Combat 143: 3974565845504102643
+      Karma_Combat 144: 8502723001679092241
+      Karma_Combat 145: -7391357073108672633
+      Karma_Combat 146: -568356539740800741
+      Karma_Combat 147: 3351744161662074199
+      Karma_Combat 148: -7904554508299941279
+      Karma_Combat 149: -5371380514817279513
+      Karma_Combat 15: -8883531400810289222
+      Karma_Combat 150: -4290650880681192335
+      Karma_Combat 151: -616319414085830249
+      Karma_Combat 152: 7809303221032889935
+      Karma_Combat 153: 2185938972225103545
+      Karma_Combat 154: -4900648004875337570
+      Karma_Combat 155: 4367641309422199617
+      Karma_Combat 156: 6192235532813578295
+      Karma_Combat 157: 581090374575908165
+      Karma_Combat 158: 4537873730510201575
+      Karma_Combat 159: 3727144335375363846
+      Karma_Combat 16: 265490793843526143
+      Karma_Combat 160: -6560820274163986325
+      Karma_Combat 161: -8526770447038119515
+      Karma_Combat 162: 4433671447060208069
+      Karma_Combat 163: 5947619758415121633
+      Karma_Combat 164: 6810119716633936175
+      Karma_Combat 165: 3987746673816798564
+      Karma_Combat 166: -8024271761892814046
+      Karma_Combat 167: -7298435337855332230
+      Karma_Combat 168: -6078094753925364215
+      Karma_Combat 169: 6200948450959110007
+      Karma_Combat 17: 3502843982586039194
+      Karma_Combat 170: 2246654515546475901
+      Karma_Combat 171: 1750563291110549436
+      Karma_Combat 172: 3334338344811873961
+      Karma_Combat 173: 4504765357449418078
+      Karma_Combat 174: -7761146124216665590
+      Karma_Combat 175: -8872109501146342756
+      Karma_Combat 176: -2946052691347995050
+      Karma_Combat 177: -7110901828517368876
+      Karma_Combat 178: 5036249568398186347
+      Karma_Combat 179: -6081214257890886971
+      Karma_Combat 18: 366653239995975959
+      Karma_Combat 180: 8061332546291744070
+      Karma_Combat 181: -330961878119091156
+      Karma_Combat 182: 1104078086958740783
+      Karma_Combat 183: 6732902261703150112
+      Karma_Combat 184: 4103798030077237216
+      Karma_Combat 185: -3218300812264674991
+      Karma_Combat 186: 4699500897290380805
+      Karma_Combat 187: -8033947085629762894
+      Karma_Combat 188: -8136775419019533406
+      Karma_Combat 19: -2913880414239654585
+      Karma_Combat 2: -4723114829326346461
+      Karma_Combat 20: -4838626105499182135
+      Karma_Combat 21: -2938768750834491846
+      Karma_Combat 22: -6305966957561890819
+      Karma_Combat 23: 4146698299794617037
+      Karma_Combat 24: -6309446567825357853
+      Karma_Combat 25: -884506993694653184
+      Karma_Combat 26: -1388936460315792148
+      Karma_Combat 27: 2637999125487731304
+      Karma_Combat 28: 5932859513572269592
+      Karma_Combat 29: 1858322189442824785
+      Karma_Combat 3: 5288726420793345647
+      Karma_Combat 30: 3115203401250017674
+      Karma_Combat 31: -6155177007166791061
+      Karma_Combat 32: -906479633899854198
+      Karma_Combat 33: 6090703774181459228
+      Karma_Combat 34: 7557313276156416051
+      Karma_Combat 35: -6304945457828329845
+      Karma_Combat 36: 2167355074495148513
+      Karma_Combat 37: -1704493227808888158
+      Karma_Combat 38: -5844799489897901829
+      Karma_Combat 39: 3001263648290108410
+      Karma_Combat 4: -3718477736416093315
+      Karma_Combat 40: 6693642652396140495
+      Karma_Combat 41: 2981006898936357466
+      Karma_Combat 42: 9038339111733302424
+      Karma_Combat 43: -2713636461582515599
+      Karma_Combat 44: 8636348358245951252
+      Karma_Combat 45: -924347513934926062
+      Karma_Combat 46: 4368822268121222229
+      Karma_Combat 47: -5515972515156109892
+      Karma_Combat 48: -4474277936109189510
+      Karma_Combat 49: -7497205597826809883
+      Karma_Combat 5: -3344243706179888230
+      Karma_Combat 50: 6343986888405755242
+      Karma_Combat 51: 7570374288271520537
+      Karma_Combat 52: -5926962280420223797
+      Karma_Combat 53: 2452920505072569062
+      Karma_Combat 54: -1803553343040018152
+      Karma_Combat 55: 3147657358348624805
+      Karma_Combat 56: -4902946967904446652
+      Karma_Combat 57: 1901410351715607815
+      Karma_Combat 58: 1444087499812378301
+      Karma_Combat 59: -8759851863579857856
+      Karma_Combat 6: -6220418442627520082
+      Karma_Combat 60: -7321974028181727882
+      Karma_Combat 61: 5844841296890065302
+      Karma_Combat 62: 7900394529017609675
+      Karma_Combat 63: 5669642894217791814
+      Karma_Combat 64: -8368507596503275900
+      Karma_Combat 65: -3955499776310176804
+      Karma_Combat 66: -1021637906615881387
+      Karma_Combat 67: 143964483515301333
+      Karma_Combat 68: -6374228548014289712
+      Karma_Combat 69: -2178469296252700342
+      Karma_Combat 7: -111981800272033848
+      Karma_Combat 70: 8515015638483249477
+      Karma_Combat 71: -8493008481560159667
+      Karma_Combat 72: -1840218881348202198
+      Karma_Combat 73: -7625793813138770590
+      Karma_Combat 74: -4720921125047205516
+      Karma_Combat 75: 6478122850015115105
+      Karma_Combat 76: -4792846922494678432
+      Karma_Combat 77: -3118163457075987280
+      Karma_Combat 78: -229814145022622036
+      Karma_Combat 79: -8788006190424296782
+      Karma_Combat 8: -5446021661946754560
+      Karma_Combat 80: -7555578177753992237
+      Karma_Combat 81: -3234767787733780241
+      Karma_Combat 82: 7866778923938489956
+      Karma_Combat 83: 1380745418549041884
+      Karma_Combat 84: 6907902197117466134
+      Karma_Combat 85: -4513079096163579410
+      Karma_Combat 86: -4089631211003900209
+      Karma_Combat 87: 3211949719108811645
+      Karma_Combat 88: -1027857651830139280
+      Karma_Combat 89: 7047502410657772044
+      Karma_Combat 9: -2186177927097314563
+      Karma_Combat 90: -3145850079498397891
+      Karma_Combat 91: -4871501843860778976
+      Karma_Combat 92: -5638199408665207286
+      Karma_Combat 93: -6007936528043346987
+      Karma_Combat 94: -8299301051258696182
+      Karma_Combat 95: 4091473375297527718
+      Karma_Combat 96: 5871451279381337287
+      Karma_Combat 97: 5416320878820072648
+      Karma_Combat 98: 7997820605022729520
+      Karma_Combat 99: 5038459649609567083
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

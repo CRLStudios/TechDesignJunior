@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 2fbd1d04eb6cc9b4987d8e5cd7045556
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 285
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KarmaHeadache 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6596045c10a2ef043b3997dce98d2a43
+      internalID: 19608574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 228
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e78f66309f5fe44a6d3e7878c6896c
+      internalID: 1436485818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 228
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907d80b3bbdea774f8798dc64172e721
+      internalID: -1949866319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 228
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5f6a03377dbdf4580ebd92136bee59
+      internalID: -1973446615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 228
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4127f60acb7677045a0ae20b8dcbfd30
+      internalID: 1666376577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 228
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651f933ac2ce5df4681c2bb2fb9b2bcc
+      internalID: 1843276131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 228
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a5723d921b8e447a5ed3b414c2b668
+      internalID: -964164080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c638bfc405e844a458e4d4932bfb6947
+      internalID: 212393815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 171
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cd675fa7c5ecc4cb92a22970cd4740
+      internalID: -105713802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 171
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fe6e8c363100941ba475bf5e1ad743
+      internalID: -1139027141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 171
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5442ab8b6c04b454986e115d3d487137
+      internalID: 812837945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 171
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39628bacb1476ea44941381160f59927
+      internalID: -1496290226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 12
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 171
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bc588335c0cc3489e3cdec2c462ab5
+      internalID: -1175993659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e438e8c93e5550c45a880e75b937809e
+      internalID: 102515007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 114
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353f64bcb24e0ba42aecb6d22754675a
+      internalID: 2098807684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 114
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03baf8d0f392f4444bbc11252275b61c
+      internalID: -1257998999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 114
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657a552c70ef03f45bcae4188c45207e
+      internalID: -1437145032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 114
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2ceb66bf96abe4ba5aa9fba3fc68d0
+      internalID: 904438454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 114
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4799c058312774b9cd78fa21c9b9af
+      internalID: 297409256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c3a7d8e64c7004dab2e50ec054eed4
+      internalID: -1203247004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 57
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d87cb7e7de8264bbb8e8d4761a5de7
+      internalID: -1718394223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 114
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ae25a69c3f1a7489412d8374d98b0d
+      internalID: 1384438529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 57
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2044a7565a467146a5cbde0994f9d86
+      internalID: 1831213758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 57
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c72bb667ff47d7438933fcf071e74f6
+      internalID: -1159810867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 24
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 57
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1c2247e35603a4585266471f85e73a
+      internalID: 554551794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 57
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c233c890324398144b156d1a8cf5dd50
+      internalID: -1628880077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0355a3d4508df824388d5d8171ade14f
+      internalID: 1159770461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bf4c1197022de499c14901a08a2864
+      internalID: 1430001422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarmaHeadache 28
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dfa2cfe7216194688b2f7bffcc67b7
+      internalID: -187981681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KarmaHeadache 0: 19608574
+      KarmaHeadache 1: 1436485818
+      KarmaHeadache 10: 812837945
+      KarmaHeadache 11: -1496290226
+      KarmaHeadache 12: -1175993659
+      KarmaHeadache 13: 102515007
+      KarmaHeadache 14: 2098807684
+      KarmaHeadache 15: -1257998999
+      KarmaHeadache 16: -1437145032
+      KarmaHeadache 17: 904438454
+      KarmaHeadache 18: 297409256
+      KarmaHeadache 19: -1203247004
+      KarmaHeadache 2: -1949866319
+      KarmaHeadache 20: -1718394223
+      KarmaHeadache 21: 1384438529
+      KarmaHeadache 22: 1831213758
+      KarmaHeadache 23: -1159810867
+      KarmaHeadache 24: 554551794
+      KarmaHeadache 25: -1628880077
+      KarmaHeadache 26: 1159770461
+      KarmaHeadache 27: 1430001422
+      KarmaHeadache 28: -187981681
+      KarmaHeadache 3: -1973446615
+      KarmaHeadache 4: 1666376577
+      KarmaHeadache 5: 1843276131
+      KarmaHeadache 6: -964164080
+      KarmaHeadache 7: 212393815
+      KarmaHeadache 8: -105713802
+      KarmaHeadache 9: -1139027141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

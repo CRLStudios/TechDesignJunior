@@ -1,0 +1,1026 @@
+fileFormatVersion: 2
+guid: 3cc7c3bc41d0dc648b23c796910c1c80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5189298253798994298
+    second: Karma_Climb 0
+  - first:
+      213: -7373206076134120641
+    second: Karma_Climb 1
+  - first:
+      213: 5793038646587397741
+    second: Karma_Climb 2
+  - first:
+      213: 7845826431840588825
+    second: Karma_Climb 3
+  - first:
+      213: -2112030696510699774
+    second: Karma_Climb 4
+  - first:
+      213: -29171734235480204
+    second: Karma_Climb 5
+  - first:
+      213: -834596698966442742
+    second: Karma_Climb 6
+  - first:
+      213: 4876379892852085287
+    second: Karma_Climb 7
+  - first:
+      213: 3385475348982833318
+    second: Karma_Climb 8
+  - first:
+      213: 8534644790052824490
+    second: Karma_Climb 9
+  - first:
+      213: -669087143955798796
+    second: Karma_Climb 10
+  - first:
+      213: 348601713266302265
+    second: Karma_Climb 11
+  - first:
+      213: -3925151752248239599
+    second: Karma_Climb 12
+  - first:
+      213: -4512420973373178166
+    second: Karma_Climb 13
+  - first:
+      213: 4073144257779227840
+    second: Karma_Climb 14
+  - first:
+      213: -1618767652143656318
+    second: Karma_Climb 15
+  - first:
+      213: 763835173680368125
+    second: Karma_Climb 16
+  - first:
+      213: 6427037619622602879
+    second: Karma_Climb 17
+  - first:
+      213: 1924382182797350708
+    second: Karma_Climb 18
+  - first:
+      213: 5045772099947051695
+    second: Karma_Climb 19
+  - first:
+      213: 8732244769056690834
+    second: Karma_Climb 20
+  - first:
+      213: 3482054047953349746
+    second: Karma_Climb 21
+  - first:
+      213: 8902867614239847436
+    second: Karma_Climb 22
+  - first:
+      213: 8231421724252031190
+    second: Karma_Climb 23
+  - first:
+      213: -5655162759264969021
+    second: Karma_Climb 24
+  - first:
+      213: -2474912266226029297
+    second: Karma_Climb 25
+  - first:
+      213: -589526954723583721
+    second: Karma_Climb 26
+  - first:
+      213: 1947975315320666689
+    second: Karma_Climb 27
+  - first:
+      213: -5239614792666754819
+    second: Karma_Climb 28
+  - first:
+      213: -481293653184938171
+    second: Karma_Climb 29
+  - first:
+      213: 774975564175110690
+    second: Karma_Climb 30
+  - first:
+      213: -1785181587643097099
+    second: Karma_Climb 31
+  - first:
+      213: -6179871255057747648
+    second: Karma_Climb 32
+  - first:
+      213: 44517512077729845
+    second: Karma_Climb 33
+  - first:
+      213: -3346921363114640220
+    second: Karma_Climb 34
+  - first:
+      213: 8510437612020216099
+    second: Karma_Climb 35
+  - first:
+      213: 2543731820555908103
+    second: Karma_Climb 36
+  - first:
+      213: -5120186893357494980
+    second: Karma_Climb 37
+  - first:
+      213: -4260968348127342935
+    second: Karma_Climb 38
+  - first:
+      213: 6322826799340081242
+    second: Karma_Climb 39
+  - first:
+      213: -3286770768362173218
+    second: Karma_Climb 40
+  - first:
+      213: -4838681913353382974
+    second: Karma_Climb 41
+  - first:
+      213: 1655123397002293401
+    second: Karma_Climb 42
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 582
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 485
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Karma_Climb 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e81c47bb8ebf7b0800000000000000
+      internalID: -5189298253798994298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 485
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f332640832c1da990800000000000000
+      internalID: -7373206076134120641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 485
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6693fbc4f1056050800000000000000
+      internalID: 5793038646587397741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 485
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9149a3f1299f1ec60800000000000000
+      internalID: 7845826431840588825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 485
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20742c3854f80b2e0800000000000000
+      internalID: -2112030696510699774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 485
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f7967567c589ff0800000000000000
+      internalID: -29171734235480204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d346369baea64f0800000000000000
+      internalID: -834596698966442742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 388
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7225e472da16ca340800000000000000
+      internalID: 4876379892852085287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0a6f394ef9bfe20800000000000000
+      internalID: 3385475348982833318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 388
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5ac33d736217670800000000000000
+      internalID: 8534644790052824490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 388
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4ebbc99cce6b6f0800000000000000
+      internalID: -669087143955798796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 388
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d9457496b76d400800000000000000
+      internalID: 348601713266302265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 388
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11addb5174f0789c0800000000000000
+      internalID: -3925151752248239599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aceb1155809a061c0800000000000000
+      internalID: -4512420973373178166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 291
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc5adb3f17b68830800000000000000
+      internalID: 4073144257779227840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 388
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2829510a56bf889e0800000000000000
+      internalID: -1618767652143656318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 291
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9ca222b00b99a00800000000000000
+      internalID: 763835173680368125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 17
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 291
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f786da3c9ac613950800000000000000
+      internalID: 6427037619622602879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 291
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4371ab14667c4ba10800000000000000
+      internalID: 1924382182797350708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 291
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faabbe2cdfe260640800000000000000
+      internalID: 5045772099947051695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292136f1a5a2f2970800000000000000
+      internalID: 8732244769056690834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 194
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c68f835bdb25030800000000000000
+      internalID: 3482054047953349746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 194
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04781dfce65d8b70800000000000000
+      internalID: 8902867614239847436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 388
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8c97e3272eb3270800000000000000
+      internalID: 8231421724252031190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 194
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce5eface63d481b0800000000000000
+      internalID: -5655162759264969021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 194
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d2751186857add0800000000000000
+      internalID: -2474912266226029297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 194
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719de2eab5491d7f0800000000000000
+      internalID: -589526954723583721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14afaec7a39980b10800000000000000
+      internalID: 1947975315320666689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 97
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df057335b162947b0800000000000000
+      internalID: -5239614792666754819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 97
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ff241f8f91259f0800000000000000
+      internalID: -481293653184938171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 97
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222f34c6b2441ca00800000000000000
+      internalID: 774975564175110690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 97
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70babc29b3ff7d54d8a16f69d646323e
+      internalID: 1038328548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 32
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 97
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d9a89470e658f4ea6e372760d8f394
+      internalID: 142199131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4fe3cb4a60509498f70f21fcafb0bf
+      internalID: 1298101764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Climb 34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 36
+        height: 97
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.0927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a1bb6a21cc8a44a8e11ba8517dc139
+      internalID: 380340979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Karma_Climb 0: -5189298253798994298
+      Karma_Climb 1: -7373206076134120641
+      Karma_Climb 10: -669087143955798796
+      Karma_Climb 11: 348601713266302265
+      Karma_Climb 12: -3925151752248239599
+      Karma_Climb 13: -4512420973373178166
+      Karma_Climb 14: 4073144257779227840
+      Karma_Climb 15: -1618767652143656318
+      Karma_Climb 16: 763835173680368125
+      Karma_Climb 17: 6427037619622602879
+      Karma_Climb 18: 1924382182797350708
+      Karma_Climb 19: 5045772099947051695
+      Karma_Climb 2: 5793038646587397741
+      Karma_Climb 20: 8732244769056690834
+      Karma_Climb 21: 3482054047953349746
+      Karma_Climb 22: 8902867614239847436
+      Karma_Climb 23: 8231421724252031190
+      Karma_Climb 24: -5655162759264969021
+      Karma_Climb 25: -2474912266226029297
+      Karma_Climb 26: -589526954723583721
+      Karma_Climb 27: 1947975315320666689
+      Karma_Climb 28: -5239614792666754819
+      Karma_Climb 29: -481293653184938171
+      Karma_Climb 3: 7845826431840588825
+      Karma_Climb 30: 774975564175110690
+      Karma_Climb 31: 1038328548
+      Karma_Climb 32: 142199131
+      Karma_Climb 33: 1298101764
+      Karma_Climb 34: 380340979
+      Karma_Climb 4: -2112030696510699774
+      Karma_Climb 5: -29171734235480204
+      Karma_Climb 6: -834596698966442742
+      Karma_Climb 7: 4876379892852085287
+      Karma_Climb 8: 3385475348982833318
+      Karma_Climb 9: 8534644790052824490
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

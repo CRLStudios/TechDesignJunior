@@ -1,0 +1,1161 @@
+fileFormatVersion: 2
+guid: 7a5886ae919b3ad4585cbef3ebf034ba
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 444
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Karma_Void 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd9ad1b5b1cc144280330ef4eefc655
+      internalID: -96828662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 370
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6b68aaf2b1321429458d623f57dd19
+      internalID: -1304939649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 370
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ffaf7f1da76e649b710c18e8e47381
+      internalID: 4490173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 370
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd374ecd27c3965459fa45ee7a85a57f
+      internalID: 913215615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 370
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f7546d674f47042a59d19dc7e301a2
+      internalID: -590536864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 370
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31ebe022169cc744bf49b9ea376197a
+      internalID: 932034992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 370
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb22fbc9b8ee194db8189bb1c7a4330
+      internalID: -722034252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b522be7190e31c745af71af420e5365e
+      internalID: -434886659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 296
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44cb392fd1fb5e45b90cab5edb67fec
+      internalID: -1094826725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 296
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e1ae134a1c9234db97a713b8a12ef5
+      internalID: 1229342600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 296
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4fa3eb4320dff44bf214e8902de8e6
+      internalID: -1585591862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 296
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d1b82eb7add274193dda28b9fafaa7
+      internalID: 1720528446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 296
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d114f27d6a3dbe468efd34de124144a
+      internalID: -535145241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 296
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f10fb83f92b266478101093e5d89e2e
+      internalID: 1078581308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739e13cfbce8be9479169d4ee399e79f
+      internalID: -148636779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 222
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8bbae9e7fc6e74d89ed0c3e7c8a6b0
+      internalID: 1862043251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 222
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753ee5f9f1f78ef4396ff275d543820c
+      internalID: 1169440086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 222
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315324e26eef3974b93c0deaff006a5e
+      internalID: -2021137551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 222
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca8c401205f9154e96f4a28da124ba5
+      internalID: 581497118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 222
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f96e2aea83ee44d9d41770c8068523
+      internalID: 1093435586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 222
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0fc5d91d87d71489c2be4d861e8500
+      internalID: 1758420413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 222
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332326bde4aa2c946a0579aa0b2d23cd
+      internalID: 2115349367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 222
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6052798d255864dbc2c88f56efbae0
+      internalID: 686088748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 222
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de65eea8b57bf0429682ab02a30cb9e
+      internalID: 1574389434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 222
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fdb1e343b2f604bb055974d119701e
+      internalID: -1150121351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b915af18af368541b65e7cffbd6a66a
+      internalID: 1506223920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 148
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02c1efb3fb38214aa3dd4b2d815c1e0
+      internalID: -2040358408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 148
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3002eef0b930edb41b28b4b9a9c26dab
+      internalID: 220994435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 148
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a896c80cbca0d246bf19e51c1c95d34
+      internalID: 2041870734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 148
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00e332e61b972e46accab27d41729c1
+      internalID: 46481094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 148
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70503902eedf443429ddc0c680186442
+      internalID: 1925604559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 148
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4947195bf80310c4aa57b021419bd8b8
+      internalID: 2137022453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ef1cd9682e3f445974a2d6f3e2439a
+      internalID: 1243474493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 74
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6e8499479a7d848b7f7d9c008e9b9d
+      internalID: -1420817728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 74
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc834a53f7368264ca0c0b133ffa684e
+      internalID: -1465362788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 35
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 74
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048caed0fe53d394294413313ed02d9b
+      internalID: 680410974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 74
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd8fd4615fd1bb4cb3b90c3d04d41a9
+      internalID: 2147125913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 74
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98df0effb8c12342ac7759d0be30f04
+      internalID: -1195416052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 38
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 74
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dd76c9ea779944b9f331dd78d9c2ba
+      internalID: 928344813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f27eb710f005d94782939af20cb02fd
+      internalID: 1383141247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c919fe434d87b74eb7739d5a48122d5
+      internalID: 479262753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd7dd6ba952413458060ecd1367fe74
+      internalID: -1626147987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1add39c5c9cb3dc46b7a683832004478
+      internalID: 1991434860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e560154d190e6334a96ed5d55b721593
+      internalID: -22239864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 44
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe06d846fbcf142479bb7446e10c2d62
+      internalID: 65681185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3e487397c55f64d8cb1e44c649dc43
+      internalID: -486238881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karma_Void 46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 222
+        width: 33
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6858cca74d9187b4abb4794c211c0b4a
+      internalID: 1795163354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Karma_Void 0: -96828662
+      Karma_Void 1: -1304939649
+      Karma_Void 10: -1585591862
+      Karma_Void 11: 1720528446
+      Karma_Void 12: -535145241
+      Karma_Void 13: 1078581308
+      Karma_Void 14: -148636779
+      Karma_Void 15: 1862043251
+      Karma_Void 16: 1169440086
+      Karma_Void 17: -2021137551
+      Karma_Void 18: 581497118
+      Karma_Void 19: 1093435586
+      Karma_Void 2: 4490173
+      Karma_Void 20: 1758420413
+      Karma_Void 21: 2115349367
+      Karma_Void 22: 686088748
+      Karma_Void 23: 1574389434
+      Karma_Void 24: -1150121351
+      Karma_Void 25: 1506223920
+      Karma_Void 26: -2040358408
+      Karma_Void 27: 220994435
+      Karma_Void 28: 2041870734
+      Karma_Void 29: 46481094
+      Karma_Void 3: 913215615
+      Karma_Void 30: 1925604559
+      Karma_Void 31: 2137022453
+      Karma_Void 32: 1243474493
+      Karma_Void 33: -1420817728
+      Karma_Void 34: -1465362788
+      Karma_Void 35: 680410974
+      Karma_Void 36: 2147125913
+      Karma_Void 37: -1195416052
+      Karma_Void 38: 928344813
+      Karma_Void 39: 1383141247
+      Karma_Void 4: -590536864
+      Karma_Void 40: 479262753
+      Karma_Void 41: -1626147987
+      Karma_Void 42: 1991434860
+      Karma_Void 43: -22239864
+      Karma_Void 44: 65681185
+      Karma_Void 45: -486238881
+      Karma_Void 46: 1795163354
+      Karma_Void 5: 932034992
+      Karma_Void 6: -722034252
+      Karma_Void 7: -434886659
+      Karma_Void 8: -1094826725
+      Karma_Void 9: 1229342600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

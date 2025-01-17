@@ -1,0 +1,2202 @@
+fileFormatVersion: 2
+guid: 5498195a020708542ad367a9174ce50b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 226670532213058107
+    second: Park_Foliage 0
+  - first:
+      213: 7367223251045019979
+    second: Park_Foliage 1
+  - first:
+      213: 3771998228419669648
+    second: Park_Foliage 2
+  - first:
+      213: 5315489299545663074
+    second: Park_Foliage 3
+  - first:
+      213: -784653398138151243
+    second: Park_Foliage 4
+  - first:
+      213: 180563512769195402
+    second: Park_Foliage 5
+  - first:
+      213: 4102252737867698714
+    second: Park_Foliage 6
+  - first:
+      213: 4288763476151883890
+    second: Park_Foliage 7
+  - first:
+      213: -3467646525092053898
+    second: Park_Foliage 8
+  - first:
+      213: 4303175943856664473
+    second: Park_Foliage 9
+  - first:
+      213: -5395239643814705864
+    second: Park_Foliage 10
+  - first:
+      213: -2360093831791966145
+    second: Park_Foliage 11
+  - first:
+      213: 574683509126476684
+    second: Park_Foliage 12
+  - first:
+      213: -7988103546959752943
+    second: Park_Foliage 13
+  - first:
+      213: 7653662783737646236
+    second: Park_Foliage 14
+  - first:
+      213: -1737310345545963902
+    second: Park_Foliage 15
+  - first:
+      213: 7163206829963424624
+    second: Park_Foliage 16
+  - first:
+      213: 667523976843632120
+    second: Park_Foliage 17
+  - first:
+      213: -2048234552883646296
+    second: Park_Foliage 18
+  - first:
+      213: 4465782573235484748
+    second: Park_Foliage 19
+  - first:
+      213: -5088139384187507798
+    second: Park_Foliage 20
+  - first:
+      213: -7237961219440148849
+    second: Park_Foliage 21
+  - first:
+      213: 1169713255209143435
+    second: Park_Foliage 22
+  - first:
+      213: -7073201949121324937
+    second: Park_Foliage 23
+  - first:
+      213: 4764985996561125495
+    second: Park_Foliage 24
+  - first:
+      213: 1364667314233527804
+    second: Park_Foliage 25
+  - first:
+      213: 8699397984217092522
+    second: Park_Foliage 26
+  - first:
+      213: -3502564029144174143
+    second: Park_Foliage 27
+  - first:
+      213: -43201395047022981
+    second: Park_Foliage 28
+  - first:
+      213: -4403228530317602530
+    second: Park_Foliage 29
+  - first:
+      213: 8223238768528728945
+    second: Park_Foliage 30
+  - first:
+      213: 6558452292073118758
+    second: Park_Foliage 31
+  - first:
+      213: -6699874593466806884
+    second: Park_Foliage 32
+  - first:
+      213: -6531891787267532366
+    second: Park_Foliage 33
+  - first:
+      213: 4659527286943038432
+    second: Park_Foliage 34
+  - first:
+      213: -8579820939314770090
+    second: Park_Foliage 35
+  - first:
+      213: 4114243884687106004
+    second: Park_Foliage 36
+  - first:
+      213: -3946833146603729134
+    second: Park_Foliage 37
+  - first:
+      213: 1473993405217283009
+    second: Park_Foliage 38
+  - first:
+      213: 5812435133146997423
+    second: Park_Foliage 39
+  - first:
+      213: 7467923723062758561
+    second: Park_Foliage 40
+  - first:
+      213: -2292265251952524258
+    second: Park_Foliage 41
+  - first:
+      213: -3789111662780905984
+    second: Park_Foliage 42
+  - first:
+      213: 2178843976845719697
+    second: Park_Foliage 43
+  - first:
+      213: 1854052206924335381
+    second: Park_Foliage 44
+  - first:
+      213: -8912813112231563734
+    second: Park_Foliage 45
+  - first:
+      213: 1290784401986816404
+    second: Park_Foliage 46
+  - first:
+      213: -5559665801621597131
+    second: Park_Foliage 47
+  - first:
+      213: -258046115531922732
+    second: Park_Foliage 48
+  - first:
+      213: 1569222891702679593
+    second: Park_Foliage 49
+  - first:
+      213: -8127709794595553128
+    second: Park_Foliage 50
+  - first:
+      213: 332469719899795972
+    second: Park_Foliage 51
+  - first:
+      213: 7373178778240275214
+    second: Park_Foliage 52
+  - first:
+      213: 1885684685794412873
+    second: Park_Foliage 53
+  - first:
+      213: -2858069300676337065
+    second: Park_Foliage 54
+  - first:
+      213: -2606766752695595430
+    second: Park_Foliage 55
+  - first:
+      213: 5789454146560510645
+    second: Park_Foliage 56
+  - first:
+      213: -1517999767237927619
+    second: Park_Foliage 57
+  - first:
+      213: -2814465076586031621
+    second: Park_Foliage 58
+  - first:
+      213: 2626779938692311803
+    second: Park_Foliage 59
+  - first:
+      213: 2613292537539405152
+    second: Park_Foliage 60
+  - first:
+      213: 7834369107143540435
+    second: Park_Foliage 61
+  - first:
+      213: -2327514894136498467
+    second: Park_Foliage 62
+  - first:
+      213: 8315555518953624403
+    second: Park_Foliage 63
+  - first:
+      213: -232049027673442049
+    second: Park_Foliage 64
+  - first:
+      213: 1409971790317196314
+    second: Park_Foliage 65
+  - first:
+      213: -3467957583425392512
+    second: Park_Foliage 66
+  - first:
+      213: 7086200996447081762
+    second: Park_Foliage 67
+  - first:
+      213: -9156468982987823632
+    second: Park_Foliage 68
+  - first:
+      213: 7800546300765024534
+    second: Park_Foliage 69
+  - first:
+      213: -7661896671433618303
+    second: Park_Foliage 70
+  - first:
+      213: 7525080191100740279
+    second: Park_Foliage 71
+  - first:
+      213: -6693662222805130947
+    second: Park_Foliage 72
+  - first:
+      213: -6670911435202666653
+    second: Park_Foliage 73
+  - first:
+      213: -4214869654587957738
+    second: Park_Foliage 74
+  - first:
+      213: -682287962809062810
+    second: Park_Foliage 75
+  - first:
+      213: 2579095024130197689
+    second: Park_Foliage 76
+  - first:
+      213: -3755312645564400565
+    second: Park_Foliage 77
+  - first:
+      213: 8995976689144166627
+    second: Park_Foliage 78
+  - first:
+      213: -7628414231542502274
+    second: Park_Foliage 79
+  - first:
+      213: -5256473240033010797
+    second: Park_Foliage 80
+  - first:
+      213: 7925785460638575332
+    second: Park_Foliage 81
+  - first:
+      213: 6422608511825130739
+    second: Park_Foliage 82
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 308
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 308
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Park_Foliage 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3aab99e5ab452300800000000000000
+      internalID: 226670532213058107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41798b7382ad3660800000000000000
+      internalID: 7367223251045019979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e6b526764d85430800000000000000
+      internalID: 3771998228419669648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2662fc2fa5964c940800000000000000
+      internalID: 5315489299545663074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be1c2444e95c15f0800000000000000
+      internalID: -784653398138151243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d2106ee8d718200800000000000000
+      internalID: 180563512769195402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a125a7361212ee830800000000000000
+      internalID: 4102252737867698714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278d3b1a8afb48b30800000000000000
+      internalID: 4288763476151883890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c35499bd170efc0800000000000000
+      internalID: -3467646525092053898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f2593c8b3f7bb30800000000000000
+      internalID: 4303175943856664473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835c15011224025b0800000000000000
+      internalID: -5395239643814705864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38037f0a234f3fd0800000000000000
+      internalID: -2360093831791966145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8332c35b9fa9f700800000000000000
+      internalID: 574683509126476684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1111d66952e842190800000000000000
+      internalID: -7988103546959752943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 220
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c4f4f30c5473a60800000000000000
+      internalID: 7653662783737646236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 220
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2862f150275d3e7e0800000000000000
+      internalID: -1737310345545963902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 220
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0733f98d8a2d86360800000000000000
+      internalID: 7163206829963424624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 220
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd12de2585834900800000000000000
+      internalID: 667523976843632120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 220
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a070b2b6853393e0800000000000000
+      internalID: -2048234552883646296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 220
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48b4d1f695a9fd30800000000000000
+      internalID: 4465782573235484748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab24dd203c4369b0800000000000000
+      internalID: -5088139384187507798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 220
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e77398e989d8b90800000000000000
+      internalID: -7237961219440148849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 220
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c8ec91208ab3010800000000000000
+      internalID: 1169713255209143435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 220
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778d50e7d40f6dd90800000000000000
+      internalID: -7073201949121324937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 220
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7709cb49481a02240800000000000000
+      internalID: 4764985996561125495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 220
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdc97521b540f210800000000000000
+      internalID: 1364667314233527804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 220
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1520110687ab870800000000000000
+      internalID: 8699397984217092522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1fcc7a294646fc0800000000000000
+      internalID: -3502564029144174143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ebb626f84866ff0800000000000000
+      internalID: -43201395047022981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 176
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11dd812bf694e2c0800000000000000
+      internalID: -4403228530317602530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 176
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17320656710de1270800000000000000
+      internalID: 8223238768528728945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 176
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c5d598c9d440b50800000000000000
+      internalID: 6558452292073118758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 176
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d0fb00e834503a0800000000000000
+      internalID: -6699874593466806884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 176
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b990a4e60f0a55a0800000000000000
+      internalID: -6531891787267532366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebba775167f9a040800000000000000
+      internalID: 4659527286943038432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f4fa3405a5ee880800000000000000
+      internalID: -8579820939314770090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 36
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 176
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df1912d30bb81930800000000000000
+      internalID: 4114243884687106004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 176
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f82f41a280a39c0800000000000000
+      internalID: -3946833146603729134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 176
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb9e37413da47410800000000000000
+      internalID: 1473993405217283009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 176
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa22a3f35fae9a050800000000000000
+      internalID: 5812435133146997423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 40
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 176
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac4ed23f0563a760800000000000000
+      internalID: 7467923723062758561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e140666f5ec3030e0800000000000000
+      internalID: -2292265251952524258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00687ada40f5a6bc0800000000000000
+      internalID: -3789111662780905984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 132
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19873ec8d0fcc3e10800000000000000
+      internalID: 2178843976845719697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 132
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51901c4b8aaeab910800000000000000
+      internalID: 1854052206924335381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 45
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 132
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e6eff42b35f4480800000000000000
+      internalID: -8912813112231563734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 132
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4990a022399c9e110800000000000000
+      internalID: 1290784401986816404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 132
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5341578e86918d2b0800000000000000
+      internalID: -5559665801621597131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2ec04dc6c3b6cf0800000000000000
+      internalID: -258046115531922732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 132
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9287959e7eff6c510800000000000000
+      internalID: 1569222891702679593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 50
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 132
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8904ba71103943f80800000000000000
+      internalID: -8127709794595553128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4027331e27b2d9400800000000000000
+      internalID: 332469719899795972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 88
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03d576b80bc25660800000000000000
+      internalID: 7373178778240275214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9498b2f1b3c4b2a10800000000000000
+      internalID: 1885684685794412873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 132
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752ecbd1d191658d0800000000000000
+      internalID: -2858069300676337065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ec74d1377e2dbd0800000000000000
+      internalID: -2606766752695595430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bac6295fd5485050800000000000000
+      internalID: 5789454146560510645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 57
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 88
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d58a0214bfeeae0800000000000000
+      internalID: -1517999767237927619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 88
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5d85dace201f8d0800000000000000
+      internalID: -2814465076586031621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 88
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaa0ecdf62347420800000000000000
+      internalID: 2626779938692311803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 60
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 88
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065273297b7444420800000000000000
+      internalID: 2613292537539405152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 61
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 88
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3deb596d13549bc60800000000000000
+      internalID: 7834369107143540435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd62095198103bfd0800000000000000
+      internalID: -2327514894136498467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3531541dfa9c66370800000000000000
+      internalID: 8315555518953624403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 64
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 44
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8bc0783a897ccf0800000000000000
+      internalID: -232049027673442049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 65
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a149d297fd9319310800000000000000
+      internalID: 1409971790317196314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 66
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 44
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080becfa3f65fdfc0800000000000000
+      internalID: -3467957583425392512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 67
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2255f30134e375260800000000000000
+      internalID: 7086200996447081762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 68
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 44
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5e02819ffade080800000000000000
+      internalID: -9156468982987823632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611361f088b114c60800000000000000
+      internalID: 7800546300765024534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 70
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 44
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c837162997ba590800000000000000
+      internalID: -7661896671433618303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 44
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b263e070947e6860800000000000000
+      internalID: 7525080191100740279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 72
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 44
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31af334ca55b13a0800000000000000
+      internalID: -6693662222805130947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 73
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 44
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f57a8c4692c63a0800000000000000
+      internalID: -6670911435202666653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 74
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 44
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e16b76166c185c0800000000000000
+      internalID: -4214869654587957738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 75
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 44
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aad3676b60886f0800000000000000
+      internalID: -682287962809062810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b802438249cac320800000000000000
+      internalID: 2579095024130197689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cf99c9b0372ebc0800000000000000
+      internalID: -3755312645564400565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 78
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8f124d22128dc70800000000000000
+      internalID: 8995976689144166627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cef596cad622690800000000000000
+      internalID: -7628414231542502274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 80
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b5c7c20714d07b0800000000000000
+      internalID: -5256473240033010797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea615342eb0efd60800000000000000
+      internalID: 7925785460638575332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Park_Foliage 82
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4bcbeb960b12950800000000000000
+      internalID: 6422608511825130739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Park_Foliage 0: 226670532213058107
+      Park_Foliage 1: 7367223251045019979
+      Park_Foliage 10: -5395239643814705864
+      Park_Foliage 11: -2360093831791966145
+      Park_Foliage 12: 574683509126476684
+      Park_Foliage 13: -7988103546959752943
+      Park_Foliage 14: 7653662783737646236
+      Park_Foliage 15: -1737310345545963902
+      Park_Foliage 16: 7163206829963424624
+      Park_Foliage 17: 667523976843632120
+      Park_Foliage 18: -2048234552883646296
+      Park_Foliage 19: 4465782573235484748
+      Park_Foliage 2: 3771998228419669648
+      Park_Foliage 20: -5088139384187507798
+      Park_Foliage 21: -7237961219440148849
+      Park_Foliage 22: 1169713255209143435
+      Park_Foliage 23: -7073201949121324937
+      Park_Foliage 24: 4764985996561125495
+      Park_Foliage 25: 1364667314233527804
+      Park_Foliage 26: 8699397984217092522
+      Park_Foliage 27: -3502564029144174143
+      Park_Foliage 28: -43201395047022981
+      Park_Foliage 29: -4403228530317602530
+      Park_Foliage 3: 5315489299545663074
+      Park_Foliage 30: 8223238768528728945
+      Park_Foliage 31: 6558452292073118758
+      Park_Foliage 32: -6699874593466806884
+      Park_Foliage 33: -6531891787267532366
+      Park_Foliage 34: 4659527286943038432
+      Park_Foliage 35: -8579820939314770090
+      Park_Foliage 36: 4114243884687106004
+      Park_Foliage 37: -3946833146603729134
+      Park_Foliage 38: 1473993405217283009
+      Park_Foliage 39: 5812435133146997423
+      Park_Foliage 4: -784653398138151243
+      Park_Foliage 40: 7467923723062758561
+      Park_Foliage 41: -2292265251952524258
+      Park_Foliage 42: -3789111662780905984
+      Park_Foliage 43: 2178843976845719697
+      Park_Foliage 44: 1854052206924335381
+      Park_Foliage 45: -8912813112231563734
+      Park_Foliage 46: 1290784401986816404
+      Park_Foliage 47: -5559665801621597131
+      Park_Foliage 48: -258046115531922732
+      Park_Foliage 49: 1569222891702679593
+      Park_Foliage 5: 180563512769195402
+      Park_Foliage 50: -8127709794595553128
+      Park_Foliage 51: 332469719899795972
+      Park_Foliage 52: 7373178778240275214
+      Park_Foliage 53: 1885684685794412873
+      Park_Foliage 54: -2858069300676337065
+      Park_Foliage 55: -2606766752695595430
+      Park_Foliage 56: 5789454146560510645
+      Park_Foliage 57: -1517999767237927619
+      Park_Foliage 58: -2814465076586031621
+      Park_Foliage 59: 2626779938692311803
+      Park_Foliage 6: 4102252737867698714
+      Park_Foliage 60: 2613292537539405152
+      Park_Foliage 61: 7834369107143540435
+      Park_Foliage 62: -2327514894136498467
+      Park_Foliage 63: 8315555518953624403
+      Park_Foliage 64: -232049027673442049
+      Park_Foliage 65: 1409971790317196314
+      Park_Foliage 66: -3467957583425392512
+      Park_Foliage 67: 7086200996447081762
+      Park_Foliage 68: -9156468982987823632
+      Park_Foliage 69: 7800546300765024534
+      Park_Foliage 7: 4288763476151883890
+      Park_Foliage 70: -7661896671433618303
+      Park_Foliage 71: 7525080191100740279
+      Park_Foliage 72: -6693662222805130947
+      Park_Foliage 73: -6670911435202666653
+      Park_Foliage 74: -4214869654587957738
+      Park_Foliage 75: -682287962809062810
+      Park_Foliage 76: 2579095024130197689
+      Park_Foliage 77: -3755312645564400565
+      Park_Foliage 78: 8995976689144166627
+      Park_Foliage 79: -7628414231542502274
+      Park_Foliage 8: -3467646525092053898
+      Park_Foliage 80: -5256473240033010797
+      Park_Foliage 81: 7925785460638575332
+      Park_Foliage 82: 6422608511825130739
+      Park_Foliage 9: 4303175943856664473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
