@@ -1,4 +1,5 @@
 # Junior Tech Designer
+This is a Technical Design test written for applicants of Pracy Studios.
 
 ## Instructions
 Begin by making a fork of this repository on GitHub.<br/>
