@@ -6,7 +6,8 @@ This is a Technical Design test written for applicants of Pracy Studios.
 - Begin by making a fork of this repository on GitHub.<br/>
 - Install Unity 2022.3.7f1 <br/>
 - Clone your forked repository to your local machine. <br/>
-- Read the documentation and update the project to meet the Requirements listed below as well as fix the known bugs. <br/>
+- Read the documentation and update the project to meet the Requirements listed below as well as fix the known bugs.
+- One of the known bugs may require a small code change to fix. The rest of the tasks should require no code changes to complete but you may make code changes if you desire. <br/>
 - Push your changes to your forked github repository when you are finished so all your changes get uploaded to github. <br/> 
 - Finally open a Pull Request on the github website so we know it is ready for us to review. <br/>
 
