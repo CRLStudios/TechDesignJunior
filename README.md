@@ -5,7 +5,7 @@ This is a Technical Design test written for applicants of Pracy Studios.
 Begin by making a fork of this repository on GitHub.<br/>
 Install Unity 2022.3.7f1 <br/>
 Clone your forked repository to your local machine. <br/>
-Read the documentation and update the project to meet the Requirements listed below. <br/>
+Read the documentation and update the project to meet the Requirements listed below as well as fix the known bugs. <br/>
 Push your changes to your forked github repository and open a Pull Request when complete. <br/>
 
 ## Documentation
@@ -77,4 +77,5 @@ Push your changes to your forked github repository and open a Pull Request when 
  - The interaction alert sometimes sorts behind objects it should be in front of. It should sort together with the player sprite.
  - The interaction alert is visible until the player enters and exits an interactable trigger. The alert should be hidden when the scene starts.
  - Some colliders don't seem to be interacting correctly with the player.
+ - Cucumber cannot be picked up.
  - Player should not be able to walk past the Pillbug until feeding it the cucumber.
