@@ -2,6 +2,7 @@
 This is a Technical Design test written for applicants of Pracy Studios.
 
 ## Instructions
+Create a gihub account if you do not have one. <br/>
 Begin by making a fork of this repository on GitHub.<br/>
 Install Unity 2022.3.7f1 <br/>
 Clone your forked repository to your local machine. <br/>
