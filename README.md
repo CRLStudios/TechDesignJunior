@@ -15,7 +15,7 @@ This is a Technical Design test written for applicants of Pracy Studios.
  - Player's inventory can only hold one item. If the player picks up an item while holding a different item the currently held item will be returned to its original position.
  - Progress Flags
    - Progress flags are Key-Value pairs that are used to record events that have happened or things the player has done.
-   - The progress flag Key (or Flag Name) can be any string. Any progress flag Key can be used in the graph and the value will default to 0 if it has not been set or incremented.
+   - The progress flag name is the same as the Key and can be any string. Any progress flag Key can be used in the graph and the value will default to 0 if it has not been set or incremented.
    - The default value of a progress flag that has not been set or incremented is 0.
    - There is also a ProgressFlagEnabler component that can be used to enable or disable game objects depending on the value of a progress flag.
  - Interactions
