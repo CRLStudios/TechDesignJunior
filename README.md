@@ -12,8 +12,12 @@ This is a Technical Design test written for applicants of Pracy Studios.
 - Finally open a Pull Request on the github website so we know it is ready for us to review. <br/>
 
 ## Documentation
- - ProgressFlags are Key-Value pairs that are used to record events that have happened or things the player has done.
  - Player's inventory can only hold one item. If the player picks up an item while holding a different item the currently held item will be returned to its original position.
+ - Progress Flags
+   - Progress flags are Key-Value pairs that are used to record events that have happened or things the player has done.
+   - The progress flag Key can be any string. Any progress flag Key can be used in the graph and the value will default to 0 if it has not been set or incremented.
+   - The default value of a progress flag that has not been set or incremented is 0.
+   - There is also a ProgressFlagEnabler component that can be used to enable or disable game objects depending on the value of a progress flag.
  - Interactions
  	- InteractableObjects are used to start cutscenes and set progress flags. They require an InteractableGraph asset to decide if they can run or not.
  	- InteractableGraphs are scriptable objects that contain a graph of nodes. These node types control the branching of cutscenes.
