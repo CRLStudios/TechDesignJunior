@@ -20,7 +20,7 @@ This is a Technical Design test written for applicants of Pracy Studios.
    - There is also a ProgressFlagEnabler component that can be used to enable or disable game objects depending on the value of a progress flag.
  - Interactions
  	- InteractableObjects are used to start cutscenes and set progress flags. They require an InteractableGraph asset to decide if they can run or not.
-  - You can add an InteractableObject component to a character to create an interactable NPC.
+   - You can add an InteractableObject component to a character to create an interactable NPC.
  	- InteractableGraphs are scriptable objects that contain a graph of nodes. These node types control the branching of cutscenes.
  		- You can create interactable graph options by using the create menu in the project tab.
  		- Select an interactable graph and click the edit button in the inspector tab to open the graph editor window.
