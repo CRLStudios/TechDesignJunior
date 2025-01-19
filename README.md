@@ -12,15 +12,20 @@ This is a Technical Design test written for applicants of Pracy Studios.
 - Finally open a Pull Request on the github website so we know it is ready for us to review. <br/>
 
 ## Documentation
- - ProgressFlags are Key-Value pairs that are used to record events that have happened or things the player has done.
  - Player's inventory can only hold one item. If the player picks up an item while holding a different item the currently held item will be returned to its original position.
+ - Progress Flags
+   - Progress flags are Key-Value pairs that are used to record events that have happened or things the player has done.
+   - The progress flag name is the same as the Key and can be any string. Any progress flag Key can be used in the graph and the value will default to 0 if it has not been set or incremented.
+   - The default value of a progress flag that has not been set or incremented is 0.
+   - There is also a ProgressFlagEnabler component that can be used to enable or disable game objects depending on the value of a progress flag.
  - Interactions
  	- InteractableObjects are used to start cutscenes and set progress flags. They require an InteractableGraph asset to decide if they can run or not.
+   - You can add an InteractableObject component to a character to create an interactable NPC.
  	- InteractableGraphs are scriptable objects that contain a graph of nodes. These node types control the branching of cutscenes.
  		- You can create interactable graph options by using the create menu in the project tab.
  		- Select an interactable graph and click the edit button in the inspector tab to open the graph editor window.
  		- Right click in the editor graph window to show a menu of nodes that can be added to the graph.
- 		- Start a graph by adding a Intractable Start Node and an Interactable Exit Node. The interaction will flow from the Start node towards the Exit node.
+ 		- Start a graph by adding a Interactable Start Node and an Interactable Exit Node. The interaction will flow from the Start node towards the Exit node.
  		- You can use the Set Progress Flag and Get Progress Flag nodes to do branching logic inside of interactable graphs.
  		- An interactable object can only be activated by the player if the current branching path in the interactable graph contains a node associated with an action such as running a cutscene or setting a progress flag. If the graph gets to the Exit node without encountering an action node it will not display the interaction alert to the player or activate when the player enters the trigger and presses enter.
  - Cutscenes
@@ -60,16 +65,18 @@ This is a Technical Design test written for applicants of Pracy Studios.
    			- Karma: "Alright, I found this cucumber."
    			- Narrator: "*The pillbug squeals in delight*"
    			- Karma: "Who knew a Pillbug could be so picky!"
-   			- Pillbug should move to the right hand side of the bridge clearing the way for Karma to cross to the cliffs above.
+   			 - Pillbug should move to the right hand side of the bridge clearing the way for Karma to cross to the cliffs above.
+   		- After the pillbug has moved:
+          - No interaction should be available.
    	- Mantis
    		- If the player interacts with the mantis before interacting with the Pillbug:
-   		 - Narrator: "The Mantis gestures upwards towards the bridge"
+   		  - Narrator: "The Mantis gestures upwards towards the bridge"
    		- If the player interacts with the Mantis after feeding the pillbug the cucumber:
-   		 - Narrator: "*The Mantis is busy sharpening its claws*"
+   		  - Narrator: "*The Mantis is busy sharpening its claws*"
    		- If the player interacts with the Mantis after interacting with the Pillbug but is not holding the cucumber:
-   		 - Narrator: "*The Mantis gestures toward the bushes to the west.*"
+   		  - Narrator: "*The Mantis gestures toward the bushes to the west.*"
    		- If the player interacts with the Mantis after interacting with the Pillbug while holding the cucumber:
-   		 - Narrator: "The Mantis gestures upwards towards the bridge"
+   		  - Narrator: "The Mantis gestures upwards towards the bridge"
    	- The End
    		- When the player reaches the top of the small set of stairs after crossing the bridge a cutscene should automatically start without the player pressing a button:
    			- Player should move to the center of the grassy patch and face south
@@ -79,6 +86,6 @@ This is a Technical Design test written for applicants of Pracy Studios.
  - Karma's shadow overlays their feet.
  - The interaction alert sometimes sorts behind objects it should be in front of. It should sort together with the player sprite.
  - The interaction alert is visible until the player enters and exits an interactable trigger. The alert should be hidden when the scene starts.
- - Some colliders don't seem to be interacting correctly with the player.
+ - The pillbug collider does not collide with the player and prevent the player from moving.
  - Cucumber cannot be picked up.
  - Player should not be able to walk past the Pillbug until feeding it the cucumber.
