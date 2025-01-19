@@ -20,7 +20,7 @@ This is a Technical Design test written for applicants of Pracy Studios.
  		- You can create interactable graph options by using the create menu in the project tab.
  		- Select an interactable graph and click the edit button in the inspector tab to open the graph editor window.
  		- Right click in the editor graph window to show a menu of nodes that can be added to the graph.
- 		- Start a graph by adding a Intractable Start Node and an Interactable Exit Node. The interaction will flow from the Start node towards the Exit node.
+ 		- Start a graph by adding a Interactable Start Node and an Interactable Exit Node. The interaction will flow from the Start node towards the Exit node.
  		- You can use the Set Progress Flag and Get Progress Flag nodes to do branching logic inside of interactable graphs.
  		- An interactable object can only be activated by the player if the current branching path in the interactable graph contains a node associated with an action such as running a cutscene or setting a progress flag. If the graph gets to the Exit node without encountering an action node it will not display the interaction alert to the player or activate when the player enters the trigger and presses enter.
  - Cutscenes
@@ -79,6 +79,6 @@ This is a Technical Design test written for applicants of Pracy Studios.
  - Karma's shadow overlays their feet.
  - The interaction alert sometimes sorts behind objects it should be in front of. It should sort together with the player sprite.
  - The interaction alert is visible until the player enters and exits an interactable trigger. The alert should be hidden when the scene starts.
- - Some colliders don't seem to be interacting correctly with the player.
+ - The pillbug collider does not collide with the player and prevent the player from moving.
  - Cucumber cannot be picked up.
  - Player should not be able to walk past the Pillbug until feeding it the cucumber.
