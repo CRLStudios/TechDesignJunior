@@ -65,13 +65,13 @@ This is a Technical Design test written for applicants of Pracy Studios.
           - No interaction should be available.
    	- Mantis
    		- If the player interacts with the mantis before interacting with the Pillbug:
-   		 - Narrator: "The Mantis gestures upwards towards the bridge"
+   		  - Narrator: "The Mantis gestures upwards towards the bridge"
    		- If the player interacts with the Mantis after feeding the pillbug the cucumber:
-   		 - Narrator: "*The Mantis is busy sharpening its claws*"
+   		  - Narrator: "*The Mantis is busy sharpening its claws*"
    		- If the player interacts with the Mantis after interacting with the Pillbug but is not holding the cucumber:
-   		 - Narrator: "*The Mantis gestures toward the bushes to the west.*"
+   		  - Narrator: "*The Mantis gestures toward the bushes to the west.*"
    		- If the player interacts with the Mantis after interacting with the Pillbug while holding the cucumber:
-   		 - Narrator: "The Mantis gestures upwards towards the bridge"
+   		  - Narrator: "The Mantis gestures upwards towards the bridge"
    	- The End
    		- When the player reaches the top of the small set of stairs after crossing the bridge a cutscene should automatically start without the player pressing a button:
    			- Player should move to the center of the grassy patch and face south
