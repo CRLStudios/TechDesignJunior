@@ -60,7 +60,9 @@ This is a Technical Design test written for applicants of Pracy Studios.
    			- Karma: "Alright, I found this cucumber."
    			- Narrator: "*The pillbug squeals in delight*"
    			- Karma: "Who knew a Pillbug could be so picky!"
-   			- Pillbug should move to the right hand side of the bridge clearing the way for Karma to cross to the cliffs above.
+   			 - Pillbug should move to the right hand side of the bridge clearing the way for Karma to cross to the cliffs above.
+   		- After the pillbug has moved:
+          - No interaction should be available.
    	- Mantis
    		- If the player interacts with the mantis before interacting with the Pillbug:
    		 - Narrator: "The Mantis gestures upwards towards the bridge"
