@@ -40,7 +40,7 @@ public class InteractableObject : Interactable
         
         // Check if there is an action node or coroutine node in the graph's active path
         InteractionNode current = interactableGraph.GetStartNode();
-        var canActivate = false;
+        var canActivate = true;
         var visitedSet = HashSetPool<InteractionNode>.New();
         while (!visitedSet.Contains(current) && current != null)
         {

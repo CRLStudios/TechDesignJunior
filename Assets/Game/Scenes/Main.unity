@@ -184,12 +184,66 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 816459957}
-  - {fileID: 1460860484}
-  - {fileID: 1075902931}
-  - {fileID: 988441474}
+  - {fileID: 301897642}
+  - {fileID: 881683612}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &191789602
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 191789603}
+  - component: {fileID: 191789604}
+  m_Layer: 0
+  m_Name: Cutscene_Mantis_NoCucumber
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &191789603
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 191789602}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 881683612}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &191789604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 191789602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f74a693c5c846329efa7bcd1685995d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actions:
+  - actionId: 1
+    dialogueOptions:
+      style: 1
+      character: 0
+      text: <i>The Mantis gestures toward the bushes to the west
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
 --- !u!1 &301678158
 GameObject:
   m_ObjectHideFlags: 0
@@ -200,7 +254,7 @@ GameObject:
   m_Component:
   - component: {fileID: 301678159}
   m_Layer: 0
-  m_Name: Location_0
+  m_Name: Location_Karma
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -215,11 +269,79 @@ Transform:
   m_GameObject: {fileID: 301678158}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -115.1, y: -22.6, z: 0}
+  m_LocalPosition: {x: 0, y: 14.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 816459957}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &301897641
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 301897642}
+  m_Layer: 0
+  m_Name: Pillbug_Cutscenes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &301897642
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 301897641}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 816459957}
+  - {fileID: 1460860484}
+  - {fileID: 591208160}
+  - {fileID: 860954605}
+  - {fileID: 2089736746}
+  - {fileID: 1067842355}
+  m_Father: {fileID: 159900629}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &389603491
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 389603492}
+  m_Layer: 0
+  m_Name: Location_TheEnd
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &389603492
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 389603491}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 219.1, y: 212.7, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1720413178}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &450128882
 GameObject:
@@ -419,6 +541,84 @@ MonoBehaviour:
   maxX: 75
   minY: -200
   maxY: 190
+--- !u!1 &591208159
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 591208160}
+  - component: {fileID: 591208161}
+  m_Layer: 0
+  m_Name: Cutscene_Pillbug_Fish
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &591208160
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 591208159}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 301897642}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &591208161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 591208159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f74a693c5c846329efa7bcd1685995d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actions:
+  - actionId: 2
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: Example Dialogue
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 301678159}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
+  - actionId: 1
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: How do you like this fish?
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
+  - actionId: 1
+    dialogueOptions:
+      style: 1
+      character: 0
+      text: <i>The pillbug makes a face that you think is disapproval
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
 --- !u!1 &636949885
 GameObject:
   m_ObjectHideFlags: 0
@@ -452,7 +652,7 @@ Transform:
   - {fileID: 2650630496869559551}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &725527720
+--- !u!1 &651330685
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -460,28 +660,28 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 725527721}
+  - component: {fileID: 651330686}
   m_Layer: 0
-  m_Name: Location_2
+  m_Name: Location_PillbugOffBridge
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &725527721
+--- !u!4 &651330686
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 725527720}
+  m_GameObject: {fileID: 651330685}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -168.3, y: -201.5, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 242.6, y: 15, z: -5.006929}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1460860484}
+  m_Father: {fileID: 2089736746}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &785169067
 GameObject:
@@ -560,37 +760,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 8.04187, y: 3.0822754}
   m_EdgeRadius: 0
---- !u!1 &794577432
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 794577433}
-  m_Layer: 0
-  m_Name: Location_0
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &794577433
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 794577432}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -115.1, y: -22.6, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1460860484}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &816459956
 GameObject:
   m_ObjectHideFlags: 0
@@ -602,7 +771,7 @@ GameObject:
   - component: {fileID: 816459957}
   - component: {fileID: 816459958}
   m_Layer: 0
-  m_Name: Cutscene_Example_0
+  m_Name: Cutscene_Pillbug_First
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -616,15 +785,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 816459956}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 301678159}
-  - {fileID: 1265215717}
-  - {fileID: 1553069964}
-  m_Father: {fileID: 159900629}
+  m_Father: {fileID: 301897642}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &816459958
 MonoBehaviour:
@@ -646,37 +813,15 @@ MonoBehaviour:
       text: Example Dialogue
     moveToOptions:
       character: {fileID: 1259052837}
-      moveToTarget: {fileID: 1553069964}
-      faceDirectionOnComplete: 3
-      run: 1
-    itemId: 
-  - actionId: 2
-    dialogueOptions:
-      style: 0
-      character: 0
-      text: Example Dialogue
-    moveToOptions:
-      character: {fileID: 1055532265}
       moveToTarget: {fileID: 301678159}
-      faceDirectionOnComplete: 1
-      run: 1
-    itemId: 
-  - actionId: 2
-    dialogueOptions:
-      style: 0
-      character: 0
-      text: Example Dialogue
-    moveToOptions:
-      character: {fileID: 1055532265}
-      moveToTarget: {fileID: 1265215717}
-      faceDirectionOnComplete: 2
+      faceDirectionOnComplete: 3
       run: 1
     itemId: 
   - actionId: 1
     dialogueOptions:
       style: 0
       character: 0
-      text: Example Dialogue
+      text: Excuse me, may I pass?
     moveToOptions:
       character: {fileID: 0}
       moveToTarget: {fileID: 0}
@@ -687,14 +832,58 @@ MonoBehaviour:
     dialogueOptions:
       style: 1
       character: 0
-      text: Cutscene Complete
+      text: <i>The pillbug gestures to it's belly with its tiny arms
     moveToOptions:
       character: {fileID: 0}
       moveToTarget: {fileID: 0}
       faceDirectionOnComplete: -1
       run: 0
     itemId: 
---- !u!1 &899567366
+  - actionId: 1
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: What? Are you hungry?
+    moveToOptions:
+      character: {fileID: 0}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: -1
+      run: 0
+    itemId: 
+  - actionId: 1
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: If I bring you something to eat will you let me pass?
+    moveToOptions:
+      character: {fileID: 0}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: -1
+      run: 0
+    itemId: 
+  - actionId: 1
+    dialogueOptions:
+      style: 1
+      character: 0
+      text: <i>The pillbug seems to nod its bulbous head
+    moveToOptions:
+      character: {fileID: 0}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: -1
+      run: 0
+    itemId: 
+  - actionId: 1
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: Alright, I'll see if I can find anything
+    moveToOptions:
+      character: {fileID: 0}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: -1
+      run: 0
+    itemId: 
+--- !u!1 &860954604
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -702,28 +891,177 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 899567367}
+  - component: {fileID: 860954605}
+  - component: {fileID: 860954606}
   m_Layer: 0
-  m_Name: Location_1
+  m_Name: Cutscene_Pillbug_Ladybug
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &899567367
+--- !u!4 &860954605
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 899567366}
+  m_GameObject: {fileID: 860954604}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -126.4, y: -201.5, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1460860484}
+  m_Father: {fileID: 301897642}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &860954606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 860954604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f74a693c5c846329efa7bcd1685995d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actions:
+  - actionId: 2
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: Example Dialogue
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 301678159}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
+  - actionId: 1
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: How about this fat juicy ladybug?
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
+  - actionId: 1
+    dialogueOptions:
+      style: 1
+      character: 0
+      text: <i>The pillbug shrieks in horror
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
+  - actionId: 1
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: Oh, too close to home I guess.
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
+--- !u!1 &879542858
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 879542859}
+  - component: {fileID: 879542860}
+  m_Layer: 0
+  m_Name: Cutscene_Mantis_Cucumber
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &879542859
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 879542858}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 881683612}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &879542860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 879542858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f74a693c5c846329efa7bcd1685995d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actions:
+  - actionId: 1
+    dialogueOptions:
+      style: 1
+      character: 0
+      text: <i>The Mantis gestures upwards towards the bridge
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
+--- !u!1 &881683611
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 881683612}
+  m_Layer: 0
+  m_Name: Mantis_Cutscenes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &881683612
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 881683611}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1075902931}
+  - {fileID: 988441474}
+  - {fileID: 191789603}
+  - {fileID: 879542859}
+  m_Father: {fileID: 159900629}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &988441473
 GameObject:
@@ -736,7 +1074,7 @@ GameObject:
   - component: {fileID: 988441474}
   - component: {fileID: 988441475}
   m_Layer: 0
-  m_Name: Cutscene_Mantis_1
+  m_Name: Cutscene_Mantis_FedCucumber
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -750,12 +1088,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 988441473}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 159900629}
+  m_Father: {fileID: 881683612}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &988441475
 MonoBehaviour:
@@ -772,27 +1110,16 @@ MonoBehaviour:
   actions:
   - actionId: 1
     dialogueOptions:
-      style: 0
-      character: 0
-      text: Hello Again...
-    moveToOptions:
-      character: {fileID: 1259052837}
-      moveToTarget: {fileID: 0}
-      faceDirectionOnComplete: 3
-      run: 1
-    itemId: 
-  - actionId: 1
-    dialogueOptions:
       style: 1
       character: 0
-      text: <i>No Response
+      text: <i>The Mantis is busy sharpening its claws
     moveToOptions:
       character: {fileID: 1259052837}
       moveToTarget: {fileID: 0}
       faceDirectionOnComplete: 3
       run: 1
     itemId: 
---- !u!1 &1009079207
+--- !u!1 &1031033020
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -800,37 +1127,37 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1009079208}
-  - component: {fileID: 1009079209}
+  - component: {fileID: 1031033021}
+  - component: {fileID: 1031033022}
   m_Layer: 17
-  m_Name: Env_0
+  m_Name: Main
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1009079208
+--- !u!4 &1031033021
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1009079207}
+  m_GameObject: {fileID: 1031033020}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 266, y: -9, z: 0}
+  m_LocalPosition: {x: -185.4, y: -335.8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1305292850}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!60 &1009079209
+--- !u!60 &1031033022
 PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1009079207}
+  m_GameObject: {fileID: 1031033020}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -868,30 +1195,204 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.06211853, y: 2.9879007}
-      - {x: -36.54693, y: 3.1666257}
-      - {x: -36.85637, y: -54.38749}
-      - {x: 78.45706, y: -54.106224}
-      - {x: 119.81, y: 22.344545}
-      - {x: 195.40546, y: 21.015888}
-      - {x: 195.69812, y: 389.13913}
-      - {x: 87.57974, y: 387.26398}
-      - {x: 87.38559, y: 305.21405}
-      - {x: 87.91699, y: 275.48523}
-      - {x: 96.97879, y: 250.18993}
-      - {x: 93.45029, y: 237.52322}
-      - {x: 103.40552, y: 209.12726}
-      - {x: 100.97992, y: 191.56358}
-      - {x: 115.78003, y: 176.0303}
-      - {x: 111.3739, y: 68.4202}
-      - {x: 77.40894, y: 2.6248999}
+    - - {x: 295.12457, y: 47.555603}
+      - {x: 274.4684, y: 47.512634}
+      - {x: 274.02185, y: 63.066895}
+      - {x: 268.21063, y: 69.64627}
+      - {x: 263.75674, y: 72.609436}
+      - {x: 258.77032, y: 72.60422}
+      - {x: 257.3002, y: 68.519196}
+      - {x: 254.54683, y: 48.51584}
+      - {x: -140.63843, y: 50.137478}
+      - {x: -122.57236, y: 129.37479}
+      - {x: -292.6905, y: 176.9691}
+      - {x: -324.9714, y: 51.085968}
+      - {x: -227.20256, y: -36.37927}
+      - {x: 529.0196, y: -48.649258}
+      - {x: 849.14636, y: 801.0847}
+      - {x: -93.38626, y: 783.5199}
+      - {x: -293.85184, y: 239.79419}
+      - {x: -293.20972, y: 177.12727}
+      - {x: -122.035706, y: 129.31868}
+      - {x: -87.19272, y: 136.57489}
+      - {x: -80.973175, y: 143.06247}
+      - {x: -78.71472, y: 158.59824}
+      - {x: -77.397, y: 179.24173}
+      - {x: -4.8359222, y: 180.09607}
+      - {x: 2.1234283, y: 175.63655}
+      - {x: 13.315628, y: 175.79099}
+      - {x: 17.662064, y: 179.85951}
+      - {x: 47.427658, y: 180.55351}
+      - {x: 48.994965, y: 175.02243}
+      - {x: 64.77911, y: 175.0078}
+      - {x: 64.06198, y: 310.13208}
+      - {x: 61.857376, y: 311.47366}
+      - {x: 43.369537, y: 311.7323}
+      - {x: 43.44754, y: 319.4077}
+      - {x: 19.98558, y: 332.31653}
+      - {x: 25.066711, y: 334.14847}
+      - {x: 24.897919, y: 340.58945}
+      - {x: -19.341904, y: 338.2713}
+      - {x: -25.57486, y: 326.54593}
+      - {x: -26.197144, y: 301.4219}
+      - {x: -21.308746, y: 293.2833}
+      - {x: -13.561142, y: 288.92987}
+      - {x: -6.8513794, y: 282.1121}
+      - {x: -2.0362396, y: 282.19104}
+      - {x: 7.7515564, y: 285.25204}
+      - {x: 17.719147, y: 285.89694}
+      - {x: 24.314972, y: 290.0078}
+      - {x: 27.289246, y: 293.94992}
+      - {x: 27.277771, y: 306.16742}
+      - {x: 34.59494, y: 307.55322}
+      - {x: 46.438583, y: 300.23578}
+      - {x: 50.938187, y: 300.11725}
+      - {x: 50.781616, y: 253.0259}
+      - {x: 52.05722, y: 251.84282}
+      - {x: 57.015305, y: 251.79636}
+      - {x: 56.977966, y: 232.24701}
+      - {x: 15.810608, y: 232.27058}
+      - {x: 15.757706, y: 235.38495}
+      - {x: 13.975128, y: 236.58127}
+      - {x: -54.81125, y: 236.4458}
+      - {x: -50.18927, y: 345.38034}
+      - {x: -45.99817, y: 365.3153}
+      - {x: -31.657288, y: 370.34915}
+      - {x: 8.933792, y: 371.8321}
+      - {x: 22.58171, y: 370.53992}
+      - {x: 40.472534, y: 369.93707}
+      - {x: 58.611313, y: 370.94922}
+      - {x: 66.94896, y: 378.7788}
+      - {x: 163.51051, y: 378.89764}
+      - {x: 162.25203, y: 367.93353}
+      - {x: 166.42494, y: 365.3798}
+      - {x: 178.58691, y: 369.54974}
+      - {x: 193.13792, y: 370.96234}
+      - {x: 196.72371, y: 376.09372}
+      - {x: 217.93509, y: 382.21875}
+      - {x: 224.57852, y: 379.29114}
+      - {x: 233.45607, y: 380.96362}
+      - {x: 237.54053, y: 386.54718}
+      - {x: 255.03387, y: 388.96674}
+      - {x: 260.90366, y: 385.82092}
+      - {x: 272.24884, y: 385.82672}
+      - {x: 277.85703, y: 390.82538}
+      - {x: 293.1852, y: 391.06573}
+      - {x: 298.8616, y: 388.265}
+      - {x: 310.3455, y: 387.78903}
+      - {x: 317.8099, y: 390.8749}
+      - {x: 330.22833, y: 389.42746}
+      - {x: 338.47937, y: 385.4125}
+      - {x: 346.2966, y: 385.11865}
+      - {x: 354.68597, y: 387.3594}
+      - {x: 369.43695, y: 385.5585}
+      - {x: 377.05084, y: 379.92453}
+      - {x: 385.8805, y: 378.90234}
+      - {x: 395.01498, y: 380.0736}
+      - {x: 407.06555, y: 377.39145}
+      - {x: 416.71326, y: 370.84796}
+      - {x: 427.26843, y: 371.2091}
+      - {x: 424.37976, y: 457.6574}
+      - {x: 429.1017, y: 463.63528}
+      - {x: 428.8258, y: 472.86148}
+      - {x: 423.2661, y: 477.46396}
+      - {x: 419.1091, y: 483.98212}
+      - {x: 417.56464, y: 489.31082}
+      - {x: 408.0641, y: 493.22485}
+      - {x: 394.1049, y: 493.06018}
+      - {x: 387.5109, y: 496.28302}
+      - {x: 377.83487, y: 496.25952}
+      - {x: 372.4084, y: 495.13943}
+      - {x: 357.67596, y: 494.93237}
+      - {x: 353.28104, y: 495.75903}
+      - {x: 350.85803, y: 498.83432}
+      - {x: 347.0112, y: 511.96866}
+      - {x: 343.5308, y: 517.61206}
+      - {x: 343.1164, y: 524.78845}
+      - {x: 338.67798, y: 530.86426}
+      - {x: 338.00238, y: 543.45105}
+      - {x: 334.2667, y: 550.47363}
+      - {x: 338.22208, y: 568.60156}
+      - {x: 338.46475, y: 601.9042}
+      - {x: 332.65106, y: 613.90015}
+      - {x: 332.90384, y: 628.7903}
+      - {x: 336.78003, y: 641.14484}
+      - {x: 338.44714, y: 649.6223}
+      - {x: 543.49225, y: 649.7528}
+      - {x: 537.7059, y: 624.6707}
+      - {x: 539.46814, y: 609.4088}
+      - {x: 537.4649, y: 594.59814}
+      - {x: 545.95496, y: 585.40314}
+      - {x: 543.2961, y: 564.45953}
+      - {x: 554.028, y: 533.1522}
+      - {x: 551.2431, y: 509.62222}
+      - {x: 557.0018, y: 406.34543}
+      - {x: 528.2677, y: 336.4746}
+      - {x: 454.29282, y: 336.32553}
+      - {x: 451.28955, y: 337.36566}
+      - {x: 445.3535, y: 345.24292}
+      - {x: 441.74124, y: 350.7547}
+      - {x: 435.05035, y: 351.0729}
+      - {x: 432.26767, y: 349.45026}
+      - {x: 432.11227, y: 340.859}
+      - {x: 424.01126, y: 330.90833}
+      - {x: 415.08304, y: 331.02823}
+      - {x: 377.0127, y: 341.07632}
+      - {x: 346.91754, y: 344.90717}
+      - {x: 318.50513, y: 347.7454}
+      - {x: 288.91806, y: 347.46518}
+      - {x: 263.4519, y: 345.12912}
+      - {x: 224.49036, y: 339.75208}
+      - {x: 197.75009, y: 332.78668}
+      - {x: 192.61105, y: 335.38077}
+      - {x: 183.5645, y: 334.7408}
+      - {x: 179.7393, y: 327.60953}
+      - {x: 189.2168, y: 319.5722}
+      - {x: 188.81413, y: 184.26047}
+      - {x: 292.9381, y: 185.15768}
+      - {x: 292.9673, y: 158.04276}
+      - {x: 258.75995, y: 158.07652}
+      - {x: 238.78896, y: 156.03056}
+      - {x: 228.74974, y: 151.82272}
+      - {x: 224.90991, y: 146.41057}
+      - {x: 220.28633, y: 142.61157}
+      - {x: 214.38191, y: 139.20197}
+      - {x: 209.00069, y: 133.91043}
+      - {x: 208.19684, y: 128.97685}
+      - {x: 203.38449, y: 125.35208}
+      - {x: 203.45084, y: 120.60892}
+      - {x: 205.49185, y: 117.18483}
+      - {x: 210.28383, y: 112.523605}
+      - {x: 216.64014, y: 109.62755}
+      - {x: 221.46645, y: 109.31383}
+      - {x: 228.17819, y: 100.95795}
+      - {x: 225.82018, y: 94.61629}
+      - {x: 220.63966, y: 86.96268}
+      - {x: 216.30957, y: 81.39157}
+      - {x: 216.06671, y: 75.50842}
+      - {x: 214.81323, y: 72.57001}
+      - {x: 215.30634, y: 69.353546}
+      - {x: 218.37259, y: 71.09712}
+      - {x: 221.31178, y: 78.263214}
+      - {x: 227.11885, y: 82.12077}
+      - {x: 235.71532, y: 87.04175}
+      - {x: 246.40427, y: 103.11682}
+      - {x: 249.32405, y: 106.708466}
+      - {x: 260.37125, y: 108.21713}
+      - {x: 266.69208, y: 106.60596}
+      - {x: 263.63165, y: 96.0499}
+      - {x: 264.87167, y: 91.43129}
+      - {x: 271.60037, y: 91.21074}
+      - {x: 279.85516, y: 104.69418}
+      - {x: 284.0125, y: 108.154144}
+      - {x: 295.73154, y: 107.53995}
   m_UseDelaunayMesh: 0
 --- !u!114 &1055532265 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 3576985834494035084, guid: 4e94bc4c6f0a4444ebe800b38070d23e, type: 3}
   m_PrefabInstance: {fileID: 6769448405433274023}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 1164109764}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0caff68c23f314fd8b6ae92b0ce8f156, type: 3}
@@ -902,6 +1403,107 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4961585149210796845, guid: 4e94bc4c6f0a4444ebe800b38070d23e, type: 3}
   m_PrefabInstance: {fileID: 6769448405433274023}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1067842354
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1067842355}
+  - component: {fileID: 1067842356}
+  m_Layer: 0
+  m_Name: Cutscene_Pillbug_CucumberAfter
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1067842355
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1067842354}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1245755935}
+  m_Father: {fileID: 301897642}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1067842356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1067842354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f74a693c5c846329efa7bcd1685995d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actions:
+  - actionId: 2
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: Example Dialogue
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 301678159}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
+  - actionId: 1
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: Alright, I found this cucumber.
+    moveToOptions:
+      character: {fileID: 1055532265}
+      moveToTarget: {fileID: 1245755935}
+      faceDirectionOnComplete: 1
+      run: 1
+    itemId: 
+  - actionId: 1
+    dialogueOptions:
+      style: 1
+      character: 0
+      text: <i>The pillbug squeals in delight
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
+  - actionId: 1
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: Who knew a Pillbug could be so picky!
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
+  - actionId: 2
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: Nailed it, first try!
+    moveToOptions:
+      character: {fileID: 1055532265}
+      moveToTarget: {fileID: 1245755935}
+      faceDirectionOnComplete: 1
+      run: 1
+    itemId: 
 --- !u!1 &1075902930
 GameObject:
   m_ObjectHideFlags: 0
@@ -913,7 +1515,7 @@ GameObject:
   - component: {fileID: 1075902931}
   - component: {fileID: 1075902932}
   m_Layer: 0
-  m_Name: Cutscene_Mantis_0
+  m_Name: Cutscene_Mantis_NoPillbug
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -927,12 +1529,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1075902930}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 159900629}
+  m_Father: {fileID: 881683612}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1075902932
 MonoBehaviour:
@@ -949,26 +1551,165 @@ MonoBehaviour:
   actions:
   - actionId: 1
     dialogueOptions:
-      style: 0
-      character: 0
-      text: Hiya!
-    moveToOptions:
-      character: {fileID: 1259052837}
-      moveToTarget: {fileID: 0}
-      faceDirectionOnComplete: 3
-      run: 1
-    itemId: 
-  - actionId: 1
-    dialogueOptions:
       style: 1
       character: 0
-      text: <i>No Response
+      text: <i>The Mantis gestures upwards towards the bridge
     moveToOptions:
       character: {fileID: 1259052837}
       moveToTarget: {fileID: 0}
       faceDirectionOnComplete: 3
       run: 1
     itemId: 
+--- !u!1 &1112673613
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1112673614}
+  - component: {fileID: 1112673615}
+  m_Layer: 17
+  m_Name: Root
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1112673614
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1112673613}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -9.8, y: -212.4, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1305292850}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &1112673615
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1112673613}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.48013306, y: 2.6804657}
+      - {x: -6.592593, y: -0.29115698}
+      - {x: -13.994621, y: -1.5496368}
+      - {x: -18.577133, y: -3.944168}
+      - {x: -19.738098, y: -6.2456055}
+      - {x: -16.20588, y: -6.5929565}
+      - {x: -12.2213745, y: -4.1713104}
+      - {x: -9.414108, y: -3.0146027}
+      - {x: -7.9776154, y: -5.37027}
+      - {x: -6.007622, y: -5.741104}
+      - {x: -3.70865, y: -4.0498924}
+      - {x: 1.1670265, y: -2.4110718}
+      - {x: 6.191307, y: -3.9559174}
+      - {x: 7.987118, y: -7.3008423}
+      - {x: 10.070368, y: -8.0109825}
+      - {x: 11.714157, y: -5.302719}
+      - {x: 10.877022, y: -2.4652252}
+      - {x: 8.633147, y: 0.7891502}
+  m_UseDelaunayMesh: 0
+--- !u!1 &1164109764 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1074403418987298453, guid: 4e94bc4c6f0a4444ebe800b38070d23e, type: 3}
+  m_PrefabInstance: {fileID: 6769448405433274023}
+  m_PrefabAsset: {fileID: 0}
+--- !u!58 &1164109767
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1164109764}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 50
+--- !u!114 &1164109768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1164109764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3733c449738be45b8a40b017548cd016, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateOnTriggerEnter: 0
+  requirePlayerFacingThisDirection: 1
+  interactableGraph: {fileID: 11400000, guid: b97ee6a93dd6eb441a7ffbdcf3bb1a4e, type: 2}
 --- !u!1001 &1214804695
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1026,6 +1767,37 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3969b1ff6624426ab7025412ea882f9, type: 3}
+--- !u!1 &1245755934
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1245755935}
+  m_Layer: 0
+  m_Name: Location_PillbugOffBridge
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1245755935
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1245755934}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 242.6, y: 15, z: -5.006929}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1067842355}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1259052837 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 7119037010586262212, guid: f23e593e3aabe41f4983937ecfd7f436, type: 3}
@@ -1067,9 +1839,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7fc8a312cf5b4a5a9913e7b0e88d5602, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flagName: MyValue
+  flagName: Pillbug
   compareType: 1
-  compareValue: 1
+  compareValue: 0
 --- !u!212 &1261745600
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1136,37 +1908,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1265215716
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1265215717}
-  m_Layer: 0
-  m_Name: Location_1
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1265215717
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1265215716}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -126.4, y: -201.5, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 816459957}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1291612767
 GameObject:
@@ -1235,7 +1976,9 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 785169068}
-  - {fileID: 1009079208}
+  - {fileID: 1031033021}
+  - {fileID: 1112673614}
+  - {fileID: 1605300995}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1330373179
@@ -1282,7 +2025,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd209c68353e432b840066a03814ccda, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  progressFlags: []
+  progressFlags:
+  - key: Pillbug
+    value: 0
+  - key: Mantis
+    value: 0
   inventoryItem: 
 --- !u!1 &1381463365
 GameObject:
@@ -1373,7 +2120,7 @@ GameObject:
   - component: {fileID: 1460860484}
   - component: {fileID: 1460860485}
   m_Layer: 0
-  m_Name: Cutscene_Example_1
+  m_Name: Cutscene_Pillbug_NoItems
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1387,15 +2134,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1460860483}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 794577433}
-  - {fileID: 899567367}
-  - {fileID: 725527721}
-  m_Father: {fileID: 159900629}
+  m_Children: []
+  m_Father: {fileID: 301897642}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1460860485
 MonoBehaviour:
@@ -1410,18 +2154,41 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   actions:
+  - actionId: 2
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: Example Dialogue
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 301678159}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
   - actionId: 1
     dialogueOptions:
       style: 0
       character: 0
-      text: I should pick up a fish.
+      text: What does a pillbug eat?
     moveToOptions:
       character: {fileID: 1259052837}
-      moveToTarget: {fileID: 725527721}
+      moveToTarget: {fileID: 0}
       faceDirectionOnComplete: 3
       run: 1
     itemId: 
---- !u!1 &1553069963
+  - actionId: 1
+    dialogueOptions:
+      style: 1
+      character: 0
+      text: <i>The pillbug just stares at you hungrily gesturing towards its stomach
+        again.
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
+--- !u!1 &1605300994
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1429,29 +2196,192 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1553069964}
-  m_Layer: 0
-  m_Name: Location_2
+  - component: {fileID: 1605300995}
+  - component: {fileID: 1605300996}
+  m_Layer: 17
+  m_Name: Rock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1553069964
+--- !u!4 &1605300995
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1553069963}
+  m_GameObject: {fileID: 1605300994}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -168.3, y: -201.5, z: 0}
+  m_LocalPosition: {x: 220.5, y: 214, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 816459957}
+  m_Father: {fileID: 1305292850}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &1605300996
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1605300994}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 5.5644226, y: 7.8194733}
+      - {x: -0.35437012, y: 8.707565}
+      - {x: -5.203513, y: 5.8017693}
+      - {x: -6.49498, y: 1.448349}
+      - {x: -8.0668335, y: -1.440445}
+      - {x: -7.067169, y: -4.53685}
+      - {x: -3.3160095, y: -6.333496}
+      - {x: 0.3867327, y: -7.099102}
+      - {x: 4.3972793, y: -7.453472}
+      - {x: 10.31842, y: -3.6164093}
+      - {x: 10.607657, y: 1.8150902}
+  m_UseDelaunayMesh: 0
+--- !u!1 &1720413176
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1720413178}
+  - component: {fileID: 1720413177}
+  - component: {fileID: 1720413180}
+  - component: {fileID: 1720413179}
+  m_Layer: 0
+  m_Name: Cutscene_TheEnd
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1720413177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1720413176}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f74a693c5c846329efa7bcd1685995d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actions:
+  - actionId: 2
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: Example Dialogue
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 389603492}
+      faceDirectionOnComplete: 1
+      run: 0
+    itemId: 
+  - actionId: 1
+    dialogueOptions:
+      style: 1
+      character: 0
+      text: The End!
+    moveToOptions:
+      character: {fileID: 0}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: -1
+      run: 0
+    itemId: 
+--- !u!4 &1720413178
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1720413176}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 223, y: 89, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 389603492}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1720413179
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1720413176}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 260.63092, y: 44.801903, z: 1}
+  m_Center: {x: 94.49362, y: 19.295475, z: 0}
+--- !u!114 &1720413180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1720413176}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3733c449738be45b8a40b017548cd016, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activateOnTriggerEnter: 1
+  requirePlayerFacingThisDirection: 0
+  interactableGraph: {fileID: 11400000, guid: aa7602b77ea3b19448553546b78153c6, type: 2}
 --- !u!1 &1725327544
 GameObject:
   m_ObjectHideFlags: 0
@@ -1695,6 +2625,107 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1291612768}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2089736745
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2089736746}
+  - component: {fileID: 2089736747}
+  m_Layer: 0
+  m_Name: Cutscene_Pillbug_CucumberBefore
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2089736746
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2089736745}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 651330686}
+  m_Father: {fileID: 301897642}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2089736747
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2089736745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f74a693c5c846329efa7bcd1685995d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actions:
+  - actionId: 2
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: Example Dialogue
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 301678159}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
+  - actionId: 1
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: How about this cucumber?
+    moveToOptions:
+      character: {fileID: 1055532265}
+      moveToTarget: {fileID: 651330686}
+      faceDirectionOnComplete: 1
+      run: 1
+    itemId: 
+  - actionId: 1
+    dialogueOptions:
+      style: 1
+      character: 0
+      text: <i>The pillbug squeals in delight
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
+  - actionId: 1
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: Nailed it, first try!
+    moveToOptions:
+      character: {fileID: 1259052837}
+      moveToTarget: {fileID: 0}
+      faceDirectionOnComplete: 3
+      run: 1
+    itemId: 
+  - actionId: 2
+    dialogueOptions:
+      style: 0
+      character: 0
+      text: Nailed it, first try!
+    moveToOptions:
+      character: {fileID: 1055532265}
+      moveToTarget: {fileID: 651330686}
+      faceDirectionOnComplete: 1
+      run: 1
+    itemId: 
 --- !u!1001 &1308038975749611701
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1760,6 +2791,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1310417475311671670, guid: 9f76e89e0d1d448f0a69ec49fa843380, type: 3}
+      propertyPath: m_Radius
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310417475311671670, guid: 9f76e89e0d1d448f0a69ec49fa843380, type: 3}
+      propertyPath: m_Offset.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310417475311671670, guid: 9f76e89e0d1d448f0a69ec49fa843380, type: 3}
+      propertyPath: m_Offset.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1338209045854342148, guid: 9f76e89e0d1d448f0a69ec49fa843380, type: 3}
+      propertyPath: m_Name
+      value: Cucumber
+      objectReference: {fileID: 0}
+    - target: {fileID: 1338209045854342148, guid: 9f76e89e0d1d448f0a69ec49fa843380, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 3908466939174265530, guid: 9f76e89e0d1d448f0a69ec49fa843380, type: 3}
       propertyPath: m_LocalPosition.x
       value: -316.6
@@ -1803,6 +2854,10 @@ PrefabInstance:
     - target: {fileID: 4633887495893550621, guid: 9f76e89e0d1d448f0a69ec49fa843380, type: 3}
       propertyPath: m_Name
       value: Pickup_Cucumber
+      objectReference: {fileID: 0}
+    - target: {fileID: 4633887495893550621, guid: 9f76e89e0d1d448f0a69ec49fa843380, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1936,9 +2991,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 636949886}
     m_Modifications:
+    - target: {fileID: 462985303958820869, guid: 4e94bc4c6f0a4444ebe800b38070d23e, type: 3}
+      propertyPath: m_Size.x
+      value: 43.138226
+      objectReference: {fileID: 0}
+    - target: {fileID: 462985303958820869, guid: 4e94bc4c6f0a4444ebe800b38070d23e, type: 3}
+      propertyPath: m_Size.y
+      value: 52.456944
+      objectReference: {fileID: 0}
+    - target: {fileID: 462985303958820869, guid: 4e94bc4c6f0a4444ebe800b38070d23e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 462985303958820869, guid: 4e94bc4c6f0a4444ebe800b38070d23e, type: 3}
+      propertyPath: m_Offset.x
+      value: 1.6573963
+      objectReference: {fileID: 0}
+    - target: {fileID: 462985303958820869, guid: 4e94bc4c6f0a4444ebe800b38070d23e, type: 3}
+      propertyPath: m_Offset.y
+      value: 12.619314
+      objectReference: {fileID: 0}
     - target: {fileID: 1074403418987298453, guid: 4e94bc4c6f0a4444ebe800b38070d23e, type: 3}
       propertyPath: m_Name
       value: Pillbug
+      objectReference: {fileID: 0}
+    - target: {fileID: 1074403418987298453, guid: 4e94bc4c6f0a4444ebe800b38070d23e, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 1431587349804914340, guid: 4e94bc4c6f0a4444ebe800b38070d23e, type: 3}
+      propertyPath: m_UseFullKinematicContacts
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4961585149210796845, guid: 4e94bc4c6f0a4444ebe800b38070d23e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1983,7 +3066,13 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1074403418987298453, guid: 4e94bc4c6f0a4444ebe800b38070d23e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1164109768}
+    - targetCorrespondingSourceObject: {fileID: 1074403418987298453, guid: 4e94bc4c6f0a4444ebe800b38070d23e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1164109767}
   m_SourcePrefab: {fileID: 100100000, guid: 4e94bc4c6f0a4444ebe800b38070d23e, type: 3}
 --- !u!1001 &7496429755303320882
 PrefabInstance:
@@ -2094,9 +3183,21 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3707900840679340304, guid: f23e593e3aabe41f4983937ecfd7f436, type: 3}
+      propertyPath: m_MaskInteraction
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3707900840679340310, guid: f23e593e3aabe41f4983937ecfd7f436, type: 3}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
     - target: {fileID: 3882324271855541970, guid: f23e593e3aabe41f4983937ecfd7f436, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 7126435084377326717, guid: f23e593e3aabe41f4983937ecfd7f436, type: 3}
+      propertyPath: m_SpriteSortPoint
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2113,6 +3214,7 @@ SceneRoots:
   - {fileID: 7628740546893658831}
   - {fileID: 1305292850}
   - {fileID: 159900629}
+  - {fileID: 1720413178}
   - {fileID: 15091192}
   - {fileID: 636949886}
   - {fileID: 1308038975749611701}
