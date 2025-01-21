@@ -72,6 +72,7 @@ public class InteractableObject : Interactable
             Debug.LogError("Interactable is already running");
             return;
         }
+        _isRunning = true;
         StartCoroutine(RunGraph());
     }
 

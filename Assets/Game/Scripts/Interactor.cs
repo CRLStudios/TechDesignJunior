@@ -38,10 +38,15 @@ public class Interactor : MonoBehaviour
 
     private void Update()
     {
+        if (Interactable.IsRunning)
+        {
+            return;
+        }
+        
         canActivate.Clear();
         foreach ( var interactable in overlapping)
         {
-            if (interactable.CanActivate(true))
+            if (interactable.CanActivate() && !interactable.ActivateOnTriggerEnter)
             {
                 canActivate.Add(interactable);
             }
@@ -57,7 +62,7 @@ public class Interactor : MonoBehaviour
         }
 
         var canBeActivated = interactable.CanActivate();
-        if (canBeActivated)
+        if (canBeActivated && !interactable.ActivateOnTriggerEnter)
         {
             canActivate.Add(interactable);
         }
@@ -92,6 +97,7 @@ public class Interactor : MonoBehaviour
             }
 
             interactable.Activate();
+            HideInteractionAlert();
             return true;
         }
         return false;
@@ -103,7 +109,7 @@ public class Interactor : MonoBehaviour
         {
             ShowInteractionAlert();
         }
-        else if (isShowingAlert && canActivate.Count == 0)
+        else if (isShowingAlert && (canActivate.Count == 0 || Interactable.IsRunning))
         {
             HideInteractionAlert();
         }
