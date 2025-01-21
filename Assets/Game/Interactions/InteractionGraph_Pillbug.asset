@@ -1,0 +1,1104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9063100317332903272
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e530a550a347a388628442de2f58ba, type: 3}
+  m_Name: Get Progress Flag
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -376, y: -88}
+  ports:
+    keys:
+    - previous
+    - value
+    values:
+    - _fieldName: previous
+      _node: {fileID: -9063100317332903272}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: next
+        node: {fileID: 5322272757030655988}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: value
+      _node: {fileID: -9063100317332903272}
+      _typeQualifiedName: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: input
+        node: {fileID: -5492807580245512561}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  value: 0
+  flagName: Pillbug
+--- !u!114 &-7845598326641364217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2711ad0cc65a4b0580a59e03d4173f56, type: 3}
+  m_Name: Interaction Cutscene
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 2168, y: 472}
+  ports:
+    keys:
+    - previous
+    - next
+    values:
+    - _fieldName: previous
+      _node: {fileID: -7845598326641364217}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: false
+        node: {fileID: -72899391057524833}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: next
+      _node: {fileID: -7845598326641364217}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -7520167071846219556}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  cutsceneId: Cutscene_Pillbug_CucumberBefore
+--- !u!114 &-7759803860870066376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2711ad0cc65a4b0580a59e03d4173f56, type: 3}
+  m_Name: Interaction Cutscene
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 1320, y: 88}
+  ports:
+    keys:
+    - previous
+    - next
+    values:
+    - _fieldName: previous
+      _node: {fileID: -7759803860870066376}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: true
+        node: {fileID: -5062167353931990932}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: next
+      _node: {fileID: -7759803860870066376}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -4855267569879293402}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  cutsceneId: Cutscene_Pillbug_Fish
+--- !u!114 &-7520167071846219556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d19c6aaa1387495585f9d052ae4173f9, type: 3}
+  m_Name: Increment Progress Flag
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 2520, y: 392}
+  ports:
+    keys:
+    - previous
+    - next
+    values:
+    - _fieldName: previous
+      _node: {fileID: -7520167071846219556}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: next
+        node: {fileID: 6031878279004087860}
+        reroutePoints: []
+      - fieldName: next
+        node: {fileID: -7845598326641364217}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: next
+      _node: {fileID: -7520167071846219556}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -6275861679610717181}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  flagName: Pillbug
+  amount: 4
+--- !u!114 &-6495321970187578588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e530a550a347a388628442de2f58ba, type: 3}
+  m_Name: Get Progress Flag
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 152, y: -56}
+  ports:
+    keys:
+    - previous
+    - value
+    values:
+    - _fieldName: previous
+      _node: {fileID: -6495321970187578588}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: false
+        node: {fileID: -5492807580245512561}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: value
+      _node: {fileID: -6495321970187578588}
+      _typeQualifiedName: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: input
+        node: {fileID: -4327418843401045616}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  value: 0
+  flagName: Pillbug
+--- !u!114 &-6275861679610717181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28ff1d9796e483aa6c337989024956e, type: 3}
+  m_Name: Interaction Exit
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 2840, y: 376}
+  ports:
+    keys:
+    - previous
+    values:
+    - _fieldName: previous
+      _node: {fileID: -6275861679610717181}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: next
+        node: {fileID: -7520167071846219556}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+--- !u!114 &-5492807580245512561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 133e30de4e7a4a3e9637fc5899b3e23c, type: 3}
+  m_Name: Greater Than
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -136, y: -88}
+  ports:
+    keys:
+    - input
+    - true
+    - false
+    values:
+    - _fieldName: input
+      _node: {fileID: -5492807580245512561}
+      _typeQualifiedName: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: value
+        node: {fileID: -9063100317332903272}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: true
+      _node: {fileID: -5492807580245512561}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: 4224135232377640261}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: false
+      _node: {fileID: -5492807580245512561}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -6495321970187578588}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  input: 0
+  value: 2
+--- !u!114 &-5062167353931990932
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eef865826d6410f8ad4ee3297a39f1f, type: 3}
+  m_Name: Has Item
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 744, y: 88}
+  ports:
+    keys:
+    - previous
+    - true
+    - false
+    values:
+    - _fieldName: previous
+      _node: {fileID: -5062167353931990932}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: false
+        node: {fileID: -4327418843401045616}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: true
+      _node: {fileID: -5062167353931990932}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -7759803860870066376}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: false
+      _node: {fileID: -5062167353931990932}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: 8204210524966245077}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  itemId: Fish
+--- !u!114 &-4855267569879293402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d19c6aaa1387495585f9d052ae4173f9, type: 3}
+  m_Name: Increment Progress Flag
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 1896, y: 88}
+  ports:
+    keys:
+    - previous
+    - next
+    values:
+    - _fieldName: previous
+      _node: {fileID: -4855267569879293402}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: next
+        node: {fileID: -7759803860870066376}
+        reroutePoints: []
+      - fieldName: next
+        node: {fileID: 107821465397863546}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: next
+      _node: {fileID: -4855267569879293402}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -3322789145892208948}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  flagName: Pillbug
+  amount: 1
+--- !u!114 &-4327418843401045616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfd9295248a54047ab3806ac36ce91c9, type: 3}
+  m_Name: Less Than Or Equals
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 472, y: -72}
+  ports:
+    keys:
+    - input
+    - true
+    - false
+    values:
+    - _fieldName: input
+      _node: {fileID: -4327418843401045616}
+      _typeQualifiedName: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: value
+        node: {fileID: -6495321970187578588}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: true
+      _node: {fileID: -4327418843401045616}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: 8865812846528294352}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: false
+      _node: {fileID: -4327418843401045616}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -5062167353931990932}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  input: 0
+  value: 0
+--- !u!114 &-3322789145892208948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28ff1d9796e483aa6c337989024956e, type: 3}
+  m_Name: Interaction Exit
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 2168, y: 104}
+  ports:
+    keys:
+    - previous
+    values:
+    - _fieldName: previous
+      _node: {fileID: -3322789145892208948}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: next
+        node: {fileID: -4855267569879293402}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+--- !u!114 &-2251956236932065652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28ff1d9796e483aa6c337989024956e, type: 3}
+  m_Name: Interaction Exit
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 2472, y: 664}
+  ports:
+    keys:
+    - previous
+    values:
+    - _fieldName: previous
+      _node: {fileID: -2251956236932065652}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: next
+        node: {fileID: 3415954997255533163}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+--- !u!114 &-72899391057524833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7f57d1467d74ff9a5dbd0565e2f7fdf, type: 3}
+  m_Name: Greater Than Or Equals
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 1832, y: 344}
+  ports:
+    keys:
+    - input
+    - true
+    - false
+    values:
+    - _fieldName: input
+      _node: {fileID: -72899391057524833}
+      _typeQualifiedName: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: value
+        node: {fileID: 6190556488515239196}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: true
+      _node: {fileID: -72899391057524833}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: 6031878279004087860}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: false
+      _node: {fileID: -72899391057524833}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -7845598326641364217}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  input: 0
+  value: 2
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9d2a4cbbf0a9486abf9559d23cc7e20, type: 3}
+  m_Name: InteractionGraph_Pillbug
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 5322272757030655988}
+  - {fileID: 8865812846528294352}
+  - {fileID: -3322789145892208948}
+  - {fileID: 3415954997255533163}
+  - {fileID: 4504751048005127518}
+  - {fileID: -4327418843401045616}
+  - {fileID: -2251956236932065652}
+  - {fileID: 4224135232377640261}
+  - {fileID: 5730363392125483273}
+  - {fileID: -5062167353931990932}
+  - {fileID: -4855267569879293402}
+  - {fileID: -7759803860870066376}
+  - {fileID: -7845598326641364217}
+  - {fileID: 8204210524966245077}
+  - {fileID: 107821465397863546}
+  - {fileID: 2803981441968442661}
+  - {fileID: 6190556488515239196}
+  - {fileID: -72899391057524833}
+  - {fileID: 6031878279004087860}
+  - {fileID: -6275861679610717181}
+  - {fileID: -5492807580245512561}
+  - {fileID: -9063100317332903272}
+  - {fileID: -6495321970187578588}
+  - {fileID: -7520167071846219556}
+--- !u!114 &107821465397863546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2711ad0cc65a4b0580a59e03d4173f56, type: 3}
+  m_Name: Interaction Cutscene
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 1320, y: 248}
+  ports:
+    keys:
+    - previous
+    - next
+    values:
+    - _fieldName: previous
+      _node: {fileID: 107821465397863546}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: true
+        node: {fileID: 8204210524966245077}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: next
+      _node: {fileID: 107821465397863546}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -4855267569879293402}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  cutsceneId: Cutscene_Pillbug_Ladybug
+--- !u!114 &2803981441968442661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eef865826d6410f8ad4ee3297a39f1f, type: 3}
+  m_Name: Has Item
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 1304, y: 392}
+  ports:
+    keys:
+    - previous
+    - true
+    - false
+    values:
+    - _fieldName: previous
+      _node: {fileID: 2803981441968442661}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: false
+        node: {fileID: 8204210524966245077}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: true
+      _node: {fileID: 2803981441968442661}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: 6190556488515239196}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: false
+      _node: {fileID: 2803981441968442661}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: 3415954997255533163}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  itemId: Cucumber
+--- !u!114 &3415954997255533163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2711ad0cc65a4b0580a59e03d4173f56, type: 3}
+  m_Name: Interaction Cutscene
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 2168, y: 648}
+  ports:
+    keys:
+    - previous
+    - next
+    values:
+    - _fieldName: previous
+      _node: {fileID: 3415954997255533163}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: false
+        node: {fileID: 2803981441968442661}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: next
+      _node: {fileID: 3415954997255533163}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -2251956236932065652}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  cutsceneId: Cutscene_Pillbug_NoItems
+--- !u!114 &4224135232377640261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28ff1d9796e483aa6c337989024956e, type: 3}
+  m_Name: Interaction Exit
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 152, y: -200}
+  ports:
+    keys:
+    - previous
+    values:
+    - _fieldName: previous
+      _node: {fileID: 4224135232377640261}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: true
+        node: {fileID: -5492807580245512561}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+--- !u!114 &4504751048005127518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d19c6aaa1387495585f9d052ae4173f9, type: 3}
+  m_Name: Increment Progress Flag
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 1000, y: -56}
+  ports:
+    keys:
+    - previous
+    - next
+    values:
+    - _fieldName: previous
+      _node: {fileID: 4504751048005127518}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: next
+        node: {fileID: 8865812846528294352}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: next
+      _node: {fileID: 4504751048005127518}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: 5730363392125483273}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  flagName: Pillbug
+  amount: 1
+--- !u!114 &5322272757030655988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcac5273e4c34a23943468b450ed93b0, type: 3}
+  m_Name: Interaction Start
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -648, y: -72}
+  ports:
+    keys:
+    - next
+    values:
+    - _fieldName: next
+      _node: {fileID: 5322272757030655988}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -9063100317332903272}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+--- !u!114 &5730363392125483273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28ff1d9796e483aa6c337989024956e, type: 3}
+  m_Name: Interaction Exit
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 1304, y: -184}
+  ports:
+    keys:
+    - previous
+    values:
+    - _fieldName: previous
+      _node: {fileID: 5730363392125483273}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: next
+        node: {fileID: 4504751048005127518}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+--- !u!114 &6031878279004087860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2711ad0cc65a4b0580a59e03d4173f56, type: 3}
+  m_Name: Interaction Cutscene
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 2168, y: 344}
+  ports:
+    keys:
+    - previous
+    - next
+    values:
+    - _fieldName: previous
+      _node: {fileID: 6031878279004087860}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: true
+        node: {fileID: -72899391057524833}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: next
+      _node: {fileID: 6031878279004087860}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -7520167071846219556}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  cutsceneId: Cutscene_Pillbug_CucumberAfter
+--- !u!114 &6190556488515239196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e530a550a347a388628442de2f58ba, type: 3}
+  m_Name: Get Progress Flag
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 1576, y: 344}
+  ports:
+    keys:
+    - previous
+    - value
+    values:
+    - _fieldName: previous
+      _node: {fileID: 6190556488515239196}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: true
+        node: {fileID: 2803981441968442661}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: value
+      _node: {fileID: 6190556488515239196}
+      _typeQualifiedName: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: input
+        node: {fileID: -72899391057524833}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  value: 0
+  flagName: Pillbug
+--- !u!114 &8204210524966245077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eef865826d6410f8ad4ee3297a39f1f, type: 3}
+  m_Name: Has Item
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 1000, y: 248}
+  ports:
+    keys:
+    - previous
+    - true
+    - false
+    values:
+    - _fieldName: previous
+      _node: {fileID: 8204210524966245077}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: false
+        node: {fileID: -5062167353931990932}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: true
+      _node: {fileID: 8204210524966245077}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: 107821465397863546}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: false
+      _node: {fileID: 8204210524966245077}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: 2803981441968442661}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  itemId: Ladybug
+--- !u!114 &8865812846528294352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2711ad0cc65a4b0580a59e03d4173f56, type: 3}
+  m_Name: Interaction Cutscene
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 744, y: -56}
+  ports:
+    keys:
+    - previous
+    - next
+    values:
+    - _fieldName: previous
+      _node: {fileID: 8865812846528294352}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: true
+        node: {fileID: -4327418843401045616}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: next
+      _node: {fileID: 8865812846528294352}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: 4504751048005127518}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  cutsceneId: Cutscene_Pillbug_First

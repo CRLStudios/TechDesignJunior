@@ -1,4 +1,4 @@
-# Junior Tech Designer
+# Junior Tech Designer - KJ
 This is a Technical Design test written for applicants of Pracy Studios.
 
 ## Instructions

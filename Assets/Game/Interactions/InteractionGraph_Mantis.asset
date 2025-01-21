@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Interaction Cutscene
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 24, y: -104}
+  position: {x: 728, y: -632}
   ports:
     keys:
     - previous
@@ -24,8 +24,8 @@ MonoBehaviour:
       _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
       connections:
-      - fieldName: false
-        node: {fileID: -1390657988227422989}
+      - fieldName: true
+        node: {fileID: 7132343948649089531}
         reroutePoints: []
       _direction: 0
       _connectionType: 0
@@ -43,7 +43,7 @@ MonoBehaviour:
       _connectionType: 1
       _typeConstraint: 0
       _dynamic: 0
-  cutsceneId: Cutscene_Mantis_1
+  cutsceneId: Cutscene_Mantis_FedCucumber
 --- !u!114 &-5413627980075730429
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57,7 +57,7 @@ MonoBehaviour:
   m_Name: Interaction Cutscene
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 184, y: -360}
+  position: {x: 728, y: -200}
   ports:
     keys:
     - previous
@@ -68,8 +68,8 @@ MonoBehaviour:
       _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
       connections:
-      - fieldName: next
-        node: {fileID: 7572494758350796355}
+      - fieldName: true
+        node: {fileID: -1390657988227422989}
         reroutePoints: []
       _direction: 0
       _connectionType: 0
@@ -87,7 +87,95 @@ MonoBehaviour:
       _connectionType: 1
       _typeConstraint: 0
       _dynamic: 0
-  cutsceneId: Cutscene_Mantis_0
+  cutsceneId: Cutscene_Mantis_NoPillbug
+--- !u!114 &-3971312875677348748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2711ad0cc65a4b0580a59e03d4173f56, type: 3}
+  m_Name: Interaction Cutscene
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 728, y: -344}
+  ports:
+    keys:
+    - previous
+    - next
+    values:
+    - _fieldName: previous
+      _node: {fileID: -3971312875677348748}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: false
+        node: {fileID: 6877289629948431337}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: next
+      _node: {fileID: -3971312875677348748}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -1236231804274593522}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  cutsceneId: Cutscene_Mantis_NoCucumber
+--- !u!114 &-3419578177981755148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2711ad0cc65a4b0580a59e03d4173f56, type: 3}
+  m_Name: Interaction Cutscene
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 728, y: -504}
+  ports:
+    keys:
+    - previous
+    - next
+    values:
+    - _fieldName: previous
+      _node: {fileID: -3419578177981755148}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: true
+        node: {fileID: 6877289629948431337}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: next
+      _node: {fileID: -3419578177981755148}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -1236231804274593522}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  cutsceneId: Cutscene_Mantis_Cucumber
 --- !u!114 &-1390657988227422989
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -101,7 +189,7 @@ MonoBehaviour:
   m_Name: Less Than Or Equals
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: -440, y: -248}
+  position: {x: -552, y: -152}
   ports:
     keys:
     - input
@@ -126,7 +214,7 @@ MonoBehaviour:
         Culture=neutral, PublicKeyToken=null
       connections:
       - fieldName: previous
-        node: {fileID: 7572494758350796355}
+        node: {fileID: -5413627980075730429}
         reroutePoints: []
       _direction: 1
       _connectionType: 1
@@ -138,7 +226,7 @@ MonoBehaviour:
         Culture=neutral, PublicKeyToken=null
       connections:
       - fieldName: previous
-        node: {fileID: -8044892392848371721}
+        node: {fileID: -1389037690010903479}
         reroutePoints: []
       _direction: 1
       _connectionType: 1
@@ -146,6 +234,51 @@ MonoBehaviour:
       _dynamic: 0
   input: 0
   value: 0
+--- !u!114 &-1389037690010903479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e530a550a347a388628442de2f58ba, type: 3}
+  m_Name: Get Progress Flag
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -296, y: -296}
+  ports:
+    keys:
+    - previous
+    - value
+    values:
+    - _fieldName: previous
+      _node: {fileID: -1389037690010903479}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: false
+        node: {fileID: -1390657988227422989}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: value
+      _node: {fileID: -1389037690010903479}
+      _typeQualifiedName: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: input
+        node: {fileID: 7132343948649089531}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  value: 0
+  flagName: Pillbug
 --- !u!114 &-1236231804274593522
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -159,7 +292,7 @@ MonoBehaviour:
   m_Name: Interaction Exit
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 568, y: -200}
+  position: {x: 1432, y: -168}
   ports:
     keys:
     - previous
@@ -174,6 +307,12 @@ MonoBehaviour:
         reroutePoints: []
       - fieldName: next
         node: {fileID: -8044892392848371721}
+        reroutePoints: []
+      - fieldName: next
+        node: {fileID: -3419578177981755148}
+        reroutePoints: []
+      - fieldName: next
+        node: {fileID: -3971312875677348748}
         reroutePoints: []
       _direction: 0
       _connectionType: 0
@@ -197,8 +336,12 @@ MonoBehaviour:
   - {fileID: 5748297959409496853}
   - {fileID: -5413627980075730429}
   - {fileID: -8044892392848371721}
-  - {fileID: 7572494758350796355}
   - {fileID: -1390657988227422989}
+  - {fileID: -1389037690010903479}
+  - {fileID: 7132343948649089531}
+  - {fileID: 6877289629948431337}
+  - {fileID: -3419578177981755148}
+  - {fileID: -3971312875677348748}
 --- !u!114 &5748297959409496853
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -212,7 +355,7 @@ MonoBehaviour:
   m_Name: Get Progress Flag
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: -728, y: -264}
+  position: {x: -776, y: -152}
   ports:
     keys:
     - previous
@@ -243,8 +386,8 @@ MonoBehaviour:
       _typeConstraint: 0
       _dynamic: 0
   value: 0
-  flagName: Mantis
---- !u!114 &7572494758350796355
+  flagName: Pillbug
+--- !u!114 &6877289629948431337
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -253,42 +396,112 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d19c6aaa1387495585f9d052ae4173f9, type: 3}
-  m_Name: Increment Progress Flag
+  m_Script: {fileID: 11500000, guid: 1eef865826d6410f8ad4ee3297a39f1f, type: 3}
+  m_Name: Has Item
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: -120, y: -376}
+  position: {x: 408, y: -424}
   ports:
     keys:
     - previous
-    - next
+    - true
+    - false
     values:
     - _fieldName: previous
-      _node: {fileID: 7572494758350796355}
+      _node: {fileID: 6877289629948431337}
       _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
       connections:
-      - fieldName: true
-        node: {fileID: -1390657988227422989}
+      - fieldName: false
+        node: {fileID: 7132343948649089531}
         reroutePoints: []
       _direction: 0
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-    - _fieldName: next
-      _node: {fileID: 7572494758350796355}
+    - _fieldName: true
+      _node: {fileID: 6877289629948431337}
       _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
       connections:
       - fieldName: previous
-        node: {fileID: -5413627980075730429}
+        node: {fileID: -3419578177981755148}
         reroutePoints: []
       _direction: 1
       _connectionType: 1
       _typeConstraint: 0
       _dynamic: 0
-  flagName: Mantis
-  amount: 1
+    - _fieldName: false
+      _node: {fileID: 6877289629948431337}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -3971312875677348748}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  itemId: Cucumber
+--- !u!114 &7132343948649089531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7f57d1467d74ff9a5dbd0565e2f7fdf, type: 3}
+  m_Name: Greater Than Or Equals
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -8, y: -456}
+  ports:
+    keys:
+    - input
+    - true
+    - false
+    values:
+    - _fieldName: input
+      _node: {fileID: 7132343948649089531}
+      _typeQualifiedName: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: value
+        node: {fileID: -1389037690010903479}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: true
+      _node: {fileID: 7132343948649089531}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: -8044892392848371721}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: false
+      _node: {fileID: 7132343948649089531}
+      _typeQualifiedName: InteractionNodeConnection, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: previous
+        node: {fileID: 6877289629948431337}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  input: 0
+  value: 3
 --- !u!114 &8346795434737894709
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -302,7 +515,7 @@ MonoBehaviour:
   m_Name: Interaction Start
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: -968, y: -248}
+  position: {x: -1032, y: -136}
   ports:
     keys:
     - next
