@@ -15,10 +15,10 @@ Note: One of the known bugs requires a small code change to fix. The rest of the
 ## Objectives
 - Fix all bugs in the "Known Bugs" section.
 - Implement the following:
-- 1) Setup the scene colliders. The player should not be able to pass through any walls, trees, lamps, bridge rails, water, nor walk completely off the edge of the screen.
-- 2) Implement the "Pillbug" cutscene.
-- 3) Implement the "Mantis" cutscene.
-- 4) Implement the "End" cutscene.
+  1) Setup the scene colliders. The player should not be able to pass through any walls, trees, lamps, bridge rails, water, nor walk completely off the edge of the screen.
+  2) Implement the "Pillbug" cutscene.
+  3) Implement the "Mantis" cutscene.
+  4) Implement the "End" cutscene.
 
 ## In-Game Controls
 - Use the Arrow Keys or WSAD to move around.
@@ -27,22 +27,24 @@ Note: One of the known bugs requires a small code change to fix. The rest of the
 - Hold Shift to run.
 
 ## Documentation
+#### Inventory
 - Player's inventory can only hold one item. If the player picks up an item while holding a different item the currently held item will be returned to its original position.
-- Progress Flags
-	- Progress flags are Key-Value pairs that are used to record events that have happened or things the player has done.
-	- The progress flag name is the same as the Key and can be any string. Any progress flag Key can be used in the graph and the value will default to 0 if it has not been set or incremented.
-	- The default value of a progress flag that has not been set or incremented is 0.
-	- There is also a ProgressFlagEnabler component that can be used to enable or disable game objects depending on the value of a progress flag.
-- Interactions
-	- InteractableObjects are used to start cutscenes and set progress flags. They require an InteractableGraph asset to decide if they can run or not.
-	- You can add an InteractableObject component to a character to create an interactable NPC.
-	- InteractableGraphs are scriptable objects that contain a graph of nodes. These node types control the branching of cutscenes.
-	- You can create interactable graph options by using the create menu in the project tab.
-	- Select an interactable graph and click the edit button in the inspector tab to open the graph editor window.
-	- Right click in the editor graph window to show a menu of nodes that can be added to the graph.
-	- Start a graph by adding a Interactable Start Node and an Interactable Exit Node. The interaction will flow from the Start node towards the Exit node.
-	- You can use the Set Progress Flag and Get Progress Flag nodes to do branching logic inside of interactable graphs.
-	- An interactable object can only be activated by the player if the current branching path in the interactable graph contains a node associated with an action such as running a cutscene or setting a progress flag. If the graph gets to the Exit node without encountering an action node it will not display the interaction alert to the player and will not trigger a cutscene.
+- Items are identified with an itemId which is just a string.
+#### Progress Flags
+- Progress flags are Key-Value pairs that are used to record events that have happened or things the player has done.
+- The progress flag name is the same as the Key and can be any string. Any progress flag Key can be used in the graph and the value will default to 0 if it has not been set or incremented.
+- The default value of a progress flag that has not been set or incremented is 0.
+- There is also a ProgressFlagEnabler component that can be used to enable or disable game objects depending on the value of a progress flag.
+#### Interactions
+- InteractableObjects are used to start cutscenes and set progress flags. They require an InteractableGraph asset to decide if they can run or not.
+- You can add an InteractableObject component to a character to create an interactable NPC.
+- InteractableGraphs are ScriptableObjects that contain a graph of nodes. These node types control the branching of cutscenes.
+- You can create an interactable graph by using the create menu in the project tab.
+- Select an interactable graph and click the edit button in the inspector tab to open the graph editor window.
+- Right click in the editor graph window to show a menu of nodes that can be added to the graph.
+- Start a graph by adding a Interactable Start Node and an Interactable Exit Node. The interaction will flow from the Start node towards the Exit node.
+- You can use the Set Progress Flag, Get Progress Flag, and Has Item nodes to do branching logic inside of interactable graphs.
+- An interactable object can only be activated by the player if the current branching path in the interactable graph contains a node associated with an action such as running a cutscene or setting a progress flag. If the graph gets to the Exit node without encountering an action node it will not display the interaction alert to the player and will not trigger a cutscene.
 
 ## Cutscenes
 - You can create a cutscene using the Cutscene component.
